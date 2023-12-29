@@ -18,7 +18,7 @@
 
 | Name                  | Count | Description                                                |
 |-----------------------|-------|------------------------------------------------------------|
-| MultiMedQA 140        | 140   | Sample from HealthSearchQA, LiveQA, MedicationQA [1]       |
-| MultiMedQA 1066       | 1066  | Sample from HealthSearchQA, LiveQA, MedicationQA (Extended from [1])|
+| MultiMedQA 140        | 140   | Sample from HealthSearchQA, LiveQA, MedicationQA     |
+| MultiMedQA 1066       | 1066  | Sample from HealthSearchQA, LiveQA, MedicationQA|
 | Adversarial (General) | 58    | General adversarial dataset                                |
 | Adversarial (Health equity) | 182  | Health equity adversarial dataset                        |
