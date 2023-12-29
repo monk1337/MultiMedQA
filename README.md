@@ -1,4 +1,12 @@
-# MultiMedQA
+<div align="center">
+<img width="110px" src="https://raw.githubusercontent.com/monk1337/MultiMedQA/main/assets/datasets.png">
+<h1>MultiMedQA</h1></div>
+<!-- 
+<h2 align="center">MultiMedQA</h2> -->
+
+
+## Installation
+
 
 ### Table 1 | Multiple-choice question evaluation datasets.
 
