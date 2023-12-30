@@ -1,0 +1,1476 @@
+[
+    {
+        "id": "a13fb29b-4868-47b4-b9c5-cec499bcfb31",
+        "data": {
+            "input": "A \"dished face\" profile is often associated with",
+            "A": "a protruding mandible due to reactivation of the condylar cartilage by acromegaly.",
+            "B": "a recessive maxilla due to failure of elongation of the cranial base.",
+            "C": "an enlarged frontal bone due to hydrocephaly.",
+            "D": "defective development of the maxillary air sinus.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "fda07c98-8fb0-4271-9ea3-a7f52a151346",
+        "data": {
+            "input": "Which of the following best describes the structure that collects urine in the body?",
+            "A": "Bladder",
+            "B": "Kidney",
+            "C": "Ureter",
+            "D": "Urethra",
+            "target": "A"
+        }
+    },
+    {
+        "id": "5af0828c-9bbc-477a-8cb9-5a99e487b8ad",
+        "data": {
+            "input": "Which of the following structures is derived from ectomesenchyme?",
+            "A": "Motor neurons",
+            "B": "Skeletal muscles",
+            "C": "Melanocytes",
+            "D": "Sweat glands",
+            "target": "C"
+        }
+    },
+    {
+        "id": "772507d5-b4f6-48bb-96d6-b537a35f0b5c",
+        "data": {
+            "input": "Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?",
+            "A": "Afferent arteriole",
+            "B": "Glomerulus",
+            "C": "Loop of Henle",
+            "D": "Renal pelvis",
+            "target": "B"
+        }
+    },
+    {
+        "id": "ca07b828-2932-40c3-91c2-9f9c7758571b",
+        "data": {
+            "input": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.",
+            "A": "They will be unable to breathe without life support.",
+            "B": "They will only be able to breathe quietly.",
+            "C": "It is impossible to predict an effect on breathing.",
+            "D": "Breathing will be unaffected.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "ee8d0270-7796-44ea-a614-bb09593317b5",
+        "data": {
+            "input": "Which of the following anatomical regions of abdomen lies just distal to the sternum?",
+            "A": "Epigastric",
+            "B": "Hypochondriac",
+            "C": "Hypogastric",
+            "D": "Lumbar",
+            "target": "A"
+        }
+    },
+    {
+        "id": "571351fe-0905-4b2b-9497-38042a589404",
+        "data": {
+            "input": "Which of the following best describes the human body's defense mechanism against environmental bacteria?",
+            "A": "Hair in the nose",
+            "B": "Mucous membranes",
+            "C": "Osteoblasts",
+            "D": "Saliva",
+            "target": "B"
+        }
+    },
+    {
+        "id": "dc2fba51-efc7-4e1f-8a3d-3a33a88ac306",
+        "data": {
+            "input": "The palatine processes begin to fuse at",
+            "A": "six weeks post-fertilization.",
+            "B": "eight weeks post-fertilization.",
+            "C": "ten weeks post-fertilization.",
+            "D": "twelve weeks post-fertilization.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "bf044031-7685-4ae5-8422-81454441e17a",
+        "data": {
+            "input": "Primary motor cortex activity results in",
+            "A": "bilateral contraction of antigravity limb muscles.",
+            "B": "bilateral contraction of limb musculature.",
+            "C": "contraction of ipsilateral limb musculature.",
+            "D": "contraction of contralateral limb musculature.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "c26ae86f-5c01-4abf-8b6c-368a1102e898",
+        "data": {
+            "input": "You notice that your patient's submandibular lymph nodes are enlarged. You would look for potential infection sites in the",
+            "A": "hard palate.",
+            "B": "hard palate and upper lip.",
+            "C": "hard palate, upper lip and upper central incisor.",
+            "D": "hard palate, upper lip, upper central incisor and lower first molar.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "40571cf6-1269-4344-a66f-2d01266d33e6",
+        "data": {
+            "input": "A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which of the following signs will be present?",
+            "A": "Pupillary constriction and a medial strabismus",
+            "B": "Pupillary dilatation and a medial strabismus",
+            "C": "Pupillary constriction and a lateral strabismus",
+            "D": "Pupillary dilatation and a lateral strabismus",
+            "target": "D"
+        }
+    },
+    {
+        "id": "af521a72-5ea9-4c56-bf55-ebfb0ad9e228",
+        "data": {
+            "input": "Which of the following statements is true of the temporomandibular joint?",
+            "A": "It has an articular disc of hyaline cartilage",
+            "B": "Its articular surfaces are covered by hyaline cartilage",
+            "C": "Proprioceptive information is carried by the chorda tympani and deep temporal nerves",
+            "D": "Proprioceptive information is carried by the masseteric and auriculotemporal nerves.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "34ffbd65-ed1b-4935-8abc-2eb0cb5aabe6",
+        "data": {
+            "input": "Laryngoscopic examination of the vocal folds after suspected recurrent laryngeal nerve damage usually shows that the vocal fold on the injured side is tensed and in an intermediate position between adduction and abduction. This is because",
+            "A": "cricothyroid muscle is still functional but the interarytenoid muscles are fully active.",
+            "B": "cricothyroid muscle is still functional but the interarytenoids are weak.",
+            "C": "cricothyroid muscle is paralyzed but the interarytenoids are fully active.",
+            "D": "cricothyroid muscle is paralyzed but the interarytenoids are weak.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "25686981-bcc5-4628-abb6-c365b88869e2",
+        "data": {
+            "input": "Which one of the following statements about the growth of the mandible is correct?",
+            "A": "The mental symphysis closes at about 1 year postnatally",
+            "B": "The condylar growth cartilage ceases activity at puberty",
+            "C": "The ossification centre appears about 8 weeks I.U.L medial to Meckel's cartilage",
+            "D": "The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle",
+            "target": "A"
+        }
+    },
+    {
+        "id": "f9307122-1bc8-48ac-b94a-214e13691bb4",
+        "data": {
+            "input": "Which of the following statements is true of the pupillary light reflex?",
+            "A": "Its efferent limb is carried in the optic nerve",
+            "B": "It is mediated by the inferior colliculi in the midbrain",
+            "C": "It is a consensual reflex",
+            "D": "Its afferent limb is carried in the oculomotor nerve",
+            "target": "C"
+        }
+    },
+    {
+        "id": "2c646299-4931-48e3-99de-fc1cd939b1f7",
+        "data": {
+            "input": "Which muscles are normally active during quiet inspiration?",
+            "A": "External and internal intercostal muscles",
+            "B": "External intercostal muscles and diaphragm",
+            "C": "Internal intercostal muscles and diaphragm",
+            "D": "External and internal intercostal muscles and diaphragm",
+            "target": "B"
+        }
+    },
+    {
+        "id": "967e1dde-b26d-4962-91a4-2cc48c84eae8",
+        "data": {
+            "input": "Male hormones are produced by which of the following?",
+            "A": "Glans penis",
+            "B": "Prepuce",
+            "C": "Prostate",
+            "D": "Testes",
+            "target": "D"
+        }
+    },
+    {
+        "id": "4dff65a6-a732-44b4-bf88-bb725c3c5cd6",
+        "data": {
+            "input": "Oxygenated blood is carried to the heart by which of the following structures?",
+            "A": "Aorta",
+            "B": "Carotid arteries",
+            "C": "Inferior vena cava",
+            "D": "Pulmonary veins",
+            "target": "D"
+        }
+    },
+    {
+        "id": "f3384c8e-2cde-4d8e-96f2-2ea6494efdfa",
+        "data": {
+            "input": "Which of the following allows air to pass into the lungs?",
+            "A": "Aorta",
+            "B": "Esophagus",
+            "C": "Trachea",
+            "D": "Pancreas",
+            "target": "C"
+        }
+    },
+    {
+        "id": "f594bd45-13de-431b-be5e-abb6c8b35543",
+        "data": {
+            "input": "Where is the sinoatrial node located?",
+            "A": "Between the left atrium and the left ventricle",
+            "B": "Between the right atrium and the right ventricle",
+            "C": "In the upper wall of the right atrium",
+            "D": "In the upper wall of the left ventricle",
+            "target": "C"
+        }
+    },
+    {
+        "id": "efd9fd2d-47bb-4b0d-88b0-e6c918fa0354",
+        "data": {
+            "input": "In relation to the rib, the corresponding intercostal nerve lies",
+            "A": "deep to its superior border.",
+            "B": "superficial to its superior border.",
+            "C": "deep to its inferior border.",
+            "D": "superficial to its inferior border.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "a422d828-ac97-4c28-bed1-b9efbc69712a",
+        "data": {
+            "input": "The regional lymphatic drainage of the left side of the tip of the tongue is to the",
+            "A": "left submental lymph node.",
+            "B": "left and right submental lymph nodes.",
+            "C": "left submandibular lymph node.",
+            "D": "left and right submandibular lymph nodes.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "4aca63e3-323c-485d-ac6a-c1488902454a",
+        "data": {
+            "input": "Gastrulation is the process of",
+            "A": "mesoderm formation and occurs after neurulation.",
+            "B": "ectomesenchyme formation and occurs before neurulation.",
+            "C": "mesoderm formation and occurs before neurulation.",
+            "D": "ectomesenchyme formation and occurs after neurulation.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "361e05c7-c4f7-48bf-8bf1-ad89fdbc8ee7",
+        "data": {
+            "input": "The spheno-occipital synchondrosis",
+            "A": "is a secondary growth cartilage.",
+            "B": "influences the position of the viscerocranium.",
+            "C": "ceases activity at 7 years of age.",
+            "D": "can be reactivated in patients affected by acromegaly.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "ec911b7f-dafe-4432-a88a-ef8f6a7e7197",
+        "data": {
+            "input": "Which of the following substances is found in greater quantity in exhaled air?",
+            "A": "Carbon dioxide",
+            "B": "Carbon monoxide",
+            "C": "Nitrogen",
+            "D": "Oxygen",
+            "target": "C"
+        }
+    },
+    {
+        "id": "fcebe0f0-0e81-41a2-b109-d963b2c279a0",
+        "data": {
+            "input": "Which of the following conditions is characterized by the presence of kidney stones (renal calculi)?",
+            "A": "Glomerulonephritis",
+            "B": "Interstitial nephritis",
+            "C": "Nephrolithiasis",
+            "D": "Polycystic kidney",
+            "target": "C"
+        }
+    },
+    {
+        "id": "a3ac73dd-ef2c-4229-b55a-7e3164612185",
+        "data": {
+            "input": "A pulse may be felt on a patient's face where the",
+            "A": "facial artery crosses the mandible.",
+            "B": "facial artery crosses the maxilla.",
+            "C": "superficial temporal artery crosses the maxilla.",
+            "D": "superficial temporal artery crosses the orbital rim.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "85497348-dff8-4d4c-bb0b-1ad45429ce11",
+        "data": {
+            "input": "A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs is most likely to be involved?",
+            "A": "Appendix",
+            "B": "Gallbladder",
+            "C": "Spleen",
+            "D": "Urinary bladder",
+            "target": "C"
+        }
+    },
+    {
+        "id": "7b7d34c9-28e3-4894-8f9d-97ce7e7c1978",
+        "data": {
+            "input": "Which statement concerning the atrioventricular bundle is correct?",
+            "A": "It is formed of autonomic nerve processes and is the only electrical connection between the atria and the ventricles.",
+            "B": "It is formed of Purkinje fibres and is the only electrical connection between the atria and the ventricles",
+            "C": "It is formed of autonomic nerve processes and forms one of several electrical connections between the atria and ventricles.",
+            "D": "It is formed of Purkinje fibres and forms one of several electrical connections between the atria and ventricles.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "703fec74-3258-464f-a905-c27d66ba9e5f",
+        "data": {
+            "input": "Which of the following terms describes the motion of bending the forearm toward the body?",
+            "A": "Abduction",
+            "B": "Eversion",
+            "C": "Flexion",
+            "D": "Pronation",
+            "target": "C"
+        }
+    },
+    {
+        "id": "5a025bb1-06aa-4474-a921-353fef53f821",
+        "data": {
+            "input": "Food is prevented from entering the larynx during the pharyngeal phase of swallowing by",
+            "A": "constriction of the laryngeal entrance.",
+            "B": "upward movement of the epiglottis.",
+            "C": "downward movement of the larynx.",
+            "D": "increase in respiratory rate.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "5f01b847-3752-4319-9604-0da440463fa2",
+        "data": {
+            "input": "At which of the following locations does bile enter the digestive tract?",
+            "A": "Gastroesophageal sphincter",
+            "B": "Duodenum",
+            "C": "Ileocecum",
+            "D": "Jejunum",
+            "target": "B"
+        }
+    },
+    {
+        "id": "6b2d7afd-4ca2-4b7b-90b6-3633d7afcd94",
+        "data": {
+            "input": "In which of the following positions does a patient lie face down?",
+            "A": "Dorsal",
+            "B": "Erect",
+            "C": "Lateral",
+            "D": "Prone",
+            "target": "B"
+        }
+    },
+    {
+        "id": "613676c7-6ff7-4cb2-8f3a-a191ba231c09",
+        "data": {
+            "input": "Complete bilateral cleft palate is due to failure of fusion of the",
+            "A": "palatine processes.",
+            "B": "palatine and frontonasal processes.",
+            "C": "palatine, frontonasal and secondary nasal processes.",
+            "D": "palatine, frontonasal, secondary nasal processes and mandibular processes.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "79c1201f-fba6-4c1d-9537-8bd9a58d2577",
+        "data": {
+            "input": "The auditory tube",
+            "A": "connects the inner ear and nasopharynx.",
+            "B": "is derived from the second pharyngeal pouch.",
+            "C": "is opened by the action of levator veli palatini.",
+            "D": "is closed by the action of tensor veli palatini.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "b869bc8b-90a1-4131-864b-3964889988b8",
+        "data": {
+            "input": "Which of the following is the lymphoid organ that is a reservoir for red blood cells and filters organisms from the blood?",
+            "A": "Appendix",
+            "B": "Gallbladder",
+            "C": "Pancreas",
+            "D": "Spleen",
+            "target": "D"
+        }
+    },
+    {
+        "id": "1c83f451-77b6-476a-9355-4e3168713055",
+        "data": {
+            "input": "Which of the following cavities are separated by the diaphragm?",
+            "A": "Abdominal and pelvic",
+            "B": "Cranial and spinal",
+            "C": "Thoracic and abdominal",
+            "D": "Pericardial and pleural",
+            "target": "C"
+        }
+    },
+    {
+        "id": "67c033bb-9eaa-4bef-8d4b-3b1e9558867a",
+        "data": {
+            "input": "The walls of bronchioles contain",
+            "A": "cartilage, smooth muscle and respiratory epithelium.",
+            "B": "cartilage and smooth muscle.",
+            "C": "cartilage and respiratory epithelium.",
+            "D": "smooth muscle and respiratory epithelium.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "0dce7ea9-d0bb-464f-baf4-a5ae839213bd",
+        "data": {
+            "input": "Which of the following organs removes bilirubin from the blood, manufactures plasma proteins, and is involved with the production of prothrombin and fibrinogen?",
+            "A": "Gallbladder",
+            "B": "Kidney",
+            "C": "Liver",
+            "D": "Spleen",
+            "target": "C"
+        }
+    },
+    {
+        "id": "d1285446-6dc4-45b8-8b91-eb5697b29947",
+        "data": {
+            "input": "Which of the following conditions is characterized by incompetence of the esophageal sphincter?",
+            "A": "Crohn's disease",
+            "B": "Esophageal varices",
+            "C": "Gastroesophageal reflux disease",
+            "D": "Pyloric stenosis",
+            "target": "C"
+        }
+    },
+    {
+        "id": "18ecab13-d522-460a-a7fa-570bc7f8b0df",
+        "data": {
+            "input": "The muscles of the soft palate are innervated by branches of the",
+            "A": "trigeminal and glossopharyngeal nerves.",
+            "B": "facial and glossopharyngeal nerves.",
+            "C": "trigeminal and vagus nerves.",
+            "D": "facial and vagus nerves.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "133a665f-b558-43c1-8a8b-713e93a4147a",
+        "data": {
+            "input": "Which of the following is the large bone found superior to the patella and inferior to the ischium?",
+            "A": "Calcaneus",
+            "B": "Femur",
+            "C": "Symphysis pubis",
+            "D": "Tibia",
+            "target": "B"
+        }
+    },
+    {
+        "id": "d5f4a25c-7c05-406a-bb41-12377b6109ec",
+        "data": {
+            "input": "A successful inferior alveolar nerve block will produce anaesthesia of the",
+            "A": "lower lip.",
+            "B": "lower lip and mandibular teeth.",
+            "C": "lower lip, mandibular teeth and labial gingivae of the anterior mandibular teeth.",
+            "D": "lower lip, mandibular teeth and labial gingivae of the anterior and buccal gingivae of the posterior mandibular teeth.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "0eb84ee4-04d5-4989-9bd1-d6bfed7fb114",
+        "data": {
+            "input": "The mucosa of the upper larynx is innervated by the",
+            "A": "internal laryngeal nerve which is the afferent limb of the cough reflex.",
+            "B": "external laryngeal nerve which is the afferent limb of the gag reflex.",
+            "C": "internal laryngeal nerve which is the afferent limb of the gag reflex.",
+            "D": "external laryngeal nerve which is the afferent limb of the cough reflex.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "ea2d2de5-7fce-46f4-8c0c-3f12e51814c5",
+        "data": {
+            "input": "The bones of the viscerocranium develop initially by",
+            "A": "endochondral ossification and follow the somatic growth pattern.",
+            "B": "endochondral ossification and follow the neural growth pattern.",
+            "C": "intramembranous ossification and follow the somatic growth pattern.",
+            "D": "intramembranous ossification and follow the neural growth pattern.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "85e10dd0-2ee4-40f2-ae37-2e77235b084c",
+        "data": {
+            "input": "The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure will be performed on which of the following structures?",
+            "A": "Heel",
+            "B": "Lower leg",
+            "C": "Toes",
+            "D": "Thigh",
+            "target": "B"
+        }
+    },
+    {
+        "id": "21b27da4-d14e-462d-980d-6ffc812d8a34",
+        "data": {
+            "input": "Which cells in the blood do not have a nucleus?",
+            "A": "Lymphocyte",
+            "B": "Monocyte",
+            "C": "Erythrocyte",
+            "D": "Basophil",
+            "target": "C"
+        }
+    },
+    {
+        "id": "906edc1b-64b3-49f1-9b4e-3a3d8699ee3c",
+        "data": {
+            "input": "The coronal suture joins the",
+            "A": "frontal and parietal bones.",
+            "B": "left and right parietal bones.",
+            "C": "parietal and occipital bones.",
+            "D": "parietal, squamous temporal and greater wing of the sphenoid.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "e8e264bf-a89e-4c64-adc8-0d21028795ec",
+        "data": {
+            "input": "If you run your finger down the anterior midline of a patient's extended neck from chin to sternal notch, you should be able to palpate, in order, the",
+            "A": "hyoid bone, cricoid cartilage, thyroid cartilage.",
+            "B": "thyroid cartilage, cricoid cartilage, hyoid bone.",
+            "C": "hyoid bone, thyroid cartilage, cricoid cartilage.",
+            "D": "thyroid cartilage, hyoid bone, cricoids cartilage.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "95f3139a-3ce3-460e-bb3e-6021f79194b1",
+        "data": {
+            "input": "Which of the following bony structures may be palpated in a live patient?",
+            "A": "The supraorbital foramen",
+            "B": "The infraorbital foramen",
+            "C": "The mental foramen",
+            "D": "All of the above",
+            "target": "D"
+        }
+    },
+    {
+        "id": "0c9b5a65-a67a-46c7-8963-c28dd59ed9d4",
+        "data": {
+            "input": "Which of the following structures accompany the oesophagus through the diaphragm?",
+            "A": "The phrenic nerves",
+            "B": "The splanchnic nerves",
+            "C": "The sympathetic trunks",
+            "D": "The vagus nerves",
+            "target": "D"
+        }
+    },
+    {
+        "id": "99ffc1ba-cee5-483e-9893-20169b60f8d8",
+        "data": {
+            "input": "Which sequence describes the systemic circulation?",
+            "A": "Left ventricle \u2192 aorta \u2192 arteries \u2192 veins \u2192 capillaries",
+            "B": "Left ventricle \u2192 aorta \u2192 arteries \u2192capillaries \u2192 veins",
+            "C": "Right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 capillaries \u2192veins",
+            "D": "Right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 veins \u2192 capillaries",
+            "target": "B"
+        }
+    },
+    {
+        "id": "13ab03d7-4080-47a6-aa55-30ffd6bb9ea2",
+        "data": {
+            "input": "The anatomic location of the spinal canal is",
+            "A": "caudal",
+            "B": "dorsal",
+            "C": "frontal",
+            "D": "transverse",
+            "target": "B"
+        }
+    },
+    {
+        "id": "1dd438be-2e97-4344-9b60-ab91b067c19d",
+        "data": {
+            "input": "The parotid duct runs",
+            "A": "deep to masseter and enters the mouth opposite the upper second molar.",
+            "B": "superficial to masseter and enters the mouth opposite the upper second molar.",
+            "C": "deep to masseter and enters the mouth opposite the upper second premolar.",
+            "D": "superficial to masseter and enters the mouth opposite the upper second premolar.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "94619769-9cf2-4668-8383-98769c56426d",
+        "data": {
+            "input": "If the foot is abducted, it is moved in which direction?",
+            "A": "Inward",
+            "B": "Outward",
+            "C": "Upward",
+            "D": "Downward",
+            "target": "D"
+        }
+    },
+    {
+        "id": "bc105c81-a664-4530-88f7-15137db30bcf",
+        "data": {
+            "input": "The infraorbital nerve",
+            "A": "is a terminal branch of the maxillary division of the trigeminal nerve.",
+            "B": "is a terminal branch of the maxillary branch of the facial nerve.",
+            "C": "carries parasympathetic secretomotor neurons to the lacrimal gland.",
+            "D": "innervates the inferior part of the orbicularis oculi muscle.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "915b710d-52f4-49d4-963a-d75ff5467044",
+        "data": {
+            "input": "Which of the following best describes the process whereby the stomach muscles contract to propel food through the digestive tract?",
+            "A": "Absorption",
+            "B": "Emulsion",
+            "C": "Peristalsis",
+            "D": "Regurgitation",
+            "target": "C"
+        }
+    },
+    {
+        "id": "85b3556b-4728-4d8a-8a22-f7fac89bfc69",
+        "data": {
+            "input": "Which of the following is the point at which an impulse is transmitted from one neuron to another neuron?",
+            "A": "Dendrite",
+            "B": "Glial cell",
+            "C": "Nerve center",
+            "D": "Synapse",
+            "target": "D"
+        }
+    },
+    {
+        "id": "ba46742b-475f-41d0-b026-40a52bbe8eec",
+        "data": {
+            "input": "Which of the following muscles initiates elevation of the mandible?",
+            "A": "Masseter",
+            "B": "Temporalis",
+            "C": "Lateral pterygoid",
+            "D": "Medial pterygoid.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "2698fe6e-1d4b-4ff1-84b8-e5b04b945bcd",
+        "data": {
+            "input": "Which of the following is an accessory organ of the gastrointestinal system that is responsible for secreting insulin?",
+            "A": "Adrenal gland",
+            "B": "Gallbladder",
+            "C": "Liver",
+            "D": "Pancreas",
+            "target": "D"
+        }
+    },
+    {
+        "id": "687b3bf1-9df1-485b-894a-607f12a05009",
+        "data": {
+            "input": "A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience",
+            "A": "loss of taste over the anterior two-thirds of the tongue.",
+            "B": "loss of somaesthetic sensation over the anterior two thirds of the tongue.",
+            "C": "loss of taste and somaesthetic sensation over the posterior third of the tongue.",
+            "D": "paralysis of the muscles of the tongue.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "7e98ea3a-a774-4622-a697-5d624615c064",
+        "data": {
+            "input": "A possible effect of damage to the third cranial nerve by trauma to the orbit is",
+            "A": "a convergent strabismus.",
+            "B": "ptosis.",
+            "C": "pupillary contriction.",
+            "D": "bitemporal hemianopia.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "20673960-732c-423b-ace0-d20a48444985",
+        "data": {
+            "input": "Blood flows from the right ventricle of the heart into which of the following structures?",
+            "A": "Inferior vena cava",
+            "B": "Left ventricle",
+            "C": "Pulmonary arteries",
+            "D": "Pulmonary veins",
+            "target": "C"
+        }
+    },
+    {
+        "id": "3a51a755-f3de-43dc-b2f9-5c702c995449",
+        "data": {
+            "input": "A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test nerve function by asking the patient to",
+            "A": "extend their neck against resistance.",
+            "B": "extend their neck without impairment.",
+            "C": "lift their shoulders against resistance.",
+            "D": "lift their shoulders without impairment.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "4ad828ba-1e0a-4d9f-ad45-50c2da00bc42",
+        "data": {
+            "input": "Which of the following muscles are derived from the first brachial arch?",
+            "A": "The muscles of mastication",
+            "B": "The muscles of mastication and anterior belly of digastric",
+            "C": "The muscles of mastication and anterior and posterior bellies of digastric",
+            "D": "The muscles of mastication, anterior and posterior bellies of digastric and geniohyoid",
+            "target": "B"
+        }
+    },
+    {
+        "id": "c35f8971-beca-4f57-baea-6e3751e6072b",
+        "data": {
+            "input": "Which of the following best describes the location where the carotid pulse can be found?",
+            "A": "In front of the ears and just above eye level",
+            "B": "In the antecubital space",
+            "C": "In the middle of the groin",
+            "D": "On the anterior side of the neck",
+            "target": "D"
+        }
+    },
+    {
+        "id": "3d1a40dc-369d-4cb3-9c16-40d13c08c4b2",
+        "data": {
+            "input": "In the brain stem, pathways for:",
+            "A": "nociception decussate in the medial lemniscus",
+            "B": "skilled movements decussate in the medial lemniscus",
+            "C": "skilled motor movements decussate in the pyramids.",
+            "D": "discriminative touch decussate in the pyramids.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "94daedb6-fe72-49ab-849d-d812859b0af2",
+        "data": {
+            "input": "The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the",
+            "A": "thyroid cartilage.",
+            "B": "cricothyroid membrane.",
+            "C": "cricoid cartilage.",
+            "D": "tracheal rings.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "3584e5d7-9106-485b-9167-9dad491d30cf",
+        "data": {
+            "input": "You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and decide to take a biopsy to send for oral pathology report Which nerve would require local anaesthesia in order to carry out a pain-free biopsy?",
+            "A": "The incisive nerve",
+            "B": "The mental nerve",
+            "C": "The buccal nerve",
+            "D": "The lingual nerve",
+            "target": "B"
+        }
+    },
+    {
+        "id": "ad410693-8aeb-499b-9023-5831bd94f735",
+        "data": {
+            "input": "The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in",
+            "A": "the capsule and ligaments of the TMJ and the medial pterygoid muscle.",
+            "B": "the capsule and ligaments of the TMJ and the lateral pterygoid muscle.",
+            "C": "the articular disc of the TMJ and the medial pterygoid muscle.",
+            "D": "the articular disc of the TMJ and the lateral pterygoid muscle.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "14014670-bf16-46f0-b69e-6cc3cea49c40",
+        "data": {
+            "input": "Which of the following is a substance that aids the transmission of nerve impulses to the muscles?",
+            "A": "Acetylcholine",
+            "B": "Cholecystokinin",
+            "C": "Deoxyribose",
+            "D": "Oxytocin",
+            "target": "A"
+        }
+    },
+    {
+        "id": "de6982ce-a8a6-4061-babf-5c4a1e767e09",
+        "data": {
+            "input": "In the spinal cord, motor neuron cell bodies are located in",
+            "A": "Lamina I.",
+            "B": "Lamina II.",
+            "C": "Lamina V.",
+            "D": "Lamina IX",
+            "target": "D"
+        }
+    },
+    {
+        "id": "5e2ad2e4-0a64-471d-a073-6a8031165432",
+        "data": {
+            "input": "When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the",
+            "A": "anterior fragment to be displaced downwards by the action of the digastric muscle.",
+            "B": "posterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle.",
+            "C": "anterior fragment to be displaced backwards by action of the temporalis muscle.",
+            "D": "posterior fragment to be displaced medially by action of the medial pterygoid muscle.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "997cb93f-8a4e-4637-8859-b9b2619a0f5b",
+        "data": {
+            "input": "Examination of a patient indicates that they have a medially directed strabismus (squint). This could be due to damage to the",
+            "A": "oculomotor nerve.",
+            "B": "trochlear nerve.",
+            "C": "ophthalmic trigeminal nerve.",
+            "D": "abducens nerve.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "f9ffeb51-674b-482e-a593-98de3911ec9c",
+        "data": {
+            "input": "A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does not regenerate, after about 6 months the muscles it normally innervates will show signs of which of the four options below?",
+            "A": "spastic paralysis",
+            "B": "flaccid paralysis",
+            "C": "atrophy",
+            "D": "contracture",
+            "target": "C"
+        }
+    },
+    {
+        "id": "90975b61-3c4c-4d3f-82ec-c95846ce2c8e",
+        "data": {
+            "input": "A patient suffers a CVA in the area of the left internal capsule conveying motor neurons to the right leg. The patient's leg will exhibit",
+            "A": "spastic paralysis.",
+            "B": "flaccid paralysis.",
+            "C": "tremor.",
+            "D": "hyporeflexia.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "7bd48539-b642-4505-8387-b573044ae0b0",
+        "data": {
+            "input": "The crown of a very carious tooth suddenly fractures while the patient is standing eating at a take-away food outlet and a fragment is inhaled. It is more likely to enter the",
+            "A": "right lung because the right main bronchus is wider and more vertical than the left.",
+            "B": "left lung because the left main bronchus is wider and more vertical than the right.",
+            "C": "right lung or left lung because the two main bronchi are of equal size and at the same angulation.",
+            "D": "right or left lung because there are no factors predisposing to the fragment going in one particular direction.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "abd41a91-8b41-4eea-8f55-2db4895f4177",
+        "data": {
+            "input": "Calcium, potassium, and sodium are classified as which of the following?",
+            "A": "Androgens",
+            "B": "Catecholamines",
+            "C": "Electrolytes",
+            "D": "Estrogens",
+            "target": "C"
+        }
+    },
+    {
+        "id": "22243c36-1495-4388-aaf5-692ead8c5873",
+        "data": {
+            "input": "Noradrenaline is the neurotransmitter between which of the two structures below?",
+            "A": "parasympathetic pre- and post-ganglionic neurons",
+            "B": "sympathetic pre- and post-ganglionic neurons",
+            "C": "parasympathetic post-ganglionic neurons and target organs",
+            "D": "sympathetic post-ganglionic neurons and target organs",
+            "target": "D"
+        }
+    },
+    {
+        "id": "937ec987-3b76-4521-8243-ebb3f570ab48",
+        "data": {
+            "input": "Which of the following are mucus-producing glands located on each side of the vaginal opening?",
+            "A": "Adrenal",
+            "B": "Bartholin's",
+            "C": "Bulbourethral",
+            "D": "Corpus luteum",
+            "target": "B"
+        }
+    },
+    {
+        "id": "b5994e27-5d73-4f69-85e3-4de3adb6a9cc",
+        "data": {
+            "input": "When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately",
+            "A": "superior to the thyroid cartilage.",
+            "B": "inferior to the thyroid cartilage.",
+            "C": "inferior to the cricoid cartilage.",
+            "D": "superior to the thyroid isthmus.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "6a036387-0105-4a4e-891c-e31a290f9bb2",
+        "data": {
+            "input": "Cerebrospinal fluid circulates around the brain between the",
+            "A": "skull and dura mater.",
+            "B": "dura mater and arachnoid mater.",
+            "C": "arachnoid and pia maters.",
+            "D": "pia mater and brain surface.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "1f369372-02a0-4612-a770-7c3fe7ea1823",
+        "data": {
+            "input": "Which of the following closes and seals off the lower airway during swallowing?",
+            "A": "Alveoli",
+            "B": "Epiglottis",
+            "C": "Larynx",
+            "D": "Uvula",
+            "target": "B"
+        }
+    },
+    {
+        "id": "8684dad6-1832-476a-8af6-df07a5da1347",
+        "data": {
+            "input": "Which orbital wall is most likely to collapse in a 'blow out' fracture?",
+            "A": "The roof",
+            "B": "The floor",
+            "C": "The lateral wall",
+            "D": "The medial wall",
+            "target": "B"
+        }
+    },
+    {
+        "id": "40d7f169-773f-4dce-af1c-e9d15727e988",
+        "data": {
+            "input": "The walls of the maxillary sinus are sinus is related to",
+            "A": "the floor of the orbit.",
+            "B": "the floor of the orbit and the upper posterior teeth.",
+            "C": "the floor of the orbit, the upper posterior teeth and the infratemporal fossa.",
+            "D": "the floor of the orbit, the upper posterior teeth, the infratemporal fossa and the hard palate.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "ebf80243-4a7a-4d24-af02-9f48c4dd0014",
+        "data": {
+            "input": "Which of one of the following statements about the postnatal growth of the maxilla is correct?",
+            "A": "Pneumatisation by enlargement of the developing maxillary sinus ceases at puberty",
+            "B": "Space is created for the eruption of the permanent molars by resorption of the maxillary tuberosity",
+            "C": "The zygomaticomaxillary sutures contribute to increase in height and length of the maxilla",
+            "D": "The intermaxillary suture closes about eight years postnatally",
+            "target": "C"
+        }
+    },
+    {
+        "id": "4d898169-e932-4780-bf32-4ae001ed4e04",
+        "data": {
+            "input": "The seventh cranial nerve supplies",
+            "A": "taste buds on the posterior third of the tongue.",
+            "B": "muscles of the soft palate.",
+            "C": "muscles of the lower lip.",
+            "D": "the parotid salivary gland.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "de935b60-b7be-4ba4-bdce-7c78273c4ec8",
+        "data": {
+            "input": "Which of the following paranasal sinuses open into the middle meatus?",
+            "A": "The anterior ethmoidal sinuses",
+            "B": "The anterior ethmoidal and frontal sinuses",
+            "C": "The anterior ethmoidal, frontal and maxillary sinuses",
+            "D": "The anterior ethmoidal, frontal, maxillary and sphenoidal sinuses",
+            "target": "C"
+        }
+    },
+    {
+        "id": "1d25f745-3200-4952-baf7-920e3bb3da7a",
+        "data": {
+            "input": "Which of the following is a structural, fibrous protein found in the dermis?",
+            "A": "Collagen",
+            "B": "Heparin",
+            "C": "Lipocyte",
+            "D": "Melanin",
+            "target": "A"
+        }
+    },
+    {
+        "id": "844668c3-45ed-4853-9447-5d6137aa444e",
+        "data": {
+            "input": "Palatine shelf elevation is due to the effect of",
+            "A": "descent of the tongue.",
+            "B": "changes in flexure of the developing brain.",
+            "C": "hydrophilic molecules increasing turgor pressure in the palatine shelves.",
+            "D": "a combination of these three processes.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "6a6575e4-8e84-4b46-aef5-ab2cc071479c",
+        "data": {
+            "input": "On which surfaces of the teeth is dental plaque most likely to accumulate in the mouth of a patient with poor oral hygiene?",
+            "A": "The palatal surfaces of the upper molars and lingual surfaces of the lower incisors.",
+            "B": "The buccal surfaces of the upper molars and lingual surfaces of the lower incisors.",
+            "C": "The palatal surfaces of the upper molars and labial surfaces of the lower incisors.",
+            "D": "The buccal surfaces of the upper molars and labial surfaces of the lower incisors.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "0e58696d-3deb-486e-9dc3-a0e01eb2a379",
+        "data": {
+            "input": "Laryngeal oedema is usually confined to the larynx above the vocal folds because",
+            "A": "there are numerous mucous glands in the vestibular folds.",
+            "B": "the mucosa covering the vocal folds is tightly attached to underlying tissues.",
+            "C": "fluid will drain rapidly into the thorax below the vocal folds.",
+            "D": "the mucosa above the vocal folds is more vascular than that below the vocal folds.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "980220c9-2068-4a70-921b-9ed4b3ded807",
+        "data": {
+            "input": "The coronary arteries",
+            "A": "arise from the arch of the aorta and fill during diastole.",
+            "B": "arise from the ascending aorta and fill during systole.",
+            "C": "arise from the arch of the aorta and fill during systole.",
+            "D": "arise from the ascending aorta and fill during diastole.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "14a581f0-4dd6-45e8-ad9c-f7f3a644b6f2",
+        "data": {
+            "input": "Which muscle is the most active during a right lateral excursion of the mandible?",
+            "A": "Left lateral pterygoid muscle",
+            "B": "Right lateral pterygoid muscle",
+            "C": "Left medial pterygoid muscle",
+            "D": "Right medial pterygoid muscle",
+            "target": "A"
+        }
+    },
+    {
+        "id": "34d5beaf-435e-4860-8065-09bd6bea7401",
+        "data": {
+            "input": "The phrenic nerves innervate the",
+            "A": "diaphragm.",
+            "B": "diaphragm and parietal pleura.",
+            "C": "diaphragm, parietal pleura and pericardium.",
+            "D": "diaphragm, parietal pleura, pericardium and intercostals muscles.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "b417db57-27ea-4d16-bab4-9e4387ab48bf",
+        "data": {
+            "input": "Parasympathetic preganglionic nerves leave the central nervous system with the",
+            "A": "third cranial nerves.",
+            "B": "fourth cranial nerves.",
+            "C": "fifth cranial nerves.",
+            "D": "sixth cranial nerves.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "0049f91e-b839-41be-b939-ac901b7aaa46",
+        "data": {
+            "input": "In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandibular teeth to be",
+            "A": "light pink in colour on both sides of the mucogingigival junction.",
+            "B": "light pink below the mucogingival junction and red above it.",
+            "C": "red below the mucogingival junction and light pink above it.",
+            "D": "red on both sides of the mucogingival junction.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "35f413e7-77ec-4db9-ac3e-d6bc6bbb6aea",
+        "data": {
+            "input": "Macrostomia results from failure of fusion of",
+            "A": "maxillary and mandibular processes.",
+            "B": "left and right mandibular processes.",
+            "C": "maxillary and frontonasal processes.",
+            "D": "mandibular and hyoid arches.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "caf24161-9461-4a48-8022-a9d38be2f59a",
+        "data": {
+            "input": "You suspect that your patient has an enlarged submandibular salivary gland. You expect the enlarged gland",
+            "A": "to be palpable intraorally..",
+            "B": "to be palpable extraorally.",
+            "C": "to be palpable both intra- and extraorally.",
+            "D": "only to be detectable by radiographical examination.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "c41c76a8-1620-49bd-bd74-fd733c9f5218",
+        "data": {
+            "input": "Osteoclasts",
+            "A": "deposit bone and differentiate from periosteal mesenchymal cells.",
+            "B": "resorb bone and differentiate from periosteal mesenchymal cells.",
+            "C": "deposit bone and differentiate from monocytes.",
+            "D": "resorb bone and differentiate from monocytes.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "e510d08b-cb9f-463a-ae7b-13aac52e21e8",
+        "data": {
+            "input": "The lateral pterygoid muscle",
+            "A": "is attached to the coronoid process and elevates the mandible.",
+            "B": "is attached to the condylar process and elevates the mandible.",
+            "C": "is attached to the coronoid process and protrudes the mandible.",
+            "D": "is attached to the condylar process and protrudes the mandible.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "eab9fd72-a327-4654-9999-c090415773eb",
+        "data": {
+            "input": "In the fetus, the ductus arteriosus passes blood from the",
+            "A": "pulmonary vein to the aorta.",
+            "B": "aorta to pulmonary vein.",
+            "C": "pulmonary artery to the aorta.",
+            "D": "aorta to the pulmonary artery.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "f789277c-30af-4db0-8684-0735b02586c6",
+        "data": {
+            "input": "Which of the following bones develop by endochondral ossification?",
+            "A": "The ribs",
+            "B": "The ribs and sternum",
+            "C": "The ribs, sternum and clavicle",
+            "D": "The ribs, sternum, clavicle and vertebrae",
+            "target": "B"
+        }
+    },
+    {
+        "id": "7dc2795d-0dad-4ed5-bc76-d686a7db82db",
+        "data": {
+            "input": "The mucosa of the hard palate is",
+            "A": "keratinised and has submucosa and minor salivary glands posterolaterally.",
+            "B": "non-keratinised and has submucosa and minor salivary glands posteromedially.",
+            "C": "keratinised and lacks submucosa and minor salivary glands.",
+            "D": "non-keratinised and lacks submucosa and minor salivary glands.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "bc785130-687b-46f9-bc6f-13f85dd202e6",
+        "data": {
+            "input": "The head of the sixth rib articulates with",
+            "A": "The inferior articular facet of T5 and superior articular facet of T6.",
+            "B": "The inferior articular demifacet of T5 and superior articular facet of T6.",
+            "C": "The inferior articular demifacet of T5 and the superior articular demifacet of T6.",
+            "D": "The superior and inferior demifacets of T6.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "6f549b87-6bc0-48b2-997d-60d5393f746b",
+        "data": {
+            "input": "Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity?",
+            "A": "Appendix",
+            "B": "Duodenum",
+            "C": "Spleen",
+            "D": "Pancreas",
+            "target": "C"
+        }
+    },
+    {
+        "id": "985d16b6-64b5-4678-ac99-a06faad456de",
+        "data": {
+            "input": "Proprioceptive nerve endings in synovial joints are located in",
+            "A": "articular cartilage and synovial membrane.",
+            "B": "synovial membrane and capsule.",
+            "C": "capsule and ligaments.",
+            "D": "ligaments and articular discs.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "c45a8d31-a6f0-4a9d-a6f6-8ac0955db442",
+        "data": {
+            "input": "The thoracic cage is a structural unit important for which of the following functions?",
+            "A": "Alimentation",
+            "B": "Menstruation",
+            "C": "Mentation",
+            "D": "Respiration",
+            "target": "D"
+        }
+    },
+    {
+        "id": "25defe77-d566-42bc-83ed-45e4df3397ef",
+        "data": {
+            "input": "A patient is admitted after a head injury and sinks rapidly into a coma. An MRI scan indicates an extradural haemorrhage because extravasated blood can be detected between the",
+            "A": "skull bones and dura mater.",
+            "B": "dura mater and arachnoid.",
+            "C": "arachnoid and pia mater.",
+            "D": "pia mater and brain surface.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "fb9dfcf2-0d5e-4150-b718-6aa29b0d28c7",
+        "data": {
+            "input": "A successful infraorbital nerve block will produce anaesthesia of the",
+            "A": "maxillary anterior teeth.",
+            "B": "maxillary anterior teeth and their labial gingivae.",
+            "C": "maxillary anterior teeth, their labial gingivae and the upper lip.",
+            "D": "maxillary anterior teeth, their labial gingivae, the upper lip and anterior hard palate.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "1e5dce58-7a8b-4383-ae1b-f38f34dc7233",
+        "data": {
+            "input": "Which of the following foramina pierce the sphenoid bone?",
+            "A": "The foramen ovale",
+            "B": "The foramen ovale and rotundum",
+            "C": "The foramen ovale, rotundum and spinosum",
+            "D": "The foramen ovale, rotundum and spinosum and foramen lacerum",
+            "target": "C"
+        }
+    },
+    {
+        "id": "724ef565-5c0c-4506-82d7-4d8e81c7c46e",
+        "data": {
+            "input": "Which of the following is a disorder characterized by uncontrollable episodes of falling asleep during the day?",
+            "A": "Dyslexia",
+            "B": "Epilepsy",
+            "C": "Hydrocephalus",
+            "D": "Narcolepsy",
+            "target": "D"
+        }
+    },
+    {
+        "id": "ef7b092c-6d36-4290-893f-160ae7342cc7",
+        "data": {
+            "input": "Which of the following allows gas exchange in the lungs?",
+            "A": "Alveoli",
+            "B": "Bronchi",
+            "C": "Bronchioles",
+            "D": "Capillaries",
+            "target": "A"
+        }
+    },
+    {
+        "id": "6ef21493-ffa5-40c1-9edd-96bdefcf576c",
+        "data": {
+            "input": "A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is known as which of the following?",
+            "A": "Closed, greenstick",
+            "B": "Complex, comminuted",
+            "C": "Compound, transverse",
+            "D": "Open, spiral",
+            "target": "A"
+        }
+    },
+    {
+        "id": "4f9f589c-c851-4da4-b40b-902eb6156be4",
+        "data": {
+            "input": "Fertilization of an ovum by a spermatozoon occurs in which of the following structures?",
+            "A": "Cervix",
+            "B": "Fallopian tube",
+            "C": "Ovary",
+            "D": "Uterus",
+            "target": "B"
+        }
+    },
+    {
+        "id": "c009ccd6-bbad-44f6-aea0-1ea74034051a",
+        "data": {
+            "input": "Ectoderm gives rise to",
+            "A": "the neural tube.",
+            "B": "ectomesenchymal cells.",
+            "C": "dental enamel.",
+            "D": "all three structures.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "ae933912-0a70-426d-8bfc-69d9ef363d38",
+        "data": {
+            "input": "In men, which of the following structures is located at the neck of the bladder and surrounds the urethra?",
+            "A": "Epididymis",
+            "B": "Prostate",
+            "C": "Scrotum",
+            "D": "Seminal vesicle",
+            "target": "B"
+        }
+    },
+    {
+        "id": "399d7476-8edb-4e5e-ab56-667a455ed7ab",
+        "data": {
+            "input": "Which of the following options completes the following statement? \"The right atrioventricular valve\u2026\"",
+            "A": "is a semilunar valve",
+            "B": "is prevented from everting by papillary muscles.",
+            "C": "is open during systole.",
+            "D": "prevents blood returning from the pulmonary trunk as the heart relaxes.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "50cd6424-49ae-4e5f-ad09-733fdce94483",
+        "data": {
+            "input": "Which one of the following brain areas is supplied by branches of the subclavian arteries?",
+            "A": "The frontal lobe",
+            "B": "The parietal lobe",
+            "C": "The hypothalamus",
+            "D": "The cerebellum",
+            "target": "D"
+        }
+    },
+    {
+        "id": "b3b77c9f-5821-417e-a70c-a3ad637a369a",
+        "data": {
+            "input": "Which of the following structures is part of the small intestine?",
+            "A": "Ascending colon",
+            "B": "Cecum",
+            "C": "Ileum",
+            "D": "Sigmoid colon",
+            "target": "C"
+        }
+    },
+    {
+        "id": "3a6fcad3-df0b-4b71-9591-034b2f8c220d",
+        "data": {
+            "input": "During an inferior alveolar nerve block the needle ideally passes",
+            "A": "posterior and medial to medial pterygoid.",
+            "B": "anterior and lateral to medial pterygoid.",
+            "C": "through medial pterygoid.",
+            "D": "inferior to medial pterygoid.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "9c73e8f3-7b01-4c12-9d81-1803fe739861",
+        "data": {
+            "input": "Patients with which of the following diseases are treated with injections of vitamin B-12?",
+            "A": "Bell's palsy",
+            "B": "Crohn's disease",
+            "C": "Pernicious anemia",
+            "D": "Graves' disease",
+            "target": "C"
+        }
+    },
+    {
+        "id": "5251fd7b-a7bf-4cf3-9f4a-71990d3aae64",
+        "data": {
+            "input": "Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch?",
+            "A": "The maxillary bone",
+            "B": "The temporal bone",
+            "C": "The sphenoid bone",
+            "D": "The frontal bone",
+            "target": "B"
+        }
+    },
+    {
+        "id": "a77e4113-ddef-4be9-bdf2-5dad627b7770",
+        "data": {
+            "input": "Parasympathetic preganglionic axons leave the CNS with the",
+            "A": "cervical spinal nerves.",
+            "B": "thoracic spinal nerves.",
+            "C": "lumbar spinal nerves.",
+            "D": "sacral spinal nerves.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "8ab22269-4a51-447c-bfd7-ebd1c2da0feb",
+        "data": {
+            "input": "A patient with damage to their cervical sympathetic chain will show the following signs and symptoms.",
+            "A": "Pupillary constriction",
+            "B": "Pupillary constriction and vasodilation of facial vessels",
+            "C": "Pupillary constriction, vasodilation of facial vessels and increased facial sweating",
+            "D": "Pupillary constriction, vasodilation of facial vessels, increased facial sweating and decreased lacrimation",
+            "target": "B"
+        }
+    },
+    {
+        "id": "6b3aad8b-acda-4409-af48-fb5c4ed628dc",
+        "data": {
+            "input": "Which of the following cranial nerves is related to the sense of smell?",
+            "A": "Abducens",
+            "B": "Hypoglossal",
+            "C": "Olfactory",
+            "D": "Trochlear",
+            "target": "C"
+        }
+    },
+    {
+        "id": "9061c1c0-0cda-471b-9385-771f0d72dc81",
+        "data": {
+            "input": "Where are the vital centres located in the brainstem?",
+            "A": "midbrain",
+            "B": "pons",
+            "C": "medulla oblongata",
+            "D": "cerebellum",
+            "target": "C"
+        }
+    },
+    {
+        "id": "643e2863-5927-44eb-91ed-4d84797305ed",
+        "data": {
+            "input": "Saliva contains an enzyme that acts upon which of the following nutrients?",
+            "A": "Starches",
+            "B": "Proteins",
+            "C": "Fats",
+            "D": "Minerals",
+            "target": "A"
+        }
+    },
+    {
+        "id": "7b534ae0-bb84-4079-a2be-be76822be2c5",
+        "data": {
+            "input": "During swallowing the",
+            "A": "auditory tube opens.",
+            "B": "cricopharyngeus muscle contracts.",
+            "C": "rima glottis opens.",
+            "D": "gag reflex is suspended.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "a7131c45-b20b-4428-8bbd-fdfd61cca52c",
+        "data": {
+            "input": "The dorsal roots of all spinal nerves contain",
+            "A": "sensory neuronal processes.",
+            "B": "sensory and autonomic neuronal processes.",
+            "C": "motor neuronal processes.",
+            "D": "motor and autonomic neuronal processes.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "7eb4dc9b-e681-453c-a851-ad632a83a01c",
+        "data": {
+            "input": "Which of the following is the master gland of the endocrine system?",
+            "A": "Adrenal",
+            "B": "Pancreas",
+            "C": "Pineal",
+            "D": "Pituitary",
+            "target": "D"
+        }
+    },
+    {
+        "id": "8a4f4a6d-3486-431c-9877-1b8020f1f0ab",
+        "data": {
+            "input": "Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the",
+            "A": "lingual branch of the mandibular trigeminal nerve.",
+            "B": "chorda tympani branch of the facial nerve.",
+            "C": "lingual branch of the glossopharyngeal nerve.",
+            "D": "hypoglossal nerve.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "52f67c9b-55c0-41dd-a9b2-c8b3a2b6206e",
+        "data": {
+            "input": "In men, specimens for gonococcal cultures are most commonly obtained from which of the following structures?",
+            "A": "Anus",
+            "B": "Bladder",
+            "C": "Urethra",
+            "D": "Testicle",
+            "target": "C"
+        }
+    },
+    {
+        "id": "5ed2dd49-bf12-428a-b9ea-6afe23c3698d",
+        "data": {
+            "input": "Which of the following structures should be visible on a dental panoramic radiograph?",
+            "A": "The mandibular canal",
+            "B": "The mandibular canal and maxillary sinus",
+            "C": "The mandibular canal, maxillary sinus and hard palate",
+            "D": "The mandibular canal, maxillary sinus, hard palate and zygomatic arch",
+            "target": "D"
+        }
+    }
+]

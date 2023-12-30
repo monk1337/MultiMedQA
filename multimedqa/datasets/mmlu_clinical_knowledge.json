@@ -1,0 +1,2906 @@
+[
+    {
+        "id": "1694a4ab-514a-4a78-865a-be282a7913dd",
+        "data": {
+            "input": "The key attribute in successful marathon running is:",
+            "A": "strength.",
+            "B": "power.",
+            "C": "stride length.",
+            "D": "stamina.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "a3fcc656-8579-4291-ad89-a6fd4058d1e9",
+        "data": {
+            "input": "Which of the following is the commonest cause of dementia in the UK?",
+            "A": "Alzheimer's disease.",
+            "B": "Cerebrovascular (stroke) disease.",
+            "C": "Lewy body dementia.",
+            "D": "HIV infection.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "a8dbe490-b7f2-455c-8b74-9999ddf001f4",
+        "data": {
+            "input": "Which of the following is NOT a symptom of anaphylaxis?",
+            "A": "Stridor.",
+            "B": "Bradycardia.",
+            "C": "Severe wheeze.",
+            "D": "Rash.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "376bb5d0-7e65-4518-b118-559bd0bb276e",
+        "data": {
+            "input": "In what situation are closed pouches applied?",
+            "A": "The patient has a semi-formed or liquid output.",
+            "B": "The patient has a colostomy.",
+            "C": "In the immediate post-operative period.",
+            "D": "The patient has a urostomy.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "0c6ea799-93e2-4f9f-9a46-f4d3142ca7fa",
+        "data": {
+            "input": "With an increasing number of sprints the:",
+            "A": "anaerobic contribution progressively increases.",
+            "B": "pH of the muscle falls below 6.0.",
+            "C": "blood glucose concentration falls below 3 mmol/L.",
+            "D": "relative contribution of aerobic metabolism increases.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "1457c877-8ca7-42e4-af3e-cb0828e03964",
+        "data": {
+            "input": "Which of the following is true in diplopia?",
+            "A": "Diplopia can never occur if one eye is covered",
+            "B": "The outer image is always the false image",
+            "C": "A fourth nerve palsy occurs when the patient looks upwards",
+            "D": "A sixth nerve palsy causes a divergent squint",
+            "target": "B"
+        }
+    },
+    {
+        "id": "178265de-693f-4a80-b8aa-d310ec61fbcc",
+        "data": {
+            "input": "Sodium bicarbonate ingestion improves middle distance running performance by:",
+            "A": "elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.",
+            "B": "reducing the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.",
+            "C": "elevating the pH and buffering capacity of the extracellular fluid allowing a faster influx of hydrogen ions into muscle.",
+            "D": "elevating the pre-exercise muscle pH.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "dbe0367c-9ffb-4946-a27e-c1a531256e45",
+        "data": {
+            "input": "Codons are composed of:",
+            "A": "triplet sequences of nucleotide bases in mRNA or DNA .",
+            "B": "quadruplet sequences of nucleotide bases in mRNA or DNA.",
+            "C": "triplet sequences of amino acids in polypeptide chains.",
+            "D": "triplet sequences of deoxyribose sugars in DNA.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "3e2ccea6-aab0-4151-b5c8-74e75f2b3f95",
+        "data": {
+            "input": "Fatty acids are transported into the mitochondria bound to:",
+            "A": "thiokinase.",
+            "B": "coenzyme A (CoA).",
+            "C": "acetyl-CoA.",
+            "D": "carnitine.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "e857c004-c619-4107-946d-4f6902d2d820",
+        "data": {
+            "input": "Which of the answers below best indicates the compatible blood types that can be given to a person with a blood group B (rhesus negative)?",
+            "A": "Blood type AB (rhesus negative), blood type B, and blood type O (rhesus negative).",
+            "B": "Blood type B (rhesus positive) and blood type O (rhesus positive).",
+            "C": "Blood type B (rhesus negative) and blood type O (rhesus negative).",
+            "D": "Blood type B (rhesus negative) only.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "c34fb0ed-f3e3-4d91-b46d-2ea5ccbe3650",
+        "data": {
+            "input": "Which of the following is true of a lower motor neurone lesion in the arm?",
+            "A": "It leads to increased tone in the arm (hypertonia)",
+            "B": "Fasciculations are never seen",
+            "C": "The reflexes are brisk",
+            "D": "An ulna nerve palsy is an example of a lower motor neurone lesion",
+            "target": "D"
+        }
+    },
+    {
+        "id": "618c186e-ad92-42b1-b96c-5164592d7bf1",
+        "data": {
+            "input": "Which of the following statements is false?",
+            "A": "Ammonia is produced in repeated high intensity exercise.",
+            "B": "Muscle lactate accumulation does not begin until at least 5 seconds of intermittent muscle contractions have taken place.",
+            "C": "Muscle phosphocreatine depletion begins in the first few seconds of high intensity exercise.",
+            "D": "With an increasing number of repeated sprints the rate of accumulation of lactate in muscle declines.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "ed9d9c71-a364-4b42-868f-692ea34fb01f",
+        "data": {
+            "input": "Glycogen breakdown in muscle initially results in the formation of:",
+            "A": "glucose.",
+            "B": "glucose-1-phosphate.",
+            "C": "glucose-6-phosphate.",
+            "D": "glucose-1,6-diphosphate.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "2de5bcd7-db57-4d9f-9389-3590f96dffa3",
+        "data": {
+            "input": "The two principal contractile proteins found in skeletal muscle are:",
+            "A": "actin and troponin.",
+            "B": "actin and myosin.",
+            "C": "troponin and tropomyosin.",
+            "D": "myosin and tropomyosin.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "65e050ef-2b3d-4558-9492-b277f1fe42eb",
+        "data": {
+            "input": "Which one of the following represents a IIIrd cranial nerve palsy and is a neurosurgical emergency?",
+            "A": "Unilateral constricted pupil.",
+            "B": "Bilateral constricted pupils.",
+            "C": "Unilateral fixed dilated pupil.",
+            "D": "Oval shaped pupils.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "1fdf9288-b250-4ede-a689-5b350c60c97b",
+        "data": {
+            "input": "Which of the following is true about a thyroid swelling?",
+            "A": "It always elevates on swallowing",
+            "B": "Lymph node enlargement is a good prognostic sign",
+            "C": "An ultrasound of the swelling is the best test to determine whether the nodule is actively secreting hormone",
+            "D": "A functioning nodule on isotope scanning is unlikely to be due to cancer",
+            "target": "D"
+        }
+    },
+    {
+        "id": "0bf632c8-4427-4896-a95c-7549e07ca215",
+        "data": {
+            "input": "Which of the following is true of hepatomegaly?",
+            "A": "Emphysema is a cause",
+            "B": "The liver enlarges downwards from the left hypochondrium",
+            "C": "The presence of jaundice, spider naevi and purpura suggest alcohol as a cause",
+            "D": "The liver is usually resonant to percussion",
+            "target": "C"
+        }
+    },
+    {
+        "id": "87e13778-97bf-405d-a68d-50074cd6beff",
+        "data": {
+            "input": "Which of the following is true regarding reflexes?",
+            "A": "A positive babinski reflex is the same as a normal flexor response in the assessment of the plantar reflex",
+            "B": "An extensor plantar response indicates a lower motor neurone lesion",
+            "C": "The root value of the ankle reflex is S1",
+            "D": "The root value of the knee reflex is L1, L2",
+            "target": "C"
+        }
+    },
+    {
+        "id": "4914fbc0-408a-44cd-aeb7-b8e2cdb78cac",
+        "data": {
+            "input": "Which of the following is true of facial nerve palsy?",
+            "A": "Bells palsy is another term for an upper motor neurone lesion",
+            "B": "Ramsay Hunt Syndrome is an upper motor neurone lesion secondary to a Herpes Zoster infection",
+            "C": "An inability to close the eyelid on the paralysed side indicates a lower motor neurone lesion",
+            "D": "In Bell's Palsy the sense of taste is never affected",
+            "target": "C"
+        }
+    },
+    {
+        "id": "0d4281c3-dc92-47e8-a40b-69a83638216f",
+        "data": {
+            "input": "What is a colles fracture?",
+            "A": "Hand fracture.",
+            "B": "Elbow fracture.",
+            "C": "Finger fracture.",
+            "D": "Fracture of the radius and ulna at the wrist.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "2b6bfe7e-720d-4ddd-a9c7-c05e6604fd0b",
+        "data": {
+            "input": "If a transfusion reaction is suspected, you should:",
+            "A": "turn off the transfusion, inform medical staff immediately, and follow transfusion policy advice on dealing with acute transfusion reactions.",
+            "B": "leave the transfusion running and contact the medical staff immediately.",
+            "C": "disconnect and dispose of the blood bag immediately.",
+            "D": "leave the transfusion running and record a set of observations on the patient.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "3a6d1dac-296a-4f7a-ba65-67be3dd41f19",
+        "data": {
+            "input": "Once a prescribed unit of blood product has been obtained from the blood bank and is out of refrigeration, the transfusion should commence within what period of time before it starts to deteriorate (as of 2020 medical knowledge)?",
+            "A": "30 minutes.",
+            "B": "90 minutes.",
+            "C": "4 hours.",
+            "D": "12 hours.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "987d2b3d-06e7-4990-bf53-02755e082605",
+        "data": {
+            "input": "Which of the following statements is true about informal carers (as of 2020)?",
+            "A": "50% of over 65s are providing informal care.",
+            "B": "One in six over 65s is providing some form of informal care.",
+            "C": "Informal carers should not be included in discharge planning.",
+            "D": "The majority of informal carers are fit and active.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "d7a94038-56fc-4878-b908-77e91fff8fda",
+        "data": {
+            "input": "Which of the following processes is not used to modify protein structure after translation has occurred?",
+            "A": "Lipidation.",
+            "B": "Attachment of more amino acids via peptide bonds.",
+            "C": "Glycosylation.",
+            "D": "Phosphorylation.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "9cebb48a-e658-44e0-8e46-5298985da222",
+        "data": {
+            "input": "Why would you need to carry out a bladder washout for a patient at home?",
+            "A": "When their urine is clear.",
+            "B": "When the catheter is blocked.",
+            "C": "When the catheter is bypassing.",
+            "D": "When the catheter is dirty.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "029f4282-1140-41bc-b7d9-b2eb430f40e6",
+        "data": {
+            "input": "A 14-16 gauge needle is most likely to be used for:",
+            "A": "children.",
+            "B": "elderly patients.",
+            "C": "inserting in the back of the hand.",
+            "D": "trauma or burns patients.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "4b9854a2-040f-4fea-8f1c-5d3d12fb2d58",
+        "data": {
+            "input": "Which of these features suggest that a crackling sound is more likely due to a pleural friction rub than crackles?",
+            "A": "More prominent in expiration",
+            "B": "Alters with coughing",
+            "C": "No pain over the area",
+            "D": "Clubbing",
+            "target": "A"
+        }
+    },
+    {
+        "id": "5998d57b-3db4-42e3-b1c6-295519962eb5",
+        "data": {
+            "input": "In games like soccer the blood lactate concentration:",
+            "A": "rarely increases above 3 mM.",
+            "B": "is usually lower at the end of the game than at the end of the first half.",
+            "C": "is usually higher at the end of the game than at the end of the first half.",
+            "D": "increases throughout the course of the game as the players become more fatigued.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "be79266a-bb94-4dac-a4de-f59b478455e9",
+        "data": {
+            "input": "Lactate and hydrogen ions leave the muscle:",
+            "A": "via a cotransport mechanism with carnosine.",
+            "B": "via an active transport mechanism.",
+            "C": "via a protein transporter molecule.",
+            "D": "by simple diffusion.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "39baaf10-4a38-4572-ae1e-9a3753b36b8e",
+        "data": {
+            "input": "Which of the following is true of the spine?",
+            "A": "Back pain is an uncommon complaint",
+            "B": "Schober's test is designed to quantify the flexion of the lumbar spine",
+            "C": "Ankylosing spondylitis is a cause of hypermobility of the spine",
+            "D": "Pregnancy is a cause of loss of lordosis of the lumbar spine",
+            "target": "B"
+        }
+    },
+    {
+        "id": "5f7006e3-e96b-4fd3-bbf9-7305873f5155",
+        "data": {
+            "input": "Which of the following is true of psoriatic arthropathy?",
+            "A": "The absence of plaques of psoriasis excludes the diagnosis",
+            "B": "The diagnosis can be confirmed by a blood marker",
+            "C": "Tophi can sometimes be seen over affected joints",
+            "D": "Nail pitting may give a clue to the diagnosis",
+            "target": "D"
+        }
+    },
+    {
+        "id": "04b5e33b-cf0a-4790-b23b-0839e952a917",
+        "data": {
+            "input": "Which of the following is true of Graves Disease of the thyroid?",
+            "A": "It is a cause of ophthalmoplegia",
+            "B": "It causes a large multi-nodular goitre",
+            "C": "It is commoner in males than females",
+            "D": "In the past, Grave's disease sometimes caused 'Derbyshire Neck'",
+            "target": "A"
+        }
+    },
+    {
+        "id": "b69cfb69-a7a7-4ee4-a9c5-380ad6f41fe4",
+        "data": {
+            "input": "Which of the following is true of calcium metabolism?",
+            "A": "Calcitonin causes a rise in plasma calcium",
+            "B": "Primary hyperparathyroidism is usually asymptomatic",
+            "C": "Vitamin D is secreted by the parathyroid glands",
+            "D": "Oliguria is a symptom of hypercalcaemia",
+            "target": "B"
+        }
+    },
+    {
+        "id": "3218a53f-3508-4ab1-9910-294486a86b05",
+        "data": {
+            "input": "Kinase reactions:",
+            "A": "inhibit ATP breakdown.",
+            "B": "involve the addition or removal of a phosphate group.",
+            "C": "involve the addition or removal of a ketone group.",
+            "D": "involve the addition or removal of an amino acid to a polypeptide chain.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "3cd81a9d-c61b-4c63-bfa8-818c046a2296",
+        "data": {
+            "input": "The normal respiratory rate for an adult male is:",
+            "A": "10-12 breaths per minute.",
+            "B": "8-10 breaths per minute.",
+            "C": "20-22 breaths per minute.",
+            "D": "14-16 breaths per minute.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "436dc1ab-5a13-4402-8098-c858fd55d9b5",
+        "data": {
+            "input": "Collagen fibres:",
+            "A": "are re-established in the first five days of wound healing.",
+            "B": "provide a bridge across the surface of a wound.",
+            "C": "take some time to re-establish.",
+            "D": "are not needed if a wound is healing by primary intention.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "158dc66b-1cf8-4a90-b917-a78a5eec422b",
+        "data": {
+            "input": "Which of the following releases most energy when completely oxidised in the body?",
+            "A": "One gram of glucose",
+            "B": "One gram of palmitic acid",
+            "C": "One gram of leucine",
+            "D": "One gram of alcohol",
+            "target": "B"
+        }
+    },
+    {
+        "id": "88f4246d-054c-4a10-b03f-d095b8da74aa",
+        "data": {
+            "input": "Embedded in the inner membrane of the mitochondrion are:",
+            "A": "the enzymes of the tricarboxylic acid cycle (Krebs' cycle).",
+            "B": "the components of the electron transport chain.",
+            "C": "glycogen molecules.",
+            "D": "triacylglycerol molecules.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "dba13651-eaf2-4e50-ad4a-b4d16df05ece",
+        "data": {
+            "input": "If the mean rate of oxygen consumption of a male athlete during a training session is 2 l/min, then his rate of energy expenditure is approximately:",
+            "A": "400 kJ/min.",
+            "B": "200 kJ/min.",
+            "C": "80 kJ/min.",
+            "D": "40 kJ/min.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "25dc21ee-cab8-4d95-82c8-607bb4e8f2d3",
+        "data": {
+            "input": "A normal heart rate for an adult at rest is:",
+            "A": "60-80 bpm.",
+            "B": "60-100 bpm.",
+            "C": "60-90 bpm.",
+            "D": "60-110 bpm.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "2364ba5a-d791-4daf-8dae-09d640b36d21",
+        "data": {
+            "input": "Which of the following statements is false?",
+            "A": "Phosphofructokinase is the rate limiting enzyme in glycolysis.",
+            "B": "Phosphorylase activity is higher in Type II fibres than in Type I fibres.",
+            "C": "Endurance training increases the amount of TCA cycle enzymes in muscle.",
+            "D": "Oxygen is consumed in the TCA cycle.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "2a2a8a7a-db50-47fd-8249-a17b5d366870",
+        "data": {
+            "input": "Which of the following is true in ulna nerve palsy?",
+            "A": "The ulna nerve can be affected by a fracture of the spiral groove of the humerus",
+            "B": "It gives rise to a positive phalen's sign",
+            "C": "It leads to loss of sensation over the medial half of the hand and medial one and a half digits on both palmar and dorsal aspects of the hand",
+            "D": "It supplies the biceps muscles",
+            "target": "C"
+        }
+    },
+    {
+        "id": "b7565485-60fb-43f1-bc38-a50f6af02b01",
+        "data": {
+            "input": "How much toothpaste is recommended for cleaning teeth?",
+            "A": "A smear.",
+            "B": "A pea-sized amount.",
+            "C": "The length of the toothbrush.",
+            "D": "Half an inch.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "e852f3f2-dca1-4cf7-8c9a-db2bfdef0008",
+        "data": {
+            "input": "Which of the following is true about Cushing's Syndrome?",
+            "A": "It is due to a deficiency of cortisol hormone",
+            "B": "Enlarged extremities are commonly seen",
+            "C": "Osteoporosis is not a feature",
+            "D": "A moon face and a buffalo hump are characteristic of the disease",
+            "target": "D"
+        }
+    },
+    {
+        "id": "d31d3348-65e3-48e4-8c10-00ece2e32a53",
+        "data": {
+            "input": "The main factors determining success in sport are:",
+            "A": "a high energy diet and large appetite.",
+            "B": "high intelligence and motivation to succeed.",
+            "C": "a good coach and the motivation to succeed.",
+            "D": "innate ability and the capacity to respond to the training stimulus.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "e1cbcce5-b538-4ad4-ba6f-d4a0a5fdaf56",
+        "data": {
+            "input": "In a double stranded molecule of DNA, the ratio of purines : pyrimidines is:",
+            "A": "variable.",
+            "B": "determined by the base sequence in RNA.",
+            "C": "genetically determined.",
+            "D": "always 1:1.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "abf96dbc-c890-4bc4-8212-20233698751a",
+        "data": {
+            "input": "Performance enhancing synthetic steroids are based on the structure of the hormone:",
+            "A": "testosterone.",
+            "B": "cortisol.",
+            "C": "progesterone.",
+            "D": "aldosterone.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "a33e227e-00d8-4f1b-b6ee-a382422e59bc",
+        "data": {
+            "input": "Glycogen breakdown in exercising muscle is activated by:",
+            "A": "insulin.",
+            "B": "cortisol.",
+            "C": "increased pH.",
+            "D": "none of the above.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "8e632189-6b3b-467d-88a6-78826ca8a9b9",
+        "data": {
+            "input": "Most of the free fatty acids are transported in the blood:",
+            "A": "inside the red blood cells.",
+            "B": "as lipoproteins.",
+            "C": "combined with glucose.",
+            "D": "bound to albumin.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "ac5767b5-3360-4c05-babe-1e7372a3ad7a",
+        "data": {
+            "input": "How often should a cannula be flushed?",
+            "A": "Every 4 hours.",
+            "B": "Every 8 hours.",
+            "C": "Every 12 hours.",
+            "D": "Every 16 hours.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "0cdfdf84-e1e9-4b75-851f-eca4e9796b3f",
+        "data": {
+            "input": "The activity of creatine kinase is:",
+            "A": "increased when intracellular ADP rises.",
+            "B": "increased when muscle pH falls below 6.9.",
+            "C": "always lower in Type II fibres than Type I fibres.",
+            "D": "increased after a period of endurance training.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "924a5ead-8151-43b3-99f1-2879a8602e35",
+        "data": {
+            "input": "The smallest increments on a mercury and aneroid sphygmomanometer measure are:",
+            "A": "10 mmHg.",
+            "B": "4 mmHg.",
+            "C": "2 mmHg.",
+            "D": "1 mmHg.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "29f2e4ce-1761-46ad-b18a-e80f9d5f0d2d",
+        "data": {
+            "input": "Which of the following is not an abnormal breathing pattern seen in head injury and altered conscious level?",
+            "A": "Cheyne-Stokes respiration.",
+            "B": "Anaerobic respiration.",
+            "C": "Hyperventilation.",
+            "D": "Ataxic breathing.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "4b3455a9-573f-4356-9090-4c59391d740a",
+        "data": {
+            "input": "During CPR chest compressions and ventilations should be delivered in a ratio of:",
+            "A": "2:25",
+            "B": "15:02",
+            "C": "1:05",
+            "D": "30:02:00",
+            "target": "D"
+        }
+    },
+    {
+        "id": "0a7d5ddd-f024-4f77-a6aa-b48855ca2daa",
+        "data": {
+            "input": "A person weighs 62 kg. Their drug dose is 15 mg/kg. How many grams is their dose? Choose one answer from the following:",
+            "A": "930",
+            "B": "93",
+            "C": "9.3",
+            "D": "0.93",
+            "target": "D"
+        }
+    },
+    {
+        "id": "7e17d88d-f8d7-4f4b-a76d-1c3b7dff13b0",
+        "data": {
+            "input": "An expected side effect of creatine supplementation is:",
+            "A": "muscle weakness.",
+            "B": "gain in body mass.",
+            "C": "muscle cramps.",
+            "D": "loss of electrolytes.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "89676fd1-40af-43b1-a33c-e279a6c71adf",
+        "data": {
+            "input": "The cardiac cycle consists of the phases:",
+            "A": "systole, diastole, and rest.",
+            "B": "contraction, relaxation, and rest.",
+            "C": "diastole and systole.",
+            "D": "diastole, systole, and contraction.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "1dfebdcc-d6cb-4ff9-b843-3b56f0fb5043",
+        "data": {
+            "input": "Which of the following factors does not influence success in sport?",
+            "A": "Ability to tolerate heavy training without succumbing to illness or injury.",
+            "B": "Tactics.",
+            "C": "The diet.",
+            "D": "Ingestion of carnitine during exercise.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "a4b3557d-f959-420e-818e-d69be6a45e82",
+        "data": {
+            "input": "The chain of survival has four links. Put the following list in the correct order: 1. Early defibrillation; 2. Early CPR; 3. Recognition and call for help early; 4. Post-resuscitation care.",
+            "A": "3, 1, 2, 4.",
+            "B": "3, 2, 1, 4.",
+            "C": "1, 2, 3, 4.",
+            "D": "2, 1, 3, 4.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "a91f6c1a-efbf-4711-a6df-67a166ea18bb",
+        "data": {
+            "input": "A fundamental cause of fatigue in high intensity exercise is:",
+            "A": "a fall in the cell concentration of ADP.",
+            "B": "inhibition of ATP production.",
+            "C": "failure of the ATP supply to match the demand.",
+            "D": "lack of skill.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "241d8b23-8a2e-4faf-ae80-4ab0939d07c5",
+        "data": {
+            "input": "Which of the following is true about possible rectal findings?",
+            "A": "The finding of a palpable median groove in the prostate is an adverse finding",
+            "B": "Impacted faeces can sometimes be mistaken for a rectal tumour",
+            "C": "A thrombosed haemorrhoid is painless",
+            "D": "Peri-anal warts can only be demonstrated on proctoscopy",
+            "target": "B"
+        }
+    },
+    {
+        "id": "95149dba-94df-49a5-91dc-25d96c3ac8c9",
+        "data": {
+            "input": "What commonly causes skin excoriation?",
+            "A": "A well-fitting pouch.",
+            "B": "Changing the pouch every day.",
+            "C": "Leakage of effluent onto peristomal skin.",
+            "D": "The use of unscented soap to cleanse the skin.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "e5e64da5-8c9f-4a07-9fc6-c9ea1ef247cc",
+        "data": {
+            "input": "Which of the following is true of Systemic Sclerosis?",
+            "A": "It affects males more than females",
+            "B": "If telangiectasia are seen this clinches the diagnosis",
+            "C": "Arachnodactyly is a feature of the disease",
+            "D": "Patients have a beaked shaped nose and waxy skin",
+            "target": "D"
+        }
+    },
+    {
+        "id": "009dbaac-7a70-4d43-980b-a7407e443e16",
+        "data": {
+            "input": "A palpable left parasternal impulse suggests which abnormality?",
+            "A": "Right ventricular hypertrophy",
+            "B": "Aortic stenosis",
+            "C": "Aortic regurgitation",
+            "D": "Left ventricular hypertrophy",
+            "target": "A"
+        }
+    },
+    {
+        "id": "b4dd625b-ce11-4ae7-b146-b60c387fccee",
+        "data": {
+            "input": "In hypovolaemic shock, what percentage of blood can be lost before it is reflected in changes in heart rate and blood pressure?",
+            "A": "5%",
+            "B": "10%",
+            "C": "20%",
+            "D": "30%",
+            "target": "D"
+        }
+    },
+    {
+        "id": "84930800-c635-42df-91f7-af5f1e250d23",
+        "data": {
+            "input": "Which of the following best describes the effects of morphine?",
+            "A": "Reduces pain intensity and increases alertness.",
+            "B": "Reduces pain intensity but also causes sedation.",
+            "C": "Reduces pain intensity but also causes diarrhoea.",
+            "D": "Reduces pain intensity but also causes insomnia.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "647c533b-036d-407f-b74d-12244e5b4740",
+        "data": {
+            "input": "Which of the following is true of headache?",
+            "A": "When associated with neck stiffness is always due to meningitis",
+            "B": "Severe pain usually indicates a life threatening cause",
+            "C": "Temporal arteritis is strongly associated with rheumatoid arthritis",
+            "D": "Tension headaches is a common cause of headache",
+            "target": "D"
+        }
+    },
+    {
+        "id": "1c0d04f0-f93b-405a-8ea8-5cf7eae38fa1",
+        "data": {
+            "input": "Between contractions of the left ventricle the blood continues to flow through the vessels because:",
+            "A": "the atria are contracting.",
+            "B": "the vessels are contracted.",
+            "C": "the right ventricle is relaxed.",
+            "D": "the arteries have elastic recoil.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "90edd13f-bcd7-4aaa-a90a-787d13b410da",
+        "data": {
+            "input": "What might make the nurse think a patient could not use an inhaler?",
+            "A": "Severe leg ulcers.",
+            "B": "Previous recovery from an acute exacerbation of asthma.",
+            "C": "Forthcoming surgery.",
+            "D": "Poor technique, physical impairment, or lack of understanding.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "1826a4ea-008f-486e-8662-4f9cccd5d562",
+        "data": {
+            "input": "Removal of adhesive strips:",
+            "A": "can be carried out by the patient.",
+            "B": "should be undertaken under aseptic conditions.",
+            "C": "is a specialist skill.",
+            "D": "should not be undertaken until at least seven days after application.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "6882af57-9646-4321-b346-c58ca49b8536",
+        "data": {
+            "input": "During CPR, chest compressions should be delivered at a rate of:",
+            "A": "80/minute.",
+            "B": "as fast as possible.",
+            "C": "100/minute.",
+            "D": "varies with each patient.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "3b814a34-bd4b-4e83-a556-f49c0e3ce26d",
+        "data": {
+            "input": "Which of the following physiological characteristics is not important for success in endurance events such as the marathon race?",
+            "A": "The ability to regulate body temperature.",
+            "B": "The ability to supply oxygen to the exercising muscles.",
+            "C": "The availability of body stores of carbohydrate.",
+            "D": "Muscle ATP and phosphocreatine content.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "b67d76c9-1430-4d5b-a194-23a659a83c04",
+        "data": {
+            "input": "When using an inhaler, when should a patient be asked to rinse their mouth?",
+            "A": "Before using their bronchodilator inhaler.",
+            "B": "After using their bronchodilator inhaler.",
+            "C": "Before using their steroid inhaler.",
+            "D": "After using their steroid inhaler.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "bfddbc38-1355-4f82-be29-a47b4bc1eb7a",
+        "data": {
+            "input": "Muscle lactate production increases when:",
+            "A": "oxygen is readily available.",
+            "B": "pyruvate cannot be formed from glucose breakdown.",
+            "C": "the pH of the muscle falls.",
+            "D": "glycolysis is activated at the onset of exercise.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "12cb28a5-72a6-4b5e-8458-f460d8da83a0",
+        "data": {
+            "input": "What is the minimum time a stretch should be held for?",
+            "A": "0-10 seconds.",
+            "B": "10-30 seconds.",
+            "C": "30-50 seconds.",
+            "D": "60 seconds.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "f80cd988-9d8e-4d11-8364-11069fb5e898",
+        "data": {
+            "input": "What three factors regulate stroke volume?",
+            "A": "Blood volume, preload, and afterload.",
+            "B": "Preload, contractility, and afterload.",
+            "C": "Contractility, blood volume, and blood pressure.",
+            "D": "Cardiac output, contractility, and blood volume.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "fd64b5b0-c3fd-478b-94e3-13243b7559e3",
+        "data": {
+            "input": "Name the bones of the middle finger in the correct order from the hand.",
+            "A": "Proximal phalynx, middle phalynx, distal phalynx.",
+            "B": "Distal phalynx, middle phalynx, proximal phalynx.",
+            "C": "Middle phalynx, distal phalynx, proximal phalynx.",
+            "D": "Distal phalynx, proximal phalynx, middle phalynx.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "cb2725d9-1236-40b5-986a-d6892224f317",
+        "data": {
+            "input": "Which of the following promotes glucose and amino acid uptake by muscle?",
+            "A": "Adrenaline",
+            "B": "Insulin",
+            "C": "Glycogen",
+            "D": "Cortisol",
+            "target": "B"
+        }
+    },
+    {
+        "id": "fe26b3e3-eb6a-4bdc-9a1e-f40efe02c38b",
+        "data": {
+            "input": "An ileostomy opening should be:",
+            "A": "flush with the skin.",
+            "B": "3-5cm in length.",
+            "C": "below skin level.",
+            "D": "over 5cm in length.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "e5c81a79-ac5f-487b-8dfb-b3d6056988e7",
+        "data": {
+            "input": "Which of the following would not be done before catheterizing?",
+            "A": "Gain patient consent.",
+            "B": "Patient to be washed.",
+            "C": "Expiry dates to be checked.",
+            "D": "Ring patient's next of kin.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "f188d699-615f-47cb-a1f2-e0514be0077d",
+        "data": {
+            "input": "Hydrogen ions are formed when:",
+            "A": "glycogen becomes depleted.",
+            "B": "phosphocreatine breakdown occurs.",
+            "C": "pyruvate is converted to lactate.",
+            "D": "glycolysis is being used as a major means of resynthesising ATP.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "8758c897-4c13-4782-954c-25e8b06600f4",
+        "data": {
+            "input": "Which one of the following manoeuvres is not a central painful stimulus?",
+            "A": "Supra-orbital ridge pressure.",
+            "B": "Pressure on the little finger pulp.",
+            "C": "Trapezius squeeze.",
+            "D": "Sternal rub.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "b25e8f0b-c6d0-4ab0-b690-61e48e9a1d31",
+        "data": {
+            "input": "Dopamine is prescribed at a rate of 4 micrograms/kg/min. For a 65 kg person, how many milligrams will they receive in an hour?",
+            "A": "156",
+            "B": "15.6",
+            "C": "1.56",
+            "D": "15600",
+            "target": "B"
+        }
+    },
+    {
+        "id": "a19eccf2-a29d-4015-8b2b-c24ec7cf67ee",
+        "data": {
+            "input": "Which of the following is true about the rectal examination?",
+            "A": "If the patient refuses a chaperone the doctor can overrule them",
+            "B": "The rectal examination is of no value in a neurological examination",
+            "C": "The optimum position of the patient is on their right side with their knees extended",
+            "D": "The rectal examination is indicated for the assessment of some gastrointestinal disorders",
+            "target": "D"
+        }
+    },
+    {
+        "id": "14747fa8-37fb-469e-958e-9cf561afe9ff",
+        "data": {
+            "input": "Why can't a patient talk if the cuff is inflated?",
+            "A": "They are unable to breathe in sufficiently.",
+            "B": "They are unable to swallow properly.",
+            "C": "It is too tiring.",
+            "D": "They are unable to pass air through their vocal cords.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "ff73a1f2-10d8-43b0-befb-79f0d13248a7",
+        "data": {
+            "input": "Wound drainage should be assessed for volume and consistency:",
+            "A": "each time post-operative observations are undertaken.",
+            "B": "daily.",
+            "C": "every hour.",
+            "D": "only when the wound dressing is changed.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "b3be9696-69f6-4718-bbdc-72548a963f4e",
+        "data": {
+            "input": "Creatine is synthesized from:",
+            "A": "amino acids in the muscles.",
+            "B": "amino acids in the liver.",
+            "C": "amino acids in the kidneys.",
+            "D": "creatinine in the kidneys.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "06144322-43b0-4ac4-9112-8834f8f9d796",
+        "data": {
+            "input": "If a catheter resists all attempts to unblock it and you are unable to remove it, what should you do?",
+            "A": "Try harder to remove it.",
+            "B": "Try harder to unblock it.",
+            "C": "Leave it until next time.",
+            "D": "Call for assistance from a medical practitioner.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "3beb882f-ec04-4de6-af18-f79d22d08545",
+        "data": {
+            "input": "Bladder washout solution should be:",
+            "A": "warm.",
+            "B": "cold.",
+            "C": "refrigerated.",
+            "D": "room temperature.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "e5f711f0-32d5-4b46-897c-a96a01924880",
+        "data": {
+            "input": "When developing a plan of care relating to the management of a person's pain, attention should be given to the following needs:",
+            "A": "physical and pharmacological needs only.",
+            "B": "physical and psychological needs only.",
+            "C": "physical, psychological, and pharmacological needs followed by regular reassessment.",
+            "D": "none of the above, as the main priority is to limit drug side effects.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "fd242ef0-7837-434c-bec8-e35d5bdc3735",
+        "data": {
+            "input": "Patients with the apolipoprotein E gene are at risk of which disease?",
+            "A": "Cystic fibrosis.",
+            "B": "Huntington's dementia.",
+            "C": "Alzheimer's disease.",
+            "D": "Depression.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "7778d1e1-0e99-449c-85ca-dc6b7a55a700",
+        "data": {
+            "input": "Which of the following groups of drugs may cause a dry mouth?",
+            "A": "Steroids.",
+            "B": "Analgesics.",
+            "C": "Antidepressants.",
+            "D": "Antifungal agents.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "d91fa345-319a-469d-86dc-a767bb9df326",
+        "data": {
+            "input": "Which of the following is not a true statement?",
+            "A": "Muscle glycogen is broken down enzymatically to glucose-1-phosphate",
+            "B": "Elite endurance runners have a high proportion of Type I fibres in their leg muscles",
+            "C": "Liver glycogen is important in the maintenance of the blood glucose concentration",
+            "D": "Insulin promotes glucose uptake by all tissues in the body",
+            "target": "D"
+        }
+    },
+    {
+        "id": "91aa63cd-a500-440b-b332-06962d8cd3c2",
+        "data": {
+            "input": "If a patient is cyanosed, what might their oxygen saturation level be?",
+            "A": "98% or above.",
+            "B": "94% or above.",
+            "C": "80% or below.",
+            "D": "85% or above.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "583b772b-5567-416c-8318-019893261c79",
+        "data": {
+            "input": "When assessing a patient's breathing:",
+            "A": "always remove dentures.",
+            "B": "look for chest movements and use a mirror to check for exhaled air.",
+            "C": "look for chest movements, listen for breath sounds, and feel for exhaled air on your cheek.",
+            "D": "assess for 30 seconds.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "458a432e-02eb-4eaf-8fb2-d4d823eef0ca",
+        "data": {
+            "input": "A person is prescribed Ropinirole 1.5 mg divided into three doses. How many micrograms is each dose? Choose one answer from the following:",
+            "A": "5",
+            "B": "50",
+            "C": "0.5",
+            "D": "500",
+            "target": "D"
+        }
+    },
+    {
+        "id": "4292a112-4088-437c-9e87-81d998b937a1",
+        "data": {
+            "input": "Which of the following is thought to be implicated in the development of peripheral muscle fatigue during multiple sprint activities?",
+            "A": "An accumulation of inorganic phosphate.",
+            "B": "Development of hyperosmolality in the muscles.",
+            "C": "An excess of antioxidants.",
+            "D": "A lack of potassium.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "5f5bd7e5-1f30-4f54-a9d4-730d72139cd1",
+        "data": {
+            "input": "The ATP store in muscle can only supply energy in high intensity exercise for about:",
+            "A": "2 milliseconds.",
+            "B": "2 seconds.",
+            "C": "10 seconds.",
+            "D": "20 seconds.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "4bc74bdb-0950-4d55-a15a-a122a0c26fb9",
+        "data": {
+            "input": "960 mg of the antibacterial drug Cotrimoxazole is prescribed every 12 hours. What is the daily dose in grams? Choose one answer from the following:",
+            "A": "0.192",
+            "B": "1.92",
+            "C": "1920",
+            "D": "0.96",
+            "target": "B"
+        }
+    },
+    {
+        "id": "5470b19e-ccc8-4c11-a94f-3295e0af7581",
+        "data": {
+            "input": "Which of the following is true of hypothyroidism?",
+            "A": "Weight loss",
+            "B": "Pre-tibial myxoedema",
+            "C": "A raised TSH level",
+            "D": "An aversion to warm places",
+            "target": "C"
+        }
+    },
+    {
+        "id": "c6d206a8-2964-483d-8a6c-d777c42b8506",
+        "data": {
+            "input": "What is hypochlorhydria?",
+            "A": "Increased amount of gastric acid.",
+            "B": "Gastric ulceration.",
+            "C": "Reduced amount of gastric acid.",
+            "D": "Pernicious anaemia.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "a0357e9f-4d54-4e8e-b6d7-dc6a61928d63",
+        "data": {
+            "input": "A 67-year-old man, three hours post-transurethral resection of prostate with irrigation, has a blocked catheter. Which solution should be used to complete bladder washout?",
+            "A": "Solution R.",
+            "B": "Normal saline.",
+            "C": "Solution G.",
+            "D": "Any of the above.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "d1756712-16c3-498a-967d-247cc9984f95",
+        "data": {
+            "input": "A keloid is:",
+            "A": "evidence of infection.",
+            "B": "a firm mass of scar tissue.",
+            "C": "a fine, hairline scar.",
+            "D": "formed if a wound drain is removed too soon.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "915c3983-0b24-4f91-98eb-1a22bd56a3ba",
+        "data": {
+            "input": "Which of the following is not an amino acid?",
+            "A": "Glutamic acid",
+            "B": "Aspartic acid",
+            "C": "Glutamine",
+            "D": "Palmitic acid",
+            "target": "D"
+        }
+    },
+    {
+        "id": "1e8fce4c-504a-4975-8312-527607f2b38c",
+        "data": {
+            "input": "Wound drainage is described as serous if:",
+            "A": "it contains red blood cells.",
+            "B": "it is thick and yellow or green.",
+            "C": "it contains microorganisms.",
+            "D": "it is clear or slightly yellow.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "0012764d-42fb-49cb-a401-a04c22458ee9",
+        "data": {
+            "input": "The sex of a child is dictated by the inheritance of:",
+            "A": "the number of X chromosomes from the mother.",
+            "B": "a recessive allele on the X chromosome.",
+            "C": "a single Y chromosome from the mother.",
+            "D": "a single Y chromosome from the father.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "6de01154-6d2e-4dc1-b744-bfae218906f6",
+        "data": {
+            "input": "Which of the following is true in spastic paraplegia?",
+            "A": "Multiple Sclerosis can cause this neurological pattern",
+            "B": "Proprioceptive loss is a common feature",
+            "C": "Coordination in the legs is affected",
+            "D": "The tone is normal or flaccid",
+            "target": "A"
+        }
+    },
+    {
+        "id": "f112e2d8-a948-48ec-8bfb-5be69773f6be",
+        "data": {
+            "input": "The synthesis of glucose from lactate, glycerol, or amino acids is called:",
+            "A": "glycogenolysis.",
+            "B": "glycolysis.",
+            "C": "lipolysis.",
+            "D": "gluconeogenesis.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "71bc39e8-e47b-4604-b641-f074229a4b8a",
+        "data": {
+            "input": "If a blood unit has been out of refrigeration for longer than the accepted time limit, you should:",
+            "A": "transfuse it as soon as possible and annotate the patient's notes with the time of administration.",
+            "B": "dispose of the contents in the sluice area, keeping the bag for record purposes.",
+            "C": "return it to the blood bank and inform them of why you have done so.",
+            "D": "refrigerate for a minimum of 12 hours and then administer it.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "0e9092d9-858b-49fd-b744-ca8c7687f748",
+        "data": {
+            "input": "The auscultatory gap is:",
+            "A": "when you can no longer hear the Korotkoff sounds because the bladder is equal with the diastolic pressure.",
+            "B": "when the Korotkoff sounds can be heard between systolic and diastolic phases.",
+            "C": "when the Korotkoff sounds disappear then return during phase 2 as the bladder is deflated.",
+            "D": "When the Korotkoff sounds do not disappear when the cuff is fully deflated.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "8c3ccb03-9c26-485c-ab8a-8a27da5f85cc",
+        "data": {
+            "input": "How many different types of microorganisms may colonize the mouth?",
+            "A": "35",
+            "B": "100",
+            "C": "350",
+            "D": "500",
+            "target": "C"
+        }
+    },
+    {
+        "id": "1416cd77-484e-454f-bdfb-10de514db995",
+        "data": {
+            "input": "Why should shampoo not be used for washing the skin when showering or bathing?",
+            "A": "It is more slippery than soap or emollients.",
+            "B": "It will not produce sufficient lather.",
+            "C": "It is not cost-effective.",
+            "D": "It can cause dryness of the skin.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "c5ee81c9-9481-4486-9267-ae1a8088a9d4",
+        "data": {
+            "input": "Which of the following is the same strength as Adrenaline 1 in 1000? Choose one answer from the following:",
+            "A": "1 mg/mL",
+            "B": "1 mg/L",
+            "C": "1 g/mL",
+            "D": "100 micrograms/mL",
+            "target": "A"
+        }
+    },
+    {
+        "id": "b762d4c9-4c40-40f9-9299-071e5b7d959b",
+        "data": {
+            "input": "An allele that is masked is referred to as:",
+            "A": "recessive.",
+            "B": "redundant.",
+            "C": "repressed.",
+            "D": "reclusive.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "9aa5f6cc-adb9-4916-8ec3-c26ba87e7769",
+        "data": {
+            "input": "Hypernatraemic dehydration is:",
+            "A": "water intake is less than is needed to maintain balance.",
+            "B": "water intake is more than is needed to maintain balance.",
+            "C": "blood volume is lost due to trauma or burns.",
+            "D": "blood volume is lost due to surgery.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "5dc7e358-d32e-4d15-9ad3-ee8cf7034f7d",
+        "data": {
+            "input": "Which of the following is not associated with an increase in the work of breathing?",
+            "A": "Rise in respiratory rate.",
+            "B": "Noisy breathing.",
+            "C": "Increase in the use of accessory muscles.",
+            "D": "A respiratory rate of 16 breaths per minute.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "9c675bca-910b-429e-a611-29b07333d74b",
+        "data": {
+            "input": "Which of the following can act as an intracellular buffer to limit pH changes when the rate of glycolysis is high?",
+            "A": "Glutamine",
+            "B": "Glucose",
+            "C": "Carnosine",
+            "D": "Amylase",
+            "target": "C"
+        }
+    },
+    {
+        "id": "4332394a-094b-4375-b0d7-ddbcfe37fb72",
+        "data": {
+            "input": "Which of the following is true about Addisons Disease?",
+            "A": "It is due to a deficiency of prolactin hormone",
+            "B": "Leads to generalized pigmentation",
+            "C": "It is a recognized cause of hypertension",
+            "D": "Diabetes is a complication",
+            "target": "B"
+        }
+    },
+    {
+        "id": "e347b261-a7d2-474f-aa6b-011314b0a4c2",
+        "data": {
+            "input": "Which of the following are indicative signs and symptoms of circulatory overload?",
+            "A": "Hypothermia, hypotension, and bradycardia.",
+            "B": "Hypotension, oliguria, and uticaria.",
+            "C": "Shivering, pyrexia, and thirst.",
+            "D": "Dyspnoea, tachycardia, and distended neck veins.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "8c40d64a-6550-4568-96b9-d5ead60e9077",
+        "data": {
+            "input": "What is the most likely cause of acute urinary retention of urine?",
+            "A": "Haematuria.",
+            "B": "Bladder outflow obstruction.",
+            "C": "Drinking alcohol.",
+            "D": "Kidney stones.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "b653cffc-9efd-446a-81f3-15d3da06f1ab",
+        "data": {
+            "input": "Which of the following tools is the first choice for cleaning the mouth?",
+            "A": "Small, soft toothbrush.",
+            "B": "Gloved finger wrapped in gauze.",
+            "C": "Forceps wrapped in gauze.",
+            "D": "Foam stick.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "67b9016c-d72b-4a4a-88b2-65ea0fa1a97b",
+        "data": {
+            "input": "Which of the following drugs may be used to enhance gastric motility?",
+            "A": "Adrenaline.",
+            "B": "Ditropan.",
+            "C": "Erythromycin.",
+            "D": "Carbemazepine.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "41a5e9a3-05d3-4a9a-9c73-9c3b48458d8c",
+        "data": {
+            "input": "The creatine kinase reaction is:",
+            "A": "irreversible.",
+            "B": "slow compared with glycolysis.",
+            "C": "not activated until all the ATP has been used up.",
+            "D": "inhibited by low pH in the muscle.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "3ac7aff8-6ab4-462b-99b9-b9dafa921780",
+        "data": {
+            "input": "Where should a stoma be sited?",
+            "A": "The rectus sheath abdominus.",
+            "B": "Next to the umbilicus.",
+            "C": "Within an abdominal crease.",
+            "D": "In close proximity to the incision site.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "0491de82-ef50-4641-ba2a-81f7e91dbbc6",
+        "data": {
+            "input": "Women's world record performances have improved rapidly in recent years mainly because:",
+            "A": "women have evolved a greater muscle mass.",
+            "B": "women can now run faster than men.",
+            "C": "women have started training at an earlier age.",
+            "D": "more women are now engaged in sport.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "a32ee5c8-59d0-468c-8e7f-bb25b612a297",
+        "data": {
+            "input": "Our genetic material is made up of:",
+            "A": "deoxyribonucleic acid.",
+            "B": "ribonucleic acid.",
+            "C": "dinitronucleic acid.",
+            "D": "protein.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "780bb19c-a2db-4e1d-a7e1-e95376f11ec2",
+        "data": {
+            "input": "Insensible loss does not come from:",
+            "A": "pyrexia.",
+            "B": "using unhumidified oxygen.",
+            "C": "excessive weight loss.",
+            "D": "diarrhoea.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "9a36a97e-ff2b-4565-a507-15c4fcaba7c9",
+        "data": {
+            "input": "Exhaustion, confusion, and unresponsiveness can be indicators of:",
+            "A": "respiratory failure.",
+            "B": "being generally unwell.",
+            "C": "renal failure.",
+            "D": "cardiac failure.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "a04ef9c7-fef5-4f58-9561-59f53022c041",
+        "data": {
+            "input": "Pairs of electrons carried in the form, FADH2 and NADH+H, collectively contain enough free energy to rephosphorylate:",
+            "A": "6 ATP.",
+            "B": "5 ATP.",
+            "C": "4 ATP.",
+            "D": "3 ATP.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "8b4044db-a132-4027-b7c1-177131c8b380",
+        "data": {
+            "input": "A muscle fibre relaxes when:",
+            "A": "the nerve stimulus is removed.",
+            "B": "the nerve stimulus is too forceful.",
+            "C": "the actin binding sites are uncovered.",
+            "D": "the actin binding sites are saturated.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "38cad38e-def8-48e0-820c-8fa112d109a6",
+        "data": {
+            "input": "Which of the following best describes the Golgi tendon organ?",
+            "A": "Proprioceptive motor receptor found within main muscle body.",
+            "B": "Proprioceptive sensory receptor found at the junction between muscle and tendon.",
+            "C": "Proprioceptive sensory receptor found within main muscle body.",
+            "D": "Proprioceptive motor receptor found at the junction between muscle and tendon.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "0bead549-29c7-4644-87a8-bc74b3bf3db4",
+        "data": {
+            "input": "The pulse can be palpated:",
+            "A": "every time the atria contracts.",
+            "B": "when a vein is close to the surface of the skin.",
+            "C": "every time the left ventricle contracts.",
+            "D": "when an artery is close to the surface of the skin.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "45636450-bffb-4890-88ba-bda4373e75c7",
+        "data": {
+            "input": "The pyruvate dehydrogenase complex:",
+            "A": "is located in the sarcoplasm.",
+            "B": "catalyses the conversion of pyruvate to acetyl CoA.",
+            "C": "catalyses the conversion of pyruvate to lactate.",
+            "D": "catalyses the conversion of lactate to pyruvate.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "fee50c82-4ecb-461b-bded-07ab96855e19",
+        "data": {
+            "input": "Which of the following is true about the knee joint?",
+            "A": "The knee is a ball and socket joint",
+            "B": "A baker's cyst can sometimes be found anterior to the knee",
+            "C": "The patellar tap is used to demonstrate an effusion",
+            "D": "'knock knee' deformity is due to bilateral genu varum",
+            "target": "C"
+        }
+    },
+    {
+        "id": "38303388-5d62-4eef-8f15-7f98feeb88d3",
+        "data": {
+            "input": "Who is the publication Your guide to the NHS written for?",
+            "A": "GPs.",
+            "B": "Patient lobby groups.",
+            "C": "The general public.",
+            "D": "Patients admitted to hospital.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "33522c64-73dc-4982-b6e7-0e2a77d866a6",
+        "data": {
+            "input": "Which of the following is true about the assessment of arm reflexes?",
+            "A": "The root value of the biceps reflex is C5, C6",
+            "B": "If no reflex is elicited when you tap a tendon it is documented as absent",
+            "C": "The triceps tendon is struck in the antecubital fossa",
+            "D": "Brisk finger jerks confirm a lower motor neurone lesion",
+            "target": "A"
+        }
+    },
+    {
+        "id": "fcef5171-97ea-48ec-b108-97a70a794646",
+        "data": {
+            "input": "Which of these is most likely to cause deviation of the trachea?",
+            "A": "A left basal pneumonia",
+            "B": "A small right pleural effusion",
+            "C": "Previous tuberculosis of the right upper lobe",
+            "D": "Idiopathic fibrosing alveolitis",
+            "target": "C"
+        }
+    },
+    {
+        "id": "b7c8da1a-ca05-41c0-98a0-4c9081b4163e",
+        "data": {
+            "input": "What is the risk if water is used for bladder washout in secondary care?",
+            "A": "Fluid may bypass when the washout is carried out.",
+            "B": "Bladder washout may be unsuccessful.",
+            "C": "Using water may cause electrolyte imbalance.",
+            "D": "The medical staff may be unhappy.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "00e98950-83ea-4188-869b-0a9a901c2427",
+        "data": {
+            "input": "What is the 'normal' range of flexion at the knee joint?",
+            "A": "0-115 degrees.",
+            "B": "0-135 degrees.",
+            "C": "0-155 degrees.",
+            "D": "0-175 degrees.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "abc5fb8e-c0e2-4771-8de0-52917c7f6355",
+        "data": {
+            "input": "Which of the following is not a controlled drug?",
+            "A": "A 30 milligram ampoule of Codeine Phosphate for injection.",
+            "B": "A sustained release Morphine tablet.",
+            "C": "A 12.5 microgram Fentanyl patch.",
+            "D": "A 500 ml bottle of Morphine 10 mg in 5 ml in oral suspension.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "5051ad70-2ec4-4ff8-a315-991506babbbf",
+        "data": {
+            "input": "After what period of time does maximal dynamic exercise become predominantly aerobic?",
+            "A": "10 seconds",
+            "B": "30 seconds",
+            "C": "1 minute",
+            "D": "4 minutes",
+            "target": "C"
+        }
+    },
+    {
+        "id": "bb720957-b273-43c3-ab2e-05fa8119662b",
+        "data": {
+            "input": "The trigger to initiate the contractile process in skeletal muscle is:",
+            "A": "potassium binding to myosin.",
+            "B": "calcium binding to tropomyosin.",
+            "C": "ATP binding to the myosin cross bridges.",
+            "D": "calcium binding to troponin.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "102bb62c-e75e-4556-a55a-3f344d93a3db",
+        "data": {
+            "input": "Which of the following is NOT a sign of phlebitis?",
+            "A": "Swelling.",
+            "B": "Redness.",
+            "C": "Exudate.",
+            "D": "Cool to the touch.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "7f60c19c-377d-4188-91a3-b5ed4bcc8d15",
+        "data": {
+            "input": "The energy charge of the cell is:",
+            "A": "the difference between the charge on the outside and inside of a cell.",
+            "B": "generated by the sodium-potassium ATPase.",
+            "C": "the overall rate of energy use by the cell.",
+            "D": "the extent to which the total adenine nucleotide pool is phosphorylated.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "15891e9f-d850-4a28-92ec-a39c50674127",
+        "data": {
+            "input": "The sarcoplasmic reticulum in muscle cells acts as a:",
+            "A": "store of digestive enzymes.",
+            "B": "store of sodium ions.",
+            "C": "store of lipid.",
+            "D": "store of calcium ions.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "82d49d60-a53b-4318-9995-5225dbfa2690",
+        "data": {
+            "input": "Which of the following parameters are seen on typical neurological observation charts?",
+            "A": "Urine output.",
+            "B": "Temperature.",
+            "C": "Central venous pressure.",
+            "D": "Blood glucose.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "c4e68a9c-dfda-4ed1-aec9-ffc510f788f7",
+        "data": {
+            "input": "In the discharge checklist recommended by the Department of Health (2004), who should be involved in completing the form?",
+            "A": "The GP, consultant, and named nurse.",
+            "B": "The nurse, patient, and ward clerk.",
+            "C": "The nurse, ward clerk, and consultant.",
+            "D": "The nurse, consultant, and GP.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "f3bee070-9710-4fd9-a0d5-4c09740ca9dc",
+        "data": {
+            "input": "Which of the following is true regarding the complications of a large goitre?",
+            "A": "It causes stridor due to compression of the oesophagus",
+            "B": "Dysphagia is an indication for surgery",
+            "C": "It causes hoarseness due to compression of the trachea",
+            "D": "It causes a more florid thyrotoxicosis than a smaller goitre",
+            "target": "B"
+        }
+    },
+    {
+        "id": "02dd64ec-ee47-46e9-aa16-8461fd3ef71d",
+        "data": {
+            "input": "The heart has:",
+            "A": "two valves and two chambers.",
+            "B": "four valves and four chambers.",
+            "C": "two valves and four chambers.",
+            "D": "four valves and two chambers.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "1fa7c9f9-3efb-4063-b941-a9b2aeb4b57d",
+        "data": {
+            "input": "Which one of the following groups of patients should be assessed using an Early Warning Score (EWS)?",
+            "A": "Only patients over 60 years of age.",
+            "B": "Only patients admitted to the Emergency Department.",
+            "C": "Only patients who have been on an Intensive care/High dependency unit.",
+            "D": "Any patient who is acutely unwell pre-operatively or post-operatively and those who have undergone major surgery.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "75ce4766-18ce-4a63-b1bc-694b77910e8d",
+        "data": {
+            "input": "What is the purpose of the cuff on a tracheostomy tube?",
+            "A": "To create an air seal within the trachea and reduce the risk of aspirating saliva or gastric contents.",
+            "B": "To reduce local oedema.",
+            "C": "To assist with swallowing.",
+            "D": "To allow the patient to talk.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "40991d4d-ae0a-429c-86dd-9b92505de96b",
+        "data": {
+            "input": "What type of covalent bonds link the amino acids in a protein?",
+            "A": "Peptide bonds",
+            "B": "Hydrogen bonds",
+            "C": "Ionic bonds",
+            "D": "Glycosidic bonds",
+            "target": "A"
+        }
+    },
+    {
+        "id": "c61fe433-b49b-4a06-bfd3-54f43f37a46e",
+        "data": {
+            "input": "Which is the most reliable way to assess for clubbing?",
+            "A": "Inspect the nail-bed angle from above",
+            "B": "Assessing the fluctuancy of the nail-bed",
+            "C": "Schamroth's sign",
+            "D": "Inspect the nail-bed angle from the side",
+            "target": "D"
+        }
+    },
+    {
+        "id": "35a80882-4d8f-4664-b678-4621b8f0afa2",
+        "data": {
+            "input": "The term gene doping refers to:",
+            "A": "the use of drugs to modify gene transcription.",
+            "B": "the use of genetic manipulation techniques to enhance performance in sport.",
+            "C": "the activation or inhibition of genes to mask drug taking by athletes.",
+            "D": "the use of drugs to modify the myostatin gene.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "1cb12bed-688d-4118-9a1f-5c73946df804",
+        "data": {
+            "input": "Name three of the five main uses of the hand.",
+            "A": "Touch, feel, stroke.",
+            "B": "Grip, percussion, sensory.",
+            "C": "Tap, slap, clap.",
+            "D": "Touch, pinch, grasp.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "1b632778-0a6d-4978-bb37-d2364b32c9fe",
+        "data": {
+            "input": "Which of the following is true about an abdominal mass?",
+            "A": "A pulsatile mass is always due to an aortic aneurysm",
+            "B": "An enlarged kidney is dull to percussion",
+            "C": "A large mass arising out of the pelvis which disappears following urethral catheterization is caused by an ovarian cyst",
+            "D": "An indentible mass is caused by faecal loading of the colon",
+            "target": "D"
+        }
+    },
+    {
+        "id": "5b24dffc-090e-46b3-b9eb-391202a3b9c3",
+        "data": {
+            "input": "Which of the following is not a category used to classify patients according to the Glasgow Coma Scale?",
+            "A": "Eye opening.",
+            "B": "Verbal response.",
+            "C": "Best motor response.",
+            "D": "Pupil response.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "b64855a0-92d4-423d-b002-3750cd36ab6a",
+        "data": {
+            "input": "Which of these combinations of clinical features is most suggestive of mixed mitral valve disease with a predominance of mitral regurgitation?",
+            "A": "Displaced apex beat; soft first heart sound; pan-systolic murmur; short mid-diastolic murmur",
+            "B": "Irregularly, irregular pulse; displaced apex beat; ejection systolic murmur; short mid-diastolic murmur",
+            "C": "Displaced apex beat; normal first heart sound; pan-systolic murmur; long mid-diastolic murmur",
+            "D": "Tapping apex beat; loud first heart sound; pan-systolic murmur; long mid-diastolic murmur",
+            "target": "A"
+        }
+    },
+    {
+        "id": "36985e1c-4e7b-42f2-804c-3fee270a8d7a",
+        "data": {
+            "input": "Prior to undergoing a painful procedure, a patient should be informed about what to expect and how their pain will be controlled, as this is associated with:",
+            "A": "a reduction in anxiety and perceived pain intensity.",
+            "B": "an increased use of analgesia.",
+            "C": "a decrease in the frequency of pain-related problems such as nausea and vomiting.",
+            "D": "an increased urine output.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "e04e819a-eb6e-4d45-a685-1fc8145f7e41",
+        "data": {
+            "input": "The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of:",
+            "A": "six molecules of water.",
+            "B": "two molecules of ATP.",
+            "C": "three molecules of ATP.",
+            "D": "thirty-eight molecules of ATP.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "1f8a6b93-03de-4e50-b1c6-dafcfb3fbe98",
+        "data": {
+            "input": "The net production of ATP via substrate-level phosphorylation in glycolysis is:",
+            "A": "2 from glucose and 3 from glycogen.",
+            "B": "2 from glucose and 4 from glycogen.",
+            "C": "3 from glucose and 4 from glycogen.",
+            "D": "3 from glucose and 2 from glycogen.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "a40a1ff5-e98c-4ffd-862c-4f70c0303bfc",
+        "data": {
+            "input": "Which of the following is true about rectal bleeding?",
+            "A": "A painful digital examination suggests an anal fissure",
+            "B": "Bright red blood on the finger usually signifies a caecal lesion",
+            "C": "Proctoscopy is of no value in the assessment of rectal bleeding",
+            "D": "Rectal cancer is the commonest cause of rectal bleeding",
+            "target": "A"
+        }
+    },
+    {
+        "id": "329457ff-ab19-42d0-90f7-60b5568754e3",
+        "data": {
+            "input": "Mutations are errors in DNA that:",
+            "A": "are always harmful.",
+            "B": "only occur in the presence of carcinogens.",
+            "C": "increase tumour growth.",
+            "D": "occur spontaneously at a low rate.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "6202fa0a-4e62-44af-ab87-12b1d1b0cf40",
+        "data": {
+            "input": "When recording peak flow results, within how many litres/minute should the three readings be?",
+            "A": "10 litres per minute of each other.",
+            "B": "20 litres per minute of each other.",
+            "C": "100 litres per minute of each other.",
+            "D": "30 litres per minute of each other.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "1b27d9f9-cc5b-4fc9-8a85-ff9e90079d34",
+        "data": {
+            "input": "Peak flow meters record:",
+            "A": "the lowest rate of air expelled from the lungs through an open mouth.",
+            "B": "forced expiratory volume.",
+            "C": "forced vital capacity.",
+            "D": "the highest rate of air expelled from the lungs through an open mouth.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "2cf14719-0e72-45f3-8df5-463d2c12a116",
+        "data": {
+            "input": "Which of the following should patients remember when taking paracetamol?",
+            "A": "It can interfere with the effectiveness of other drugs such as Warfarin.",
+            "B": "It should only be given on an 'as required' basis.",
+            "C": "Patients should carefully check the contents of over-the-counter cold remedies in order to prevent accidental overdose, as such preparations often contain additional paracetamol.",
+            "D": "It is contraindicated in patients with pyrexia.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "08c916ab-65e5-4e01-92d6-5b2110102e3f",
+        "data": {
+            "input": "Which of the following molecules does not form part of DNA?",
+            "A": "Purine",
+            "B": "Pyrimidine",
+            "C": "Deoxyribose",
+            "D": "Amino acid",
+            "target": "D"
+        }
+    },
+    {
+        "id": "abae45ab-ee05-44af-88d2-854195ccf2e7",
+        "data": {
+            "input": "Which of the following is true about jaundice?",
+            "A": "Pale stools and dark urine are characteristic of the jaundice of haemalytic anaemia",
+            "B": "Bilirubin is used by the liver in the synthesis of red blood cells",
+            "C": "Itching may be a sign of obstructive jaundice",
+            "D": "Putting a danger of infection sticker on blood samples from an intravenous drug user with jaundice is optional",
+            "target": "C"
+        }
+    },
+    {
+        "id": "c45c6e32-e8ab-433d-9e5e-2c1292b5990c",
+        "data": {
+            "input": "Which of the following nucleotide bases is not found in RNA?",
+            "A": "Thymine",
+            "B": "Adenine",
+            "C": "Uracil",
+            "D": "Guanine",
+            "target": "A"
+        }
+    },
+    {
+        "id": "aa29abdd-1d44-4d8f-bfa9-7913a6648255",
+        "data": {
+            "input": "Bronchial breathing is characterized by",
+            "A": "Inspiratory component louder and longer with a gap between expiration and inspiration",
+            "B": "Expiratory component louder and longer with a gap between inspiration and expiration",
+            "C": "Inspiratory component louder and longer with a gap between inspiration and expiration",
+            "D": "Expiratory component louder and longer with a gap between expiration and inspiration",
+            "target": "B"
+        }
+    },
+    {
+        "id": "1a09fe6e-9969-4b6a-bf65-95f43a460e22",
+        "data": {
+            "input": "Which of the following drugs is most commonly responsible for patients who present with acute confusion?",
+            "A": "Heroin (opiates).",
+            "B": "Ecstasy.",
+            "C": "Alcohol.",
+            "D": "Cannabis.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "1dde5923-33e9-4868-87bb-cf75ee67ccde",
+        "data": {
+            "input": "The frontal lobe of the brain's cortex is responsible for which of the following?",
+            "A": "The sleep/wake cycle.",
+            "B": "The ability to draw shapes.",
+            "C": "Understanding others' speech.",
+            "D": "Visual perception.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "a2eb29d5-a448-4cc8-b432-66470b1c1405",
+        "data": {
+            "input": "The carpal bones are the small bones of the wrist - name them.",
+            "A": "Scaphoid, lunate, triquetral, pisiform, trapezium, trapezoid, capitate, hamate.",
+            "B": "Scaphoid, lunar, triquetrium, pisiform, radius, ulna, capitates.",
+            "C": "Scaphoid, proximal phalynx, humerus, hamate, capitate.",
+            "D": "Scaphoid, radius, ulna, cunniform, trapezius.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "6a7cdd6f-db8c-4f52-a9b1-1c5ded415790",
+        "data": {
+            "input": "The process of translation requires the presence of:",
+            "A": "mRNA, tRNA and ribosomes.",
+            "B": "mRNA, ribosomes and RNA polymerase.",
+            "C": "DNA, mRNA and RNA polymerase.",
+            "D": "chromatin, DNA and amino acids.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "d58c492b-1df1-4bd6-9f4a-c75d33db6c1c",
+        "data": {
+            "input": "What is 'coring'?",
+            "A": "A symptom of phlebitis.",
+            "B": "Titration of a drug with its desired effect.",
+            "C": "The delivery of medication straight into the bloodstream.",
+            "D": "When drugs are withdrawn from a sealed vial, fragments of the rubber bung can be cut out by the needle.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "5aed05dd-fdce-4041-9849-0ac9b5eb9fc4",
+        "data": {
+            "input": "What must you ensure before a speaking valve is used?",
+            "A": "That the patient is able to swallow properly.",
+            "B": "It is seven days after the tracheostomy tube was first inserted.",
+            "C": "The cuff is deflated.",
+            "D": "The cuff is inflated.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "4233bef5-845a-482d-a5f3-f99726e6d783",
+        "data": {
+            "input": "Which one of the following statements is true with regard to intravenous drug administration?",
+            "A": "IV administration of a drug will delay its action.",
+            "B": "IV administration carries low risk of bacteraemia.",
+            "C": "IV administration allows titration of a drug with its desired effect.",
+            "D": "An intravenous cannula should never be used for both drug and fluid administration.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "ba60513a-2889-488a-aade-44993584df8d",
+        "data": {
+            "input": "Which of the following factors can affect enzyme activity?",
+            "A": "Temperature.",
+            "B": "pH.",
+            "C": "The presence of certain metal ions.",
+            "D": "All of the above.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "0c1a8cff-f2d4-4b3c-82d0-dc2270e9d94b",
+        "data": {
+            "input": "For very high force contractions lasting 1-2 seconds, the initial energy source is from:",
+            "A": "Glycolysis.",
+            "B": "creatine phosphorylation.",
+            "C": "phosphocreatine stores.",
+            "D": "ATP stores.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "1deb6b4d-7f79-45b7-ac80-5aa0fc86eef4",
+        "data": {
+            "input": "A change in blood pressure is detected by the:",
+            "A": "baroreceptors.",
+            "B": "chemoreceptors.",
+            "C": "vasomotor centre.",
+            "D": "cardiovascular centre.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "ec7b96b2-669f-4389-bdb2-1c9380dde3c7",
+        "data": {
+            "input": "Blood clots are responsible for repeatedly blocking a catheter. What should you do?",
+            "A": "Call for help.",
+            "B": "Inform medical staff.",
+            "C": "Inform the patient.",
+            "D": "Remove the catheter and recatheterize.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "bcb625c3-2e6c-4a09-998c-fdd6542bd055",
+        "data": {
+            "input": "What is the pH of water?",
+            "A": "3.5",
+            "B": "7",
+            "C": "12",
+            "D": "6.25",
+            "target": "B"
+        }
+    },
+    {
+        "id": "b309004f-75c4-4907-bf16-7004a1d950a6",
+        "data": {
+            "input": "How long can a cannula remain in situ?",
+            "A": "24 hours.",
+            "B": "36 hours.",
+            "C": "48 hours.",
+            "D": "96 hours.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "36b61d2a-d540-429c-b283-c7e55b924ed2",
+        "data": {
+            "input": "Metabolism is determined by the:",
+            "A": "size of proteins in the cell.",
+            "B": "availability of amino acids.",
+            "C": "proteins formed as dictated by the genetic material.",
+            "D": "amino acid composition of the ribonucleic acids.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "283e13b1-9d99-4611-82c1-f7a90ba3b605",
+        "data": {
+            "input": "How many chromosomes do all human somatic cells contain?",
+            "A": "3",
+            "B": "20",
+            "C": "23",
+            "D": "46",
+            "target": "D"
+        }
+    },
+    {
+        "id": "b76d5132-a8e5-4c54-a982-4a4659fbdc4e",
+        "data": {
+            "input": "Under what circumstances would you use antibiotics prior to catheterization?",
+            "A": "If the patient has had a catheter in situ for a week.",
+            "B": "If the patient does not have urinary tract infection.",
+            "C": "If patient has an artificial heart valve.",
+            "D": "If the patient requests them.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "fd264fc1-8a74-462d-9456-ef8daee1e1bd",
+        "data": {
+            "input": "Which of these features suggest that a pulsation in the neck is arterial?",
+            "A": "A waggling earlobe",
+            "B": "Positive for hepatojugular reflux",
+            "C": "No variation with posture",
+            "D": "Pressure in the root of the neck reduces the impulse",
+            "target": "C"
+        }
+    },
+    {
+        "id": "d19c31e9-aa34-48de-9ade-41834ee32484",
+        "data": {
+            "input": "The rate limiting enzyme of glycolysis is:",
+            "A": "phosphorylase.",
+            "B": "hexokinase.",
+            "C": "pyruvate dehydrogenase.",
+            "D": "phosphofructokinase.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "cd22b02b-19d5-4ffd-a7e2-b9df4103f9cd",
+        "data": {
+            "input": "Which of the following is true about haemorrhoids?",
+            "A": "Bleeding haemorrhoids lead to melaena per rectum (PR)",
+            "B": "Pregnancy is a predisposing factor in causing haemorrhoids",
+            "C": "Bleeding from first degree haemorrhoids is associated with pain",
+            "D": "Second degree haemorrhoids cannot be returned to the anal canal",
+            "target": "B"
+        }
+    },
+    {
+        "id": "cbdb7f9a-c4c9-496f-be43-d57b4ddb5d5f",
+        "data": {
+            "input": "Selective Androgen Receptor Modulators (SARMs) are:",
+            "A": "steroid drugs that act on androgen receptors mimicking the effects of natural steroid hormones.",
+            "B": "steroid drugs that act on androgen receptors antagonising the effects of natural steroid hormones.",
+            "C": "non-steroid drugs that act on androgen receptors mimicking the effects of natural steroid hormones.",
+            "D": "non-steroid drugs that act on androgen receptors inhibiting the effects of natural steroid hormones.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "5c873ae3-a603-451c-b2a7-d9c0398603f6",
+        "data": {
+            "input": "The \u03b2-oxidation of a molecule of palmitic acid, CH3(CH2)14CO2H:",
+            "A": "yields 8 molecules of acetyl-CoA and some ATP and water.",
+            "B": "yields 16 molecules of acetyl-CoA only.",
+            "C": "yields carbon dioxide and water only.",
+            "D": "does not involve oxygen.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "77be02c1-31e5-430f-a716-647d5fd4f9c9",
+        "data": {
+            "input": "Which products of ADP degradation increase in concentration in the blood during multiple sprint sports?",
+            "A": "Ammonia, hypoxanthine and uric acid.",
+            "B": "Ammonia, urea and uric acid.",
+            "C": "Ammonia, urea and creatinine.",
+            "D": "Ammonia, urea and creatine.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "2b7d78e1-7e1a-4232-aa60-b46214a15135",
+        "data": {
+            "input": "The optimum position for performing CPR is to position the patient:",
+            "A": "in a semi-recumbent posture.",
+            "B": "tilted to the left to keep the heart perfused.",
+            "C": "flat on a firm surface.",
+            "D": "on the floor with the legs raised.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "de7a9713-dab5-4eb2-86c1-e5c3e722a3a0",
+        "data": {
+            "input": "The complete resynthesis of phosphocreatine after very high intensity exercise normally takes:",
+            "A": "about 10 seconds.",
+            "B": "about 30 seconds.",
+            "C": "about 1 minute.",
+            "D": "about 4 minutes.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "04c6b2cf-b07c-4f57-96d9-778bf9dcc0ca",
+        "data": {
+            "input": "What type of joint is the elbow?",
+            "A": "Ball and socket joint.",
+            "B": "Fused joint.",
+            "C": "Synovial hinge joint.",
+            "D": "Plain joint.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "c5008725-39d1-42cf-93c9-8ace8dca15fe",
+        "data": {
+            "input": "A hypertonic solution is:",
+            "A": "a solution that has a higher concentration of solutes than the normal human cell.",
+            "B": "a solution that blocks off enteral tubes easily.",
+            "C": "a solution that has a lower concentration of solutes than the normal human cell.",
+            "D": "a solution with a high fibre content.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "0cb08fde-f6d0-47b2-9ad6-ae0ae10cc57a",
+        "data": {
+            "input": "Which of these is not necessary when examining the jugular venous pulse?",
+            "A": "Patient's neck muscles should be relaxed",
+            "B": "Timing the pulsation with the radial pulse",
+            "C": "Good lighting",
+            "D": "Patient lying at 45 degree angle",
+            "target": "B"
+        }
+    },
+    {
+        "id": "75b73fdd-f6d2-4af2-a847-433a1f93bdc2",
+        "data": {
+            "input": "The maximum sustainable power:",
+            "A": "usually remains constant during a race.",
+            "B": "declines with the distance of the race.",
+            "C": "is improved by a high fat diet.",
+            "D": "is inversely related to muscle glycogen content.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "aaf06192-5dcc-4ccb-8453-902109bbc079",
+        "data": {
+            "input": "Fast-twitch fibres contain:",
+            "A": "a relatively large number of mitochondria and low ATPase activity.",
+            "B": "a relatively small number of mitochondria and low ATPase activity.",
+            "C": "a relatively small number of mitochondria and high ATPase activity.",
+            "D": "a relatively large number of mitochondria and high ATPase activity.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "71352fad-1c13-48d5-add2-14dd4f59ab99",
+        "data": {
+            "input": "The rate of blood lactate accumulation is determined by:",
+            "A": "the rate of muscle lactate production and the rate of muscle lactate efflux.",
+            "B": "the rate of anaerobic glycolysis.",
+            "C": "the rate of muscle glucose uptake.",
+            "D": "the difference between the rate of lactate appearance and the rate of lactate clearance.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "01757861-2dca-4bfb-8fe8-be9d1c4ad3f7",
+        "data": {
+            "input": "The enzymes of glycolysis are located in the:",
+            "A": "mitochondrion.",
+            "B": "nucleus.",
+            "C": "cytoplasm.",
+            "D": "lysosomes.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "9c75c7f5-4d11-47e4-bc44-8601fea87b8c",
+        "data": {
+            "input": "The energy released from the breakdown of the high-energy phosphates, ATP and phosphocreatine, can sustain maximal exertion exercise for about:",
+            "A": "1-2 seconds.",
+            "B": "5-10 seconds.",
+            "C": "30-40 seconds.",
+            "D": "50-60 seconds.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "da7dc1a1-5915-42b1-a1f8-b93221414b22",
+        "data": {
+            "input": "Prosthetic groups are:",
+            "A": "required by all enzymes in the cell.",
+            "B": "loosely bound to enzymes via hydrogen bonds.",
+            "C": "sites on the enzyme molecule that permit allosteric modification of enzyme activity.",
+            "D": "tightly bound to enzymes and are required for their activity.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "7fa9c377-d5e5-4ba3-bba6-20083e69bfe8",
+        "data": {
+            "input": "Which of the following is true in peripheral neuropathy?",
+            "A": "Sensory loss is demonstrated in a stocking distribution",
+            "B": "The tone is increased bilaterally in the legs",
+            "C": "Reflexes are very brisk with reinforcement",
+            "D": "Weakness is more marked proximally than distally",
+            "target": "A"
+        }
+    },
+    {
+        "id": "1b8d3ead-b252-4515-ae69-81ff36e7d0d8",
+        "data": {
+            "input": "Which of the following is true about involuntary movements in the arm?",
+            "A": "Alcohol makes the tremor of benign essential tremor worse",
+            "B": "Hemiballismus is due to a stroke causing paralysis of the distal half of the arm",
+            "C": "A 'milkmaid' grip is sometimes found in dystonia",
+            "D": "Writer's cramp is an example of a focal dystonia",
+            "target": "D"
+        }
+    },
+    {
+        "id": "b25a7951-5ee8-4952-a935-cca5a60ed625",
+        "data": {
+            "input": "Which of these options is not recognized as a cause of chronic cough?",
+            "A": "Gastro-oesophageal reflux disease",
+            "B": "Angiotensin Converting Enzyme (ACE) inhibitors",
+            "C": "Long-term smoking",
+            "D": "Sodium valproate",
+            "target": "D"
+        }
+    },
+    {
+        "id": "d3fe498b-ee6a-457c-b020-ed8e1e832b0f",
+        "data": {
+            "input": "Which of the following is recommended for cleaning the mouth?",
+            "A": "Hydrogen peroxide.",
+            "B": "Water.",
+            "C": "Lemon and glycerine swabs.",
+            "D": "Normal saline.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "e5c0b31f-a0f8-4c12-b935-002b71e856e4",
+        "data": {
+            "input": "As a general principle what is the best approach to the use of analgesic drugs following surgery?",
+            "A": "Give drugs only 'as required'.",
+            "B": "Give drugs regularly with provision for additional 'as required' pain relief for breakthrough pain.",
+            "C": "Use long-acting drugs twice daily.",
+            "D": "Give only when pain scores are high.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "a0851406-18db-4852-b664-ba85f98a75ed",
+        "data": {
+            "input": "Which of the following best describes nociceptive pain?",
+            "A": "Pain resulting from actual or potential tissue damage, which causes the release of chemical mediators that stimulate nerve fibres to initiate pain signals to the brain.",
+            "B": "Pain resulting from pressure upon a nerve or group of nerves.",
+            "C": "A disorder of a specific nerve or group of nerves resulting in the release of abnormal pain signals.",
+            "D": "Pain resulting from a disorder of the central nervous system, i.e. following a cerebral vascular accident.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "9d710b06-81c4-476a-97bb-9a1389c925bc",
+        "data": {
+            "input": "Complete the following: A variation of serial peak flow readings over a two week period are considered diagnostic in . . .",
+            "A": ". . . asthma.",
+            "B": ". . . COPD.",
+            "C": ". . . pneumonia.",
+            "D": ". . . tuberculosis.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "e886923f-fc5a-4ad3-a084-4d1fa75f7d9f",
+        "data": {
+            "input": "Under which circumstances would you not use a catheter valve?",
+            "A": "If the patient is post-operative.",
+            "B": "If the patient chooses it.",
+            "C": "If the patient has bladder sensation.",
+            "D": "If urine does not need to be measured.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "f416f583-5316-41a3-9902-ef72047d6fde",
+        "data": {
+            "input": "Which of the following is true of Paget's Disease?",
+            "A": "Bowing of a long bone is a characteristic feature",
+            "B": "Spinal cord compression is a common complication",
+            "C": "Heart failure is not a recognized complication",
+            "D": "Pathological fractures are not a feature",
+            "target": "A"
+        }
+    },
+    {
+        "id": "5c771511-83f7-4e2a-9d9a-49537095f71b",
+        "data": {
+            "input": "Your first action following confirmation of cardiac arrest is to:",
+            "A": "ensure the emergency team/services are called.",
+            "B": "give two rescue breaths.",
+            "C": "give 30 chest compressions.",
+            "D": "check the notes to see if the patient has a DNAR order.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "3a53e1e3-478d-4594-afbb-bf9c0f502a95",
+        "data": {
+            "input": "What is an urgent reason for catheterizing a patient?",
+            "A": "Acute urinary retention.",
+            "B": "Urinary tract infection.",
+            "C": "Incontinence.",
+            "D": "Because they asked.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "258bba51-2bd6-42f0-b426-b195cad8aa99",
+        "data": {
+            "input": "Which of the following is true?",
+            "A": "Increasing the protein intake above 3 grams per kg body mass per day will stimulate muscle growth and increase strength.",
+            "B": "Creatine supplements can increase muscle strength and power.",
+            "C": "Amino acid supplements can increase muscle strength and power.",
+            "D": "Muscle damage is induced by shortening contractions.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "c720da2d-1d1d-477b-bac1-5ee6855056fc",
+        "data": {
+            "input": "Who has legal responsibility for a patient's care during hospital admission, stay, and discharge?",
+            "A": "The named nurse.",
+            "B": "The named consultant.",
+            "C": "The ward manager.",
+            "D": "The GP.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "185ddac2-b37a-44fe-9520-576e6aee09eb",
+        "data": {
+            "input": "Endurance training increases the muscle's capacity to:",
+            "A": "contract faster.",
+            "B": "break down phosphocreatine.",
+            "C": "burn fat and carbohydrate.",
+            "D": "generate energy anaerobically.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "fc5f8ce7-4817-4112-ba58-fc9531024673",
+        "data": {
+            "input": "An action potential arriving at the motor endplate causes release of:",
+            "A": "acetylcholine which traverses the neuromuscular junction.",
+            "B": "sodium ions which binds to sodium receptors on the muscle membrane.",
+            "C": "calcium ions which initiate an action potential along the muscle fibre.",
+            "D": "noradrenaline which increases muscle metabolic activity.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "0526577e-c238-4862-8569-4015518195c8",
+        "data": {
+            "input": "Your patient has diabetes. Why is this important?",
+            "A": "These patients are more likely to bleed.",
+            "B": "These patients are more likely to get urinary tract infections if their blood sugar is unstable.",
+            "C": "These patients are more likely to have clear urine.",
+            "D": "These patients are less likely to have catheter encrustation.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "53551435-9af1-48d3-9935-80b7dcd8268a",
+        "data": {
+            "input": "What is meant by the term 'passive movements'?",
+            "A": "Movement with resistance, stretching at end of range.",
+            "B": "Movement without resistance, stretching at end of range.",
+            "C": "Movement with resistance, stopping at end of range.",
+            "D": "Movement without resistance, stopping at end of range.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "eb0857ff-99a9-4c8d-9e6f-6b12ccbcc13a",
+        "data": {
+            "input": "What is a tracheostomy?",
+            "A": "An opening in the anterior wall of the trachea above the cricoid cartilage.",
+            "B": "An opening in the anterior wall of the trachea below the cricoid cartilage.",
+            "C": "An opening in the anterior chest wall.",
+            "D": "An opening in the posterior wall of the trachea below the cricoid cartilage.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "8e17d85f-8807-4a94-972a-277be7c77474",
+        "data": {
+            "input": "Which of the following is true of haematemesis?",
+            "A": "A low blood pressure (<90mmHg systolic) and a tachycardia (>100/min) are worrying features",
+            "B": "A pulse rate of 80/min in a patient taking Bisoprolol is reassuring",
+            "C": "Abdominal pain is always present",
+            "D": "An alcohol history is not essential",
+            "target": "A"
+        }
+    },
+    {
+        "id": "328e9b82-4a89-4cef-9b76-101dd6b7186d",
+        "data": {
+            "input": "Which of the following is true of rheumatoid arthritis?",
+            "A": "Rheumatoid factor is present in 25% of rheumatoid cases",
+            "B": "It is an example of an oligoarthropathy",
+            "C": "Anaemia is a common finding",
+            "D": "Heberden's nodes are a feature",
+            "target": "C"
+        }
+    },
+    {
+        "id": "731934ec-8445-49da-87c8-1ae000a29ed9",
+        "data": {
+            "input": "Why should careful consideration be given to providing people aged over 65 with information sources that are internet based?",
+            "A": "They may have difficulty reading the screen.",
+            "B": "Less than 30% of people over 65 years have access to the internet.",
+            "C": "The internet is aimed at younger people.",
+            "D": "They may not be able to type.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "7dbe2bb7-f9fd-4223-8143-dc46dd5e80af",
+        "data": {
+            "input": "Which of the following is true about the carpal tunnel syndrome?",
+            "A": "It can be caused by rheumatoid arthritis",
+            "B": "It is caused by compression of the ulna nerve",
+            "C": "It causes pain and tingling in the medial three and half digits",
+            "D": "Paraesthesia is worse during the day",
+            "target": "A"
+        }
+    },
+    {
+        "id": "a2f0f379-c538-4a7c-b7ae-888c0f8bbc3c",
+        "data": {
+            "input": "How many CO2 and ATP molecules are formed during one complete turn of the tricarboxylic acid cycle (Krebs' cycle)?",
+            "A": "2CO2 and 2ATP",
+            "B": "2CO2 and 16ATP",
+            "C": "2CO2 and 12ATP",
+            "D": "2CO2 and 1ATP",
+            "target": "D"
+        }
+    },
+    {
+        "id": "f260f297-a2a8-43aa-8159-ebd0e06ca677",
+        "data": {
+            "input": "Which potential complication of IV therapy is described thus: 'Leakage of vesicant (irritant) medication or fluid into surrounding tissues, causing tissue damage'?",
+            "A": "Extravasation.",
+            "B": "Phlebitis.",
+            "C": "Inflammation.",
+            "D": "Infiltration.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "d6d19233-55a5-4e26-aabd-75dc482eb5e5",
+        "data": {
+            "input": "Which of the following is present in saliva and has an antibacterial action?",
+            "A": "Lysozyme.",
+            "B": "Amylase.",
+            "C": "Sodium chloride.",
+            "D": "Mucus.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "9c911544-530c-4041-9afa-d7b0b726b6bf",
+        "data": {
+            "input": "The genome is:",
+            "A": "the number of chromosomes found in the somatic cells of an organism.",
+            "B": "the entire DNA sequence of an organism.",
+            "C": "the entire list of proteins that an organism is capable of producing.",
+            "D": "the DNA sequence of an entire chromosome.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "15e8c428-6e5c-4af0-bc14-b77883b2b27a",
+        "data": {
+            "input": "Alterations in which neurotransmitters in the brain by pharmacological agents has been shown to influence fatigue development?",
+            "A": "Acetyl choline and noradrenaline.",
+            "B": "Dopamine and acetyl choline.",
+            "C": "Glutamate and serotonin.",
+            "D": "Dopamine and serotonin.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "a7472614-c4dd-454a-b529-8e4efa6d4b9d",
+        "data": {
+            "input": "In all-out exercise such as sprinting the first fibre types to fatigue are the:",
+            "A": "Type I fibres.",
+            "B": "Type Ia fibres.",
+            "C": "Type IIa fibres.",
+            "D": "Type IIX fibres.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "2e21b56f-de7e-432d-aa3a-62ea2b7471cb",
+        "data": {
+            "input": "The main fate of lactate that leaves muscle and enters the circulation is:",
+            "A": "conversion to urea in the liver.",
+            "B": "conversion to glucose in the heart.",
+            "C": "excretion via the kidneys.",
+            "D": "uptake and oxidation by other tissues.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "7808c75a-9fb8-44d7-a7b0-6b023e302e21",
+        "data": {
+            "input": "The most rapid method to resynthesize ATP during exercise is through:",
+            "A": "glycolysis.",
+            "B": "phosphocreatine breakdown.",
+            "C": "tricarboxylic acid cycle (Krebs' cycle).",
+            "D": "glycogenolysis.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "c4c6db7c-0ac3-4bb0-8a8d-862cba5f5a36",
+        "data": {
+            "input": "Which of the following is true in a sensory assessment of the arm?",
+            "A": "It is acceptable to test pain with a venepuncture needle",
+            "B": "Proprioception is appreciated via the same tracts as light touch",
+            "C": "It is best to test vibration sense with a 256 Hz tuning fork",
+            "D": "Impulses for pain travel principally up the dorsal columns",
+            "target": "B"
+        }
+    },
+    {
+        "id": "b8379ec9-e64a-49b1-a14c-474214ce17f2",
+        "data": {
+            "input": "The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise:",
+            "A": "frequently rises by 1 - 3 mM.",
+            "B": "remains relatively unchanged.",
+            "C": "frequently falls by 1 - 3 mM.",
+            "D": "falls to hypoglycaemic levels.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "ea184be4-2e53-4352-9e89-20534d609d12",
+        "data": {
+            "input": "One of the most common reasons for stoma formation is:",
+            "A": "irritable bowel syndrome.",
+            "B": "haemorrhoids.",
+            "C": "carcinoma.",
+            "D": "bladder instability.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "ef0e153d-ebee-4098-b6ca-018937f5e06e",
+        "data": {
+            "input": "A surgical support can be used for:",
+            "A": "prolapsed stomas.",
+            "B": "high output stomas.",
+            "C": "herniation around the stoma.",
+            "D": "retraction of the stoma.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "b4315916-9d76-4676-9eb2-6af25426ed4f",
+        "data": {
+            "input": "What size of catheter bag may be used at night?",
+            "A": "350ml.",
+            "B": "500ml.",
+            "C": "1L.",
+            "D": "2L.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "584f3547-8cad-4794-a1de-2ce64b707d63",
+        "data": {
+            "input": "Anaerobic metabolism refers to the generation of ATP:",
+            "A": "without the involvement of ADP.",
+            "B": "without the use of glycogen.",
+            "C": "without the use of oxygen.",
+            "D": "in the absence of available oxygen.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "b94ff90f-2587-4a45-accd-84b8468e871b",
+        "data": {
+            "input": "Approximately how many kJ of energy are expended if an athlete's steady-rate oxygen uptake averages 3.0 l/min for 5 minutes of exercise?",
+            "A": "60 kJ",
+            "B": "150 kJ",
+            "C": "300 kJ",
+            "D": "500 kJ",
+            "target": "C"
+        }
+    },
+    {
+        "id": "a91aea79-1868-441d-8d03-4cf95022a214",
+        "data": {
+            "input": "A patient has been on the operating table for four hours. How long may it take for any pressure damage to be visible?",
+            "A": "12 hours.",
+            "B": "72 hours.",
+            "C": "24 hours.",
+            "D": "5 days.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "ab3083da-e606-4b61-804f-3838e8e877a6",
+        "data": {
+            "input": "Eccrine and apocrine glands are both types of:",
+            "A": "sweat glands.",
+            "B": "salivary glands.",
+            "C": "chemoreceptors.",
+            "D": "tear ducts.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "a9874621-891b-4ce2-982f-7973f158fdcb",
+        "data": {
+            "input": "Which of the following is true of the assessment of power in the arms?",
+            "A": "Grade 3/5 (MRC scale) represents movement of the arm only when gravity is eliminated",
+            "B": "Flexion at the elbow is produced by the triceps muscle",
+            "C": "The root value of shoulder abduction is C5",
+            "D": "Grade 1/5 power represents no movement or muscle contraction",
+            "target": "C"
+        }
+    },
+    {
+        "id": "a084e045-5cdd-4b8f-85e8-4f928dade569",
+        "data": {
+            "input": "Two of the following are evident - pain at IV site, erythema, and swelling. What stage on the phlebitis scale is this and what should you do?",
+            "A": "Stage 1 - observe cannula.",
+            "B": "Stage 2 - re-site cannula.",
+            "C": "Stage 3 - re-site cannula and consider treatment.",
+            "D": "Stage 0 - do nothing.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "0458639e-08cc-4bf4-ad20-901f0f608822",
+        "data": {
+            "input": "Which hormone is primarily responsible for fluid regulation?",
+            "A": "Antidiuretic hormone.",
+            "B": "Insulin.",
+            "C": "Adrenaline.",
+            "D": "Testosterone.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "1cfa7420-4a9e-4629-a6fe-94f9f5ca77a1",
+        "data": {
+            "input": "The low intake of carbohydrate in the diet:",
+            "A": "does not influence exercise performance in events lasting less than 10 minutes.",
+            "B": "affects the resting muscle pH.",
+            "C": "may impair high intensity exercise performance.",
+            "D": "results in greater reliance on muscle glycogen during exercise.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "e7500f98-cf72-4130-96aa-0bf7a9984a12",
+        "data": {
+            "input": "Phophocreatine resynthesis during recovery from exercise is inhibited by:",
+            "A": "an excess of creatine.",
+            "B": "hyperventilation.",
+            "C": "an excess of oxygen.",
+            "D": "a lack of oxygen.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "61f6b846-685a-4b30-bec3-4058dfb15bd2",
+        "data": {
+            "input": "The transcription of DNA to a molecule of messenger RNA occurs:",
+            "A": "on the ribosomes.",
+            "B": "in the cytosol.",
+            "C": "in the nucleus.",
+            "D": "only during cell division.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "83eb7382-bdee-4ce9-956b-8050ff06eba3",
+        "data": {
+            "input": "Oedema is the presence of:",
+            "A": "excessive intravascular fluid.",
+            "B": "excessive extravascular fluid.",
+            "C": "excessive intracranial fluid.",
+            "D": "excessive necrotic cells.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "10e9f59a-6b6f-419e-8ea8-2b25b64f59c0",
+        "data": {
+            "input": "Why should the short-acting bronchodilator be taken first?",
+            "A": "It works to dilate the airways quickly, allowing better deposition of other medications.",
+            "B": "They are colour-coded.",
+            "C": "It is warmer than the others.",
+            "D": "It is less moist than the others.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "5fabcf83-1656-49b1-9e15-fc101be1e32c",
+        "data": {
+            "input": "Which of the following is true about an intention tremor?",
+            "A": "It is worse at rest",
+            "B": "It is caused by Parkinson's Disease",
+            "C": "It is indicative of a cerebellar lesion",
+            "D": "Dyscalculia is a common association",
+            "target": "C"
+        }
+    },
+    {
+        "id": "f9d7d397-4bed-4b01-ae9f-c57d577a46eb",
+        "data": {
+            "input": "Glucose is transported into the muscle cell:",
+            "A": "via protein transporters called GLUT4.",
+            "B": "only in the presence of insulin.",
+            "C": "via hexokinase.",
+            "D": "via monocarbylic acid transporters.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "0ccc3b90-126a-465d-ab57-05431a6c99b5",
+        "data": {
+            "input": "Oxygen is used:",
+            "A": "in glycolysis.",
+            "B": "in the conversion of fatty acids to acetyl CoA.",
+            "C": "in the tricarboxylic acid cycle (Krebs' cycle).",
+            "D": "in glycogenolysis.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "4dae7c15-114a-4579-b6a9-69505f81b44b",
+        "data": {
+            "input": "Measuring the blood pressure in an arm that is above the level of the heart will:",
+            "A": "accurately estimate the blood pressure.",
+            "B": "overestimate the blood pressure.",
+            "C": "cause an auscultatory gap.",
+            "D": "underestimate the blood pressure.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "f1129d18-6d5e-46ba-bf14-c2b835a7d2d5",
+        "data": {
+            "input": "When you are taking a musculoskeletal history which of the following is true?",
+            "A": "Drugs may be implicated in the causation of gout",
+            "B": "A history of diarrhoea is not relevant",
+            "C": "Difficulty rising from a chair is diagnostic of polymyalgic rheumatica",
+            "D": "Joint stiffness of 5 minutes duration suggests an arthropathy",
+            "target": "A"
+        }
+    },
+    {
+        "id": "40253fb0-6b99-4342-a62c-54b155c50b4e",
+        "data": {
+            "input": "Why are male patients advised to take their own electric razor to hospital?",
+            "A": "For patient comfort.",
+            "B": "To make hospital as familiar as possible.",
+            "C": "To minimize risk of cross-infection.",
+            "D": "To allow shaving at a time convenient to the patient.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "0ba70eaa-382f-44af-87d9-9dd2644c99b6",
+        "data": {
+            "input": "Which organ secretes insulin?",
+            "A": "The gastric parietal cells.",
+            "B": "The pancreas.",
+            "C": "The walls of the large intestine.",
+            "D": "The autonomic nervous system.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "5baa981a-3166-4d6a-bf2d-6ff6160ba314",
+        "data": {
+            "input": "When teaching a patient inhaler technique, how will you ensure that a large proportion of the drug reaches the lower airways?",
+            "A": "Ask them to take lots of small, quick breaths in before using the inhaler.",
+            "B": "Ask them to breathe normally when using the inhaler.",
+            "C": "Ask them to perform the procedure as quickly as they can.",
+            "D": "Ask them to hold their breath at the end of the inspiration on using the inhaler.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "a9872f21-2725-4e81-a90f-91a6ca926b4f",
+        "data": {
+            "input": "Why should a patient stand or sit as upright as possible when recording a peak flow rate?",
+            "A": "To ensure best lung expansion and accuracy and consistency of readings.",
+            "B": "This is the most comfortable position to perform any breathing test.",
+            "C": "The counter on the meter will not move if the patient is lying down.",
+            "D": "To ensure that their technique can be observed easily.",
+            "target": "A"
+        }
+    },
+    {
+        "id": "5f4d47a8-f210-4d81-ad23-2bc97515a04c",
+        "data": {
+            "input": "Why might a patient need a tracheostomy?",
+            "A": "To repair vocal cords after paralysis.",
+            "B": "To aid swallowing.",
+            "C": "As an aid to weaning patients from a ventilator.",
+            "D": "Prior to neck surgery.",
+            "target": "C"
+        }
+    },
+    {
+        "id": "d5fb1b20-e200-4e90-a9cd-76247b9d0688",
+        "data": {
+            "input": "In general, the higher the intensity of exercise, the greater the proportional contribution of:",
+            "A": "aerobic energy production.",
+            "B": "anaerobic energy production.",
+            "C": "the TCA cycle (Krebs' cycle) to the production of ATP.",
+            "D": "the electron transfer chain to the production of ATP.",
+            "target": "B"
+        }
+    },
+    {
+        "id": "f93d713b-7fc0-4f08-9a97-c794ea2e4ebf",
+        "data": {
+            "input": "What is the second commonest hospital acquired infection?",
+            "A": "Urinary infection.",
+            "B": "Wound infection.",
+            "C": "Upper respiratory tract infection.",
+            "D": "Ventilator-associated pneumonia.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "90d308b1-955f-4ae6-8df6-1c39957cae79",
+        "data": {
+            "input": "Phosphocreatine in the muscle cell is found in:",
+            "A": "the mitochondria.",
+            "B": "all subcellular compartments.",
+            "C": "the sarcolemma.",
+            "D": "the cytoplasm.",
+            "target": "D"
+        }
+    },
+    {
+        "id": "9c5fd888-b7b1-45c7-8bd5-2bd98a7ceda1",
+        "data": {
+            "input": "The patient's self-report of pain is important because health care staff:",
+            "A": "can overestimate the intensity of the patient's pain.",
+            "B": "underestimate the intensity of the patient's pain.",
+            "C": "do not possess an objective way of assessing pain.",
+            "D": "can use the information to prescribe and administer the least possible amount of pain relief.",
+            "target": "C"
+        }
+    }
+]
