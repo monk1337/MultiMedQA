@@ -1,0 +1,10 @@
+{
+   "instruction":"The following are multiple choice questions (with answers) about medical knowledge.",
+   "shots":[
+      "Question: A palpable left parasternal impulse suggests which abnormality?\n(A) Right ventricular hypertrophy (B) Aortic stenosis (C) Aortic regurgitation (D) Left ventricular hypertrophy\nAnswer:(A)",
+      "Question: A muscle fibre relaxes when:\n(A) the nerve stimulus is removed. (B) the nerve stimulus is too forceful. (C) the actin binding sites are uncovered. (D) the actin binding sites are saturated.\nAnswer:(A)",
+      "Question: Which of the following is present in saliva and has an antibacterial action?\n(A) Lysozyme. (B) Amylase. (C) Sodium chloride. (D) Mucus.\nAnswer:(A)",
+      "Question: Why should the short-acting bronchodilator be taken first?\n(A) It works to dilate the airways quickly, allowing better deposition of other medications. (B) They are colour-coded. (C) It is warmer than the others. (D) It is less moist than the others.\nAnswer:(A)",
+      "Question: Why might a patient need a tracheostomy?\n(A) To repair vocal cords after paralysis. (B) To aid swallowing. (C) As an aid to weaning patients from a ventilator. (D) Prior to neck surgery.\nAnswer:(C)"
+   ]
+}

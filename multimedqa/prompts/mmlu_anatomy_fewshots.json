@@ -1,0 +1,10 @@
+{
+   "instruction":"The following are multiple choice questions (with answers) about medical knowledge.",
+   "shots":[
+      "Which of the following best describes the structure that collects urine in the body?\n(A) Bladder (B) Kidney (C) Ureter (D) Urethra\nAnswer:(A)",
+      "Question: Which of the following structures is derived from ectomesenchyme?\n(A) Motor neurons (B) Skeletal muscles (C) Melanocytes (D) Sweat glands\nAnswer:(C)",
+      "Question: Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?\n(A) Afferent arteriole (B) Glomerulus (C) Loop of Henle (D) Renal pelvis\nAnswer:(B)",
+      "Question: In the spinal cord, motor neuron cell bodies are located in\n(A) Lamina I. (B) Lamina II. (C) Lamina V. (D) Lamina IX\nAnswer:(D)",
+      "Question: Noradrenaline is the neurotransmitter between which of the two structures below?\n(A) parasympathetic pre- and post-ganglionic neurons (B) sympathetic pre- and post-ganglionic neurons (C) parasympathetic post-ganglionic neurons and target organs (D) sympathetic post-ganglionic neurons and target organs\nAnswer:(D)"
+   ]
+}

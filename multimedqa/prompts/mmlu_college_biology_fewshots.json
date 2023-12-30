@@ -1,0 +1,10 @@
+{
+   "instruction":"The following are multiple choice questions (with answers) about medical knowledge.",
+   "shots":[
+      "Question: The sight organs of crustaceans and insects contain ommatidia, which make up the individual visual units of the\n(A) eyespot (B) simple eye (C) compound eye (D) binocular eye\nAnswer:(C)",
+      "Question: Gene flow between populations results in\n(A) an increase in genetic homogeneity in the metapopulation (B) an increase in the rate of deleterious mutations in the metapopulation (C) an increased likelihood of speciation (D) disruption of Hardy-Weinberg equilibrium in the metapopulation\nAnswer:(A)",
+      "Question: A species of small rodent eats seeds from only one species of pine. In normal years, a pair of these rodents will have a litter of two or three. It is unusual for small rodents to have such small litter sizes. The rodents are most likely to exhibit which other characteristic?\n(A) Moderate sexual size dimorphism (B) High parental investment (C) Precocial young (D) Frequent extrapair matings\nAnswer:(B)",
+      "Question: A female fruit fly bearing linked genes that produce the phenotype gray body and normal wings mates with a male fruit fly of phenotype black body and vestigial wings. The presence of gray-bodied, vestigialwinged flies among the progeny is best explained by\n(A) crossing over (B) independent assortment (C) segregation of alleles (D) penetrance\nAnswer:(A)",
+      "Question: A plant that grows along a trellis exhibits\n(A) thigmotropism (B) phototropism (C) gravidotropism (D) negative gravidotropism\nAnswer:(A)"
+   ]
+}
