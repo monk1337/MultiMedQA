@@ -13,30 +13,49 @@ def medmcqa(sample):
     template = f"Question: {sample['question']} \n(A) {sample['opa']} (B) {sample['opb']} (C) {sample['opc']} (D) {sample['opd']} \nAnswer:"
     return template
 
+def medmcqa_cot(sample):
+    template = f"Question: {sample['question']} \n(A) {sample['opa']} (B) {sample['opb']} (C) {sample['opc']} (D) {sample['opd']} \nExplanation: \nAnswer:"
+    return template
+
 def medqa(sample):
     template = f"Question: {sample['question']} \n(A) {sample['option_A']} (B) {sample['option_B']} (C) {sample['option_C']} (D) {sample['option_D']} \nAnswer:"
+    return template
+
+def medqa_cot(sample):
+    template = f"Question: {sample['question']} \n(A) {sample['option_A']} (B) {sample['option_B']} (C) {sample['option_C']} (D) {sample['option_D']} \nExplanation: \nAnswer:"
     return template
 
 def pubmedqa(sample):
     template = f"Answer the following question given the context (reply with one of the options): Context: {sample['context']} \n(A) Yes (B) No (C) Maybe \nAnswer:"
     return template
 
+def pubmedqa_cot(sample):
+    template = f"Context: {sample['context']} \n(A) Yes (B) No (C) Maybe \nExplanation: \nAnswer:"
+    return template
+
 def mmlu(sample):
     template = f"Question: {sample['input']} \n(A) {sample['A']} (B) {sample['B']} (C) {sample['C']} (D) {sample['D']} \nAnswer:"
     return template
 
+def mmlu_cot(sample):
+    template = f"Question: {sample['input']} \n(A) {sample['A']} (B) {sample['B']} (C) {sample['C']} (D) {sample['D']} \nExplanation: \nAnswer:"
+    return template
+
 prompt_dict = {
-                'pubmedqa' : './prompts/pubmedqa_fewshots.json',
-                'medqa' : './prompts/medqa_fewshots.json',
-                'medmcqa' : './prompts/medmcqa_fewshots.json', 
-                'mmlu_anatomy': './prompts/mmlu_anatomy_fewshots.json',
-                'mmlu_clinical': './prompts/mmlu_clinical_fewshots.json',
-                'mmlu_professional_medicine': './prompts/mmlu_professional_medicine_fewshots.json',
-                'mmlu_genetics': './prompts/mmlu_medical_genetics_fewshots.json',
-                'mmlu_college_medicine': './prompts/mmlu_college_medicine_fewshots.json',
-                'mmlu_college_biology': './prompts/mmlu_college_biology_fewshots.json',
-    
-}
+             'pubmedqa': './prompts/pubmedqa_fewshots.json',
+             'medqa': './prompts/medqa_fewshots.json',
+             'medmcqa': './prompts/medmcqa_fewshots.json',
+             'mmlu_anatomy': './prompts/mmlu_anatomy_fewshots.json',
+             'mmlu_clinical': './prompts/mmlu_clinical_fewshots.json',
+             'mmlu_professional_medicine': './prompts/mmlu_professional_medicine_fewshots.json',
+             'mmlu_genetics': './prompts/mmlu_medical_genetics_fewshots.json',
+             'mmlu_college_medicine': './prompts/mmlu_college_medicine_fewshots.json',
+             'mmlu_college_biology': './prompts/mmlu_college_biology_fewshots.json',
+             'pubmedqa_cot': './prompts/pubmedqa_cots.json',
+             'medmcqa_cot': './prompts/medmcqa_cots.json',
+             'medqa_cot': './prompts/medqa_cots.json',
+             'mmlu_cot': './prompts/mmlu_cots.json'
+              }
 
 
 func_dict = {
@@ -49,6 +68,10 @@ func_dict = {
                 'mmlu_genetics': mmlu,
                 'mmlu_college_medicine': mmlu,
                 'mmlu_college_biology': mmlu,
+                'pubmedqa_cot': pubmedqa_cot,
+             'medmcqa_cot': medmcqa_cot,
+             'medqa_cot': medqa_cot,
+             'mmlu_cot': mmlu_cot
     
 }
 
