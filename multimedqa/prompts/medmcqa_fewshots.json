@@ -1,0 +1,10 @@
+{
+   "instruction":"The following are multiple choice questions (with answers) about medical knowledge.",
+   "shots":[
+      "Question: Epulis is?\n(A) Benign (B) Malignant (C) Reactive process (D) Precancerous\nAnswer:(A)",
+      "Question: The most important sign of significance of renal artery stenosis on an angiogram is\n(A) A percentage diameter stenosis >70% (B) Presence of collaterals (C) A systolic pressure gradient >20 mmHg across the\nlesion (D) Post stenotic dilatation of the renal artery\nAnswer:(B)",
+      "Question: Ghon’s focus lies at ?\n(A) Left apical parenchymal region (B) Right apical parenchymal region (C) Sub pleural caesous lesion in right upper lobe (D) Sub pleural caesous lesion in left upper lobe\nAnswer:(C)",
+      "Question: True about Mooren’s ulcer: March 2007, March 2013\n(A) Painless condition (B) Affects cornea (C) Sudden loss of vision (D) Bilateral in majority of cases\nAnswer:(B)",
+      "Question: Which of the following is an intermediate-acting local anesthetic which is an amino amide causing methemoglobinemia?\n(A) Procaine (B) Prilocaine (C) Etidocaine (D) Ropivacaine\nAnswer:(B)"
+   ]
+}
