@@ -1,0 +1,2582 @@
+[
+    {
+        "data": {
+            "Question": "Who set the world record for the mile race in 1886?",
+            "Options": {
+                "A": "R Bannister",
+                "B": "S Coe",
+                "C": "J DiMaggio",
+                "D": "WG George"
+            },
+            "Correct Answer": "WG George",
+            "Correct Option": "D"
+        },
+        "id": "7907cbae-db13-41f3-8785-36dfd3bc1238",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following statements identifies a chemically based sensory system?\nI. Gustatory system\nII. Auditory system\nIII. Olfactory system",
+            "Options": {
+                "A": "I only",
+                "B": "II only",
+                "C": "III only",
+                "D": "I and III only"
+            },
+            "Correct Answer": "I and III only",
+            "Correct Option": "D"
+        },
+        "id": "15f32831-8b54-47c0-acc3-a4d8878f6bbd",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The complete resynthesis of phosphocreatine after very high intensity exercise normally takes:",
+            "Options": {
+                "A": "about 10 seconds.",
+                "B": "about 30 seconds.",
+                "C": "about 1 minute.",
+                "D": "about 4 minutes."
+            },
+            "Correct Answer": "about 4 minutes.",
+            "Correct Option": "D"
+        },
+        "id": "b2a6f0ff-313a-4db1-b67f-2958c42fd179",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A race car attempting to jump a series of 8 buses is set up on a flat track with a ramp at the end. Engineers assigned to the project have determined that, in order to jump the buses, the car must reach a velocity of 130 km/h. If the distance of the track is 50m, at what rate must the car accelerate to reach this velocity?",
+            "Options": {
+                "A": "13 m/s^2",
+                "B": "26 m/s^2",
+                "C": "7 m/s^2",
+                "D": "17 m/s^2"
+            },
+            "Correct Answer": "13 m/s^2",
+            "Correct Option": "A"
+        },
+        "id": "30c08145-8379-4664-816f-fe386a84ec71",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Fatty acids are transported into the mitochondria bound to:",
+            "Options": {
+                "A": "thiokinase.",
+                "B": "coenzyme A (CoA).",
+                "C": "acetyl-CoA.",
+                "D": "carnitine."
+            },
+            "Correct Answer": "carnitine.",
+            "Correct Option": "D"
+        },
+        "id": "7fc2b4b9-4722-4835-ba22-342f86c50c93",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Sauna use, sometimes referred to as \"sauna bathing,\" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia \u2013 an increase in the body's core temperature \u2013 that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors\u2026 In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease\u2026 The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits \u2013 and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week\u2026 The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)\u2026Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40\u00b0C (104\u00b0F), and then changes in core body temperature occur, rising slowly from 37\u00b0C (98.6\u00b0F, or normal) to 38\u00b0C (100.4\u00b0F) and then rapidly increasing to 39\u00b0C (102.2\u00b0F)\u2026  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance\u2026 Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors\u2026 The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]\n\nBased on the article, which of the following statements is the author likely to agree with?",
+            "Options": {
+                "A": "Heart surgery patients who cannot run on treadmills may benefit from sauna use.",
+                "B": "Patients on a diet would benefit from sauna use.",
+                "C": "Salt restriction would be equal to sauna use for hypertensive patients.",
+                "D": "Patients with skin conditions may be cured with sauna use."
+            },
+            "Correct Answer": "Heart surgery patients who cannot run on treadmills may benefit from sauna use.",
+            "Correct Option": "A"
+        },
+        "id": "aeab03ff-1d32-46ab-bc90-56fa82e71b53",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Diisopropylfluorophosphate (DFP) binds to the active site of acetylcholinesterase (ACE) in the synapses of neurons. When DFP binds to ACE, the ACE enzyme is rendered permanently inactive. This makes DFP a potent toxin, with lethal amounts at less than 100 mg. The interaction between DFP and ACE can best be characterized as:",
+            "Options": {
+                "A": "Competitive inhibition",
+                "B": "Noncompetitive inhibition",
+                "C": "Irreversible inhibition",
+                "D": "Partially competitive inhibition"
+            },
+            "Correct Answer": "Irreversible inhibition",
+            "Correct Option": "C"
+        },
+        "id": "dc61ee70-bea8-4121-8ce9-097e653747e7",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The process of translation requires the presence of:",
+            "Options": {
+                "A": "mRNA, tRNA and ribosomes.",
+                "B": "mRNA, ribosomes and RNA polymerase.",
+                "C": "DNA, mRNA and RNA polymerase.",
+                "D": "chromatin, DNA and amino acids."
+            },
+            "Correct Answer": "mRNA, tRNA and ribosomes.",
+            "Correct Option": "A"
+        },
+        "id": "f805a713-71db-46da-9c1b-afd8bb023823",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Performance enhancing synthetic steroids are based on the structure of the hormone:",
+            "Options": {
+                "A": "testosterone.",
+                "B": "cortisol.",
+                "C": "progesterone.",
+                "D": "aldosterone."
+            },
+            "Correct Answer": "testosterone.",
+            "Correct Option": "A"
+        },
+        "id": "3da32800-32b5-444a-b2d0-422591868447",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Perchloric acid (HClO4) is considered one of the stronger acids in existence. Which of the following statements corresponds most accurately with strong acids?",
+            "Options": {
+                "A": "Ka is less than 1",
+                "B": "They have an open electron spot on their outer valence rings",
+                "C": "They have stable conjugate bases",
+                "D": "They remain bound in the presence of water."
+            },
+            "Correct Answer": "They have stable conjugate bases",
+            "Correct Option": "C"
+        },
+        "id": "eb842e93-b414-40b3-a45f-e8c0d6e125d3",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A descript amount of 2-bromobutane is placed into a strong solution of ethanol and allowed to complete a reaction. The result of this reaction produces a major product of 2-butene and a minor product of 1-butene. Which of the following descriptions of the starting compound explains why 2-butene is the major product?",
+            "Options": {
+                "A": "Carbon 3 has less hydrogen atoms",
+                "B": "1-butene rearranges to 2-butene in solution",
+                "C": "Ethanol prefers the second carbon in any chain",
+                "D": "Cyclic aromatization"
+            },
+            "Correct Answer": "Carbon 3 has less hydrogen atoms",
+            "Correct Option": "A"
+        },
+        "id": "c7dd1543-991c-45ac-9c72-2b81cba40700",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A hedonic teenager of wayward morals, in one night, sequentially i) has consensual sexual intercourse with his sister, ii) leaves no tip at the bar, iii) has non-censual sexual relations with an unknown woman, and iv) vomits on the steps to the door of a local church. The teenager has violated society\u2019s norms sequentially (to the greatest degree) on the order of:",
+            "Options": {
+                "A": "mores, mores, the law, mores",
+                "B": "taboo, folkways, the law, and taboo",
+                "C": "the law, folkways, folkways, and folkways",
+                "D": "taboo, folkways, the law, and mores"
+            },
+            "Correct Answer": "taboo, folkways, the law, and mores",
+            "Correct Option": "D"
+        },
+        "id": "61972451-7efb-4e8b-8af4-3851f3160192",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The maximum sustainable power:",
+            "Options": {
+                "A": "usually remains constant during a race.",
+                "B": "declines with the distance of the race.",
+                "C": "is improved by a high fat diet.",
+                "D": "is inversely related to muscle glycogen content."
+            },
+            "Correct Answer": "declines with the distance of the race.",
+            "Correct Option": "B"
+        },
+        "id": "632e680f-fe95-4468-ac13-ed5e662bebb6",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A patient comes into the ER looking extremely agitated. They are acting aggressive, and claiming they need medication or \u201cbad things will happen\u201d. What is the likely state of this patient\u2019s dopamine system?",
+            "Options": {
+                "A": "There is decreased dopamine in the synaptic cleft.",
+                "B": "There are decreased dopamine receptors on the post-synaptic membrane.",
+                "C": "There is cell death in the areas with high dopamine cells.",
+                "D": "There is seizure-like activity in the dopamine brain areas."
+            },
+            "Correct Answer": "There are decreased dopamine receptors on the post-synaptic membrane.",
+            "Correct Option": "B"
+        },
+        "id": "b646afab-81bd-4b58-ab48-0dc4ee380227",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A scientist carrying out experiments on hearing aids fits 30 mice that were genetically modified to lose their hearing with the latest technology and were tested to press a lever when they heard a bell. This was set to varying levels of power. At 80% power, 20 mice pressed the lever. At 70% power, 15 mice pressed the lever. At 60% power, 10 mice pressed the lever. Which of the following power levels corresponds to the absolute threshold for hearing the decibels produced by the bell?",
+            "Options": {
+                "A": "80%",
+                "B": "70%",
+                "C": "60%",
+                "D": "Not enough information given."
+            },
+            "Correct Answer": "70%",
+            "Correct Option": "B"
+        },
+        "id": "4be09b9c-8f96-4ff7-9b98-97dd52b8f7a7",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The transcription of DNA to a molecule of messenger RNA occurs:",
+            "Options": {
+                "A": "on the ribosomes.",
+                "B": "in the cytosol.",
+                "C": "in the nucleus.",
+                "D": "only during cell division."
+            },
+            "Correct Answer": "in the nucleus.",
+            "Correct Option": "C"
+        },
+        "id": "c1103a61-3a11-4d52-aee6-cc88497794d5",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A new enzyme is found in a transgenic mice that participates in synthesis of an unknown product using two reactants. When using radiolabeled compounds to study the enzyme, it is found that the enzyme catalyzes a process that switches a nitrogen group on one reactant to the other reactant. Which of the following categories would this new enzyme fall under?",
+            "Options": {
+                "A": "Oxidoreductase",
+                "B": "Transferase",
+                "C": "Hydrolase",
+                "D": "Lyase"
+            },
+            "Correct Answer": "Transferase",
+            "Correct Option": "B"
+        },
+        "id": "d84911c5-07d9-4b82-b2b4-5ec566c7eb63",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "For a very weak base, the pKb of a solution would likely be:",
+            "Options": {
+                "A": "Equal to the pOH",
+                "B": "Higher than the pOH",
+                "C": "Lower than the pOH",
+                "D": "Near 7 at 25\u00baC"
+            },
+            "Correct Answer": "Higher than the pOH",
+            "Correct Option": "B"
+        },
+        "id": "0056280b-45f3-4b3a-b6ed-7bacbee20666",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The genome is:",
+            "Options": {
+                "A": "the number of chromosomes found in the somatic cells of an organism.",
+                "B": "the entire DNA sequence of an organism.",
+                "C": "the entire list of proteins that an organism is capable of producing.",
+                "D": "the DNA sequence of an entire chromosome."
+            },
+            "Correct Answer": "the entire DNA sequence of an organism.",
+            "Correct Option": "B"
+        },
+        "id": "813733a9-fbfc-422f-8eae-a41f46b14ab4",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following are steroid-based molecules?\nI. Testosterone\nII. Triglycerides\nIII. Progesterone\nIV. DNA",
+            "Options": {
+                "A": "I only",
+                "B": "I, II, and III",
+                "C": "I and III",
+                "D": "I, III, and IV"
+            },
+            "Correct Answer": "I and III",
+            "Correct Option": "C"
+        },
+        "id": "5e890886-5af6-46ba-b4f1-4b51c6432eb7",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Most of the free fatty acids are transported in the blood:",
+            "Options": {
+                "A": "inside the red blood cells.",
+                "B": "as lipoproteins.",
+                "C": "combined with glucose.",
+                "D": "bound to albumin."
+            },
+            "Correct Answer": "bound to albumin.",
+            "Correct Option": "D"
+        },
+        "id": "e0f4d9c1-c4c0-466f-b2ee-821808aed61e",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following factors can affect enzyme activity?",
+            "Options": {
+                "A": "Temperature.",
+                "B": "pH.",
+                "C": "The presence of certain metal ions.",
+                "D": "All of the above."
+            },
+            "Correct Answer": "All of the above.",
+            "Correct Option": "D"
+        },
+        "id": "1eaa8913-d26b-4a9a-b3b6-b926819f9a3a",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Living cells require constant interaction with the outside environment in order to attain the materials they need for survival, as well as to rid themselves of waste. Of the following processes, which uses only the gradient of material to control the direction in which the material moves across the cell membrane?",
+            "Options": {
+                "A": "Osmosis",
+                "B": "Passive Transport",
+                "C": "Active Transport",
+                "D": "Endocytosis"
+            },
+            "Correct Answer": "Osmosis",
+            "Correct Option": "A"
+        },
+        "id": "ad7f6f9f-5662-418f-906b-38a0de0d7567",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Embedded in the inner membrane of the mitochondrion are:",
+            "Options": {
+                "A": "the enzymes of the tricarboxylic acid cycle (Krebs' cycle).",
+                "B": "the components of the electron transport chain.",
+                "C": "glycogen molecules.",
+                "D": "triacylglycerol molecules."
+            },
+            "Correct Answer": "the components of the electron transport chain.",
+            "Correct Option": "B"
+        },
+        "id": "7d077bf3-8cac-4718-aeb6-74235e966bee",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A segment of DNA from a lab mouse is determined to be 5\u2019 \u2013 GGATCCTCATG \u2013 3\u2019. Which of the following DNA segments would be the result of this original DNA sequence experiencing both a point mutation and a deletion?",
+            "Options": {
+                "A": "5\u2019 \u2013 GCATCCTCATG \u2013 3\u2019",
+                "B": "5\u2019 \u2013 TGATCCCAG \u2013 3\u2019",
+                "C": "5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019",
+                "D": "5\u2019 \u2013 GGATCCATG \u2013 3\u2019"
+            },
+            "Correct Answer": "5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019",
+            "Correct Option": "C"
+        },
+        "id": "1e5ea81a-29d8-4ed9-b444-146d49950f6c",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "While working on a scene for an action movie, a sound technician is given the task of changing the frequency of a gunshot to more accurately reflect the normal speed of sound. The gunshot came from an actor inside a car traveling 108 km/h, and it was recorded by a camera on a platform 200 meters away traveling at 72 km/h in the same direction. If the frequency of the gunshot is normally 800Hz, what is the perceived frequency which the camera picks up the gunshot at?",
+            "Options": {
+                "A": "941 Hz",
+                "B": "787 Hz",
+                "C": "924 Hz",
+                "D": "912 Hz"
+            },
+            "Correct Answer": "924 Hz",
+            "Correct Option": "C"
+        },
+        "id": "a3dec5dc-53ed-4754-87e1-9d831a437db6",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "An object rests on a plane, with an angle of incline, ?, an acceleration due to gravity, g, and a coefficient of friction \u00b5 between the object and the plane. Which of the following gives the acceleration of the object?",
+            "Options": {
+                "A": "a = g sin ?",
+                "B": "a = g (sin ? \u2013 cos ?)",
+                "C": "a = g (cos ? \u2013 \u00b5 sin ?)",
+                "D": "a = g (sin ? \u2013 \u00b5 cos ?)"
+            },
+            "Correct Answer": "a = g (sin ? \u2013 \u00b5 cos ?)",
+            "Correct Option": "D"
+        },
+        "id": "c85c0b2d-42dd-4236-97d4-88dc560e81ca",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "David is a nationally ranked cellist who recently accepted a scholarship to a major college to perform in the orchestra. Over the summer, he has been given a packet of sheet music to be proficient in by fall semester. David is a perfectionist when it comes to his craft. He always compares himself to better players, and is very hard on himself when he cannot master a section of one of his pieces. Which of the following answers best describes David?",
+            "Options": {
+                "A": "Low self-esteem, strong self-efficacy, internal locus of control",
+                "B": "High self-esteem, strong self-efficacy, internal locus of control",
+                "C": "Low self-esteem, strong self-efficacy, external locus of control",
+                "D": "Low self-esteem, low self-efficacy, internal locus of control"
+            },
+            "Correct Answer": "Low self-esteem, strong self-efficacy, internal locus of control",
+            "Correct Option": "A"
+        },
+        "id": "2a2bbe24-5135-459e-9e79-c658b3f7d071",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A common heart defect in humans is a ventricular septal defect, in which there is a hole in the septum between the right and left ventricles. If a patient were to have this defect, which of the following statements is correct?",
+            "Options": {
+                "A": "The percentage of oxygen in the left atrium would be lower.",
+                "B": "The percentage of CO2 in the right ventricle would be higher.",
+                "C": "The percentage of oxygen in the right atrium would be lower.",
+                "D": "The percentage of oxygen in the right ventricle would be higher."
+            },
+            "Correct Answer": "The percentage of oxygen in the right ventricle would be higher.",
+            "Correct Option": "D"
+        },
+        "id": "f8c7cc48-d05d-4f66-8877-1907cef70983",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "When preparing for the MCAT exam, a student begins studying electrochemical cells. He learns the basic information needed by actively relating it to previous information he has learned about redox reactions. He then builds from that knowledge to learn the advanced concepts needed. The student\u2019s process is best characterized as:",
+            "Options": {
+                "A": "Chunking",
+                "B": "A network model",
+                "C": "Maintenance rehearsal",
+                "D": "Elaborative rehearsal"
+            },
+            "Correct Answer": "Elaborative rehearsal",
+            "Correct Option": "D"
+        },
+        "id": "e637e3e6-3684-49bb-83eb-8107fe7806df",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Two scientists at a conference on evolution take to the stage on day 3 to argue their theories against one other. Each is a devout student of their own philosophy. The first scientist contends that organisms evolved via the increase of organs that were used the most during their time. They would then pass these on to subsequent generations. The second scientist, however, believed that advantages each organism possessed were absent for a long time, randomly occurred, and when they were beneficial, that organism would rapidly populate the population over a short period of time, evolutionarily speaking. Which of the following statements would strengthen the second scientist\u2019s argument?",
+            "Options": {
+                "A": "A study that shows that bodybuilders who train more have larger children.",
+                "B": "A taxonomy study that shows long periods of stagnant growth followed by short burst of massive evolution.",
+                "C": "A study that showed a species who were more successful due to the things they learned over their lifetime that they passed on to their children.",
+                "D": "A study that showed a consistent amount of time between the emergence of each new species."
+            },
+            "Correct Answer": "A taxonomy study that shows long periods of stagnant growth followed by short burst of massive evolution.",
+            "Correct Option": "B"
+        },
+        "id": "03fc481c-9c0e-4119-96f2-dddb4919c217",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A source emits a sound from one medium with a certain velocity, intensity, frequency and wavelength. When the sound exits the first medium and enters a denser medium, all of the following changes EXCEPT:",
+            "Options": {
+                "A": "velocity",
+                "B": "intensity",
+                "C": "frequency",
+                "D": "wavelength"
+            },
+            "Correct Answer": "frequency",
+            "Correct Option": "C"
+        },
+        "id": "e4c92b5d-98e3-4445-aead-0d6369eb8502",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The energy charge of the cell is:",
+            "Options": {
+                "A": "the difference between the charge on the outside and inside of a cell.",
+                "B": "generated by the sodium-potassium ATPase.",
+                "C": "the overall rate of energy use by the cell.",
+                "D": "the extent to which the total adenine nucleotide pool is phosphorylated."
+            },
+            "Correct Answer": "the extent to which the total adenine nucleotide pool is phosphorylated.",
+            "Correct Option": "D"
+        },
+        "id": "c1ed0f5e-4de5-403a-af60-5efc459ca047",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The body compensates for increased environmental temperature by:",
+            "Options": {
+                "A": "decreasing salt retention",
+                "B": "increasing respiration rate",
+                "C": "increasing heart rate",
+                "D": "increasing water lost through skin"
+            },
+            "Correct Answer": "increasing water lost through skin",
+            "Correct Option": "D"
+        },
+        "id": "32bdf5ac-51e5-4bb6-b1c5-214f2e90ff65",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following releases most energy when completely oxidised in the body?",
+            "Options": {
+                "A": "One gram of glucose",
+                "B": "One gram of palmitic acid",
+                "C": "One gram of leucine",
+                "D": "One gram of alcohol"
+            },
+            "Correct Answer": "One gram of palmitic acid",
+            "Correct Option": "B"
+        },
+        "id": "920968e4-9151-40b0-8df1-536c258216f5",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "An individual is born with a mutation causing her to partially retain a form of fetal hemoglobin into adulthood. Compared to a normal individual, this person would exhibit:",
+            "Options": {
+                "A": "no differences from a normal adult.",
+                "B": "significantly reduced oxygen binding in the lungs.",
+                "C": "no symptoms, since retention of fetal hemoglobin would be fatal.",
+                "D": "increased oxygen binding to hemoglobin in the tissues."
+            },
+            "Correct Answer": "increased oxygen binding to hemoglobin in the tissues.",
+            "Correct Option": "D"
+        },
+        "id": "96e0ef7f-b73d-483b-9e4b-de5e91a4ccbd",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Women's world record performances have improved rapidly in recent years mainly because:",
+            "Options": {
+                "A": "women have evolved a greater muscle mass.",
+                "B": "women can now run faster than men.",
+                "C": "women have started training at an earlier age.",
+                "D": "more women are now engaged in sport."
+            },
+            "Correct Answer": "more women are now engaged in sport.",
+            "Correct Option": "D"
+        },
+        "id": "ae913094-4ea1-4f57-b20f-bbe1c508a306",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "During muscular contraction, interactions between myosin and actin allow for shortening of each sarcomere. In addition to the power stroke, what other process of muscle contraction requires ATP?",
+            "Options": {
+                "A": "Tropomyosin-troponin interaction",
+                "B": "Myosin-actin interaction",
+                "C": "Calcium-troponin interaction",
+                "D": "Myosin-actin detachment"
+            },
+            "Correct Answer": "Myosin-actin detachment",
+            "Correct Option": "D"
+        },
+        "id": "fe8b4879-24e2-4aa7-8610-d34f853430f2",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The activity of creatine kinase is:",
+            "Options": {
+                "A": "increased when intracellular ADP rises.",
+                "B": "increased when muscle pH falls below 6.9.",
+                "C": "always lower in Type II fibres than Type I fibres.",
+                "D": "increased after a period of endurance training."
+            },
+            "Correct Answer": "increased when intracellular ADP rises.",
+            "Correct Option": "A"
+        },
+        "id": "1b97200e-6ed1-4b4b-a0c2-e646a5a1b188",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A teacher sets up a reward system for her elementary school students. At the end of each day, she gives a sticker to each student who showed up on time that morning. At the end of each week, she gives a sticker to any student who got above a 90% on three quizzes in a row. After months of this regimen, she finds that performance on the quizzes has increased significantly but that tardiness has only decreased slightly. Which of the following best explains the teacher\u2019s observation?",
+            "Options": {
+                "A": "Variable ratio schedules create the strongest responses and behavior that is the least susceptible to extinction.",
+                "B": "The students had more intrinsic motivation to do well on quizzes than to show up on time.",
+                "C": "The students\u2019 behavior change was stronger in response to a fixed-ratio schedule than it was to a continuous reinforcement schedule.",
+                "D": "The students\u2019 behavior change was stronger in response to a fixed-ratio schedule than it was to a variable-interval schedule."
+            },
+            "Correct Answer": "The students\u2019 behavior change was stronger in response to a fixed-ratio schedule than it was to a continuous reinforcement schedule.",
+            "Correct Option": "C"
+        },
+        "id": "3f8e1853-ccf8-4878-8e7a-7643df7729bd",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The net production of ATP via substrate-level phosphorylation in glycolysis is:",
+            "Options": {
+                "A": "2 from glucose and 3 from glycogen.",
+                "B": "2 from glucose and 4 from glycogen.",
+                "C": "3 from glucose and 4 from glycogen.",
+                "D": "3 from glucose and 2 from glycogen."
+            },
+            "Correct Answer": "2 from glucose and 3 from glycogen.",
+            "Correct Option": "A"
+        },
+        "id": "73068d98-2799-4be4-8360-2390acdbab7c",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Pregnancy tests are extremely sensitive and function by detecting levels of B-hCG, or human chorionic gonadotropin, in urine. This hormone is secreted by what tissue, and what is its function?",
+            "Options": {
+                "A": "Corpus luteum, self-maintenance",
+                "B": "Endometrium, cell division",
+                "C": "Blastocyst, increase in blood flow",
+                "D": "Blastocyst, corpus luteum maintenance"
+            },
+            "Correct Answer": "Blastocyst, corpus luteum maintenance",
+            "Correct Option": "D"
+        },
+        "id": "002edd5c-4a22-4021-9ad5-a7f1da181996",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The son of a bricklayer goes to college and i) becomes a teacher at a medical school, ii) gets promoted to tenured professor, and iii) moves across the country for a new tenured professor position at a different school. Sequentially, this man has experienced:",
+            "Options": {
+                "A": "intergenerational mobility with respect to the father, horizontal mobility, horizontal mobility",
+                "B": "intragenerational mobility with respect to the son, upward mobility, upward mobility",
+                "C": "intergenerational mobility with respect to the father, upward mobility, horizontal mobility",
+                "D": "intragenerational mobility with respect to the son, horizontal mobility, upward mobility"
+            },
+            "Correct Answer": "intergenerational mobility with respect to the father, upward mobility, horizontal mobility",
+            "Correct Option": "C"
+        },
+        "id": "cb034b96-ba70-4f4d-a076-92862c55cada",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "DNA polymerase creates new DNA by adding complimentary nucleotides to a template strand from the original double-stranded DNA. If a section of the template strand had a ration of 3:2 of A:T bases, what is the ration of A:T in the newly synthesized complimentary strand of DNA?",
+            "Options": {
+                "A": "3:02",
+                "B": "1:01",
+                "C": "2:03",
+                "D": "cannot be determined"
+            },
+            "Correct Answer": "2:03",
+            "Correct Option": "C"
+        },
+        "id": "2c7e25a9-24bb-4f32-a17b-21616b3ea82f",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "How many CO2 and ATP molecules are formed during one complete turn of the tricarboxylic acid cycle (Krebs' cycle)?",
+            "Options": {
+                "A": "2CO2 and 2ATP",
+                "B": "2CO2 and 16ATP",
+                "C": "2CO2 and 12ATP",
+                "D": "2CO2 and 1ATP"
+            },
+            "Correct Answer": "2CO2 and 1ATP",
+            "Correct Option": "D"
+        },
+        "id": "84ce2f8a-b093-4a02-ae60-8f40e9a2d4e8",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A young child is brought to a psychologist for evaluation of their home situation. The child is placed in the middle of the floor, with the mother on one side and the psychologist on the other. The mother then leaves for a short while, and then returns. Which of the following would be a concerning sign during this evaluation?",
+            "Options": {
+                "A": "Decreased exploration when the mother is out of the room.",
+                "B": "Crying and returning to the mother upon return.",
+                "C": "Avoiding the mother upon return.",
+                "D": "Exploring the room before the mother leaves."
+            },
+            "Correct Answer": "Avoiding the mother upon return.",
+            "Correct Option": "C"
+        },
+        "id": "a11c3289-c242-46af-95ad-c7384ae6f20f",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "In a fit of passion, the spectator of a political debate exclaims that \u201cwelfare recipients are all lazy.\u201d The spectator\u2019s thought process is an example of:",
+            "Options": {
+                "A": "prejudice",
+                "B": "discrimination",
+                "C": "ethnocentrism",
+                "D": "conflict theory"
+            },
+            "Correct Answer": "prejudice",
+            "Correct Option": "A"
+        },
+        "id": "8b8034c1-fe5a-49cf-91c4-b350d429aabf",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Neonatal Respiratory Distress Syndrome (NRDS) is a serious complication seen in infants born prematurely who have a compromised ability to facilitate oxygen diffusion across their alveolar membranes. This is caused by inadequate surfactant production. What role does surfactant play in facilitating oxygen diffusion?",
+            "Options": {
+                "A": "Increases surface permeability",
+                "B": "Maintains alveoli in an open state",
+                "C": "Depresses cilia of the lung",
+                "D": "Dilates blood vessels"
+            },
+            "Correct Answer": "Maintains alveoli in an open state",
+            "Correct Option": "B"
+        },
+        "id": "c725375e-5e0e-4c29-927c-1730766d6c14",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Using this formula, if a reaction was provided with 84g of ethane and unlimited oxygen, how many grams of carbon dioxide would result (Carbon atomic weight: 12amu, Hydrogen atomic weight: 1amu, Oxygen atomic weight: 16amu)?\n\ufeff\nThe unbalanced reaction of ethane gas to carbon dioxide and water is as follows:\n\n C2H4 + O2 \u2014> CO2 + H2O",
+            "Options": {
+                "A": "78g",
+                "B": "528g",
+                "C": "264g",
+                "D": "156g"
+            },
+            "Correct Answer": "264g",
+            "Correct Option": "C"
+        },
+        "id": "1490eec2-8d4c-460e-a41b-958bda2c62e9",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Sauna use, sometimes referred to as \"sauna bathing,\" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia \u2013 an increase in the body's core temperature \u2013 that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors\u2026 In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease\u2026 The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits \u2013 and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week\u2026 The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)\u2026Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40\u00b0C (104\u00b0F), and then changes in core body temperature occur, rising slowly from 37\u00b0C (98.6\u00b0F, or normal) to 38\u00b0C (100.4\u00b0F) and then rapidly increasing to 39\u00b0C (102.2\u00b0F)\u2026  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance\u2026 Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors\u2026 The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]\n\nBased on the article, what would be an important thing for a person to do after sauna use?",
+            "Options": {
+                "A": "Shower in cold water.",
+                "B": "Exercise.",
+                "C": "Eat a meal.",
+                "D": "Replenish fluids with filtered water."
+            },
+            "Correct Answer": "Replenish fluids with filtered water.",
+            "Correct Option": "D"
+        },
+        "id": "5d246c1b-4ffe-4b2f-9df3-f23457ce3e89",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following is not an amino acid?",
+            "Options": {
+                "A": "Glutamic acid",
+                "B": "Aspartic acid",
+                "C": "Glutamine",
+                "D": "Palmitic acid"
+            },
+            "Correct Answer": "Palmitic acid",
+            "Correct Option": "D"
+        },
+        "id": "d949815f-802d-4bf2-a3cb-80293363c522",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Approximately how many kJ of energy are expended if an athlete's steady-rate oxygen uptake averages 3.0 l/min for 5 minutes of exercise?",
+            "Options": {
+                "A": "60 kJ",
+                "B": "150 kJ",
+                "C": "300 kJ",
+                "D": "500 kJ"
+            },
+            "Correct Answer": "300 kJ",
+            "Correct Option": "C"
+        },
+        "id": "f1e2563d-4121-407c-97a3-6b0b14cc96dd",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The low intake of carbohydrate in the diet:",
+            "Options": {
+                "A": "does not influence exercise performance in events lasting less than 10 minutes.",
+                "B": "affects the resting muscle pH.",
+                "C": "may impair high intensity exercise performance.",
+                "D": "results in greater reliance on muscle glycogen during exercise."
+            },
+            "Correct Answer": "may impair high intensity exercise performance.",
+            "Correct Option": "C"
+        },
+        "id": "436a08e5-404d-4745-91f3-8e25fdd44610",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following processes is not used to modify protein structure after translation has occurred?",
+            "Options": {
+                "A": "Lipidation.",
+                "B": "Attachment of more amino acids via peptide bonds.",
+                "C": "Glycosylation.",
+                "D": "Phosphorylation."
+            },
+            "Correct Answer": "Attachment of more amino acids via peptide bonds.",
+            "Correct Option": "B"
+        },
+        "id": "5ce55b9e-a31f-43e3-a5dc-0e194b6ed281",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following promotes glucose and amino acid uptake by muscle?",
+            "Options": {
+                "A": "Adrenaline",
+                "B": "Insulin",
+                "C": "Glycogen",
+                "D": "Cortisol"
+            },
+            "Correct Answer": "Insulin",
+            "Correct Option": "B"
+        },
+        "id": "dbbdc266-3c99-4266-9310-c46433c672bb",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "When branched chain amino acids are deaminated in muscle, the ammonia produced is mostly:",
+            "Options": {
+                "A": "converted into arginine and released from the muscle.",
+                "B": "converted into alanine and glutamine and released from the muscle.",
+                "C": "converted into urea and released from the muscle.",
+                "D": "used to synthesise purines and pyrimidines in the muscle."
+            },
+            "Correct Answer": "converted into alanine and glutamine and released from the muscle.",
+            "Correct Option": "B"
+        },
+        "id": "490d63c7-84e7-4bfa-81f5-f7511e8831b6",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A certain molecule acts by binding to cytochrome oxidase A3, the final enzyme in the electron transport chain. Administration of a large dose of this substance to a human would likely:",
+            "Options": {
+                "A": "Lead to death due to an inability of the cell to pass electrons to oxygen, thus stopping aerobic respiration and asphyxiating the cells.",
+                "B": "Lead to death due to an inadequate supply of ADP to accept a phosphate group at the ATP synthase enzyme.",
+                "C": "Have no effect as cells would switch which macronutrient they metabolize to circumvent the blocked biochemical pathway.",
+                "D": "Increase the cell\u2019s ATP production as negative feedback would cause the cell to up-regulate anaerobic pathways."
+            },
+            "Correct Answer": "Lead to death due to an inability of the cell to pass electrons to oxygen, thus stopping aerobic respiration and asphyxiating the cells.",
+            "Correct Option": "A"
+        },
+        "id": "88feec2e-166c-49a5-b157-3a7ae02beb94",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "In response to period of extreme psychological trauma, a patient begins experiencing a feeling of detachment. He says, \u201cI felt like it wasn\u2019t real while it was happening. I was just watching myself do it without any control. I mean, you know, I knew it was happening but I didn\u2019t feel like it was.\u201d The patient is describing:",
+            "Options": {
+                "A": "Dissociative identity disorder",
+                "B": "An anxiety disorder",
+                "C": "Depersonalization disorder",
+                "D": "A schizophrenic episode"
+            },
+            "Correct Answer": "Depersonalization disorder",
+            "Correct Option": "C"
+        },
+        "id": "731c13e3-320c-40b4-b544-bb38727950f7",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Endurance training increases the muscle's capacity to:",
+            "Options": {
+                "A": "contract faster.",
+                "B": "break down phosphocreatine.",
+                "C": "burn fat and carbohydrate.",
+                "D": "generate energy anaerobically."
+            },
+            "Correct Answer": "burn fat and carbohydrate.",
+            "Correct Option": "C"
+        },
+        "id": "9090c8ae-a0e3-4ceb-bf88-4fbd016c0c38",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Metabolism is determined by the:",
+            "Options": {
+                "A": "size of proteins in the cell.",
+                "B": "availability of amino acids.",
+                "C": "proteins formed as dictated by the genetic material.",
+                "D": "amino acid composition of the ribonucleic acids."
+            },
+            "Correct Answer": "proteins formed as dictated by the genetic material.",
+            "Correct Option": "C"
+        },
+        "id": "1405194d-89a3-4e46-96ab-03b083397f7c",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "In order to determine the doppler shift in perceived sound frequency, the following variables must be known:\nI. speed of sound in medium\nII. Time of interaction between sound source and detector\nIII. distance between source and detector\nIV. frequency of emitted sound",
+            "Options": {
+                "A": "I only",
+                "B": "I and III",
+                "C": "II and IV",
+                "D": "I and IV"
+            },
+            "Correct Answer": "I and IV",
+            "Correct Option": "D"
+        },
+        "id": "fc821354-66d9-46c8-b44b-8438622fbbbd",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The key attribute in successful marathon running is:",
+            "Options": {
+                "A": "strength.",
+                "B": "power.",
+                "C": "stride length.",
+                "D": "stamina."
+            },
+            "Correct Answer": "stamina.",
+            "Correct Option": "D"
+        },
+        "id": "e5502d89-f24e-4ee8-bfe6-8b056fc2b5df",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following phases are common to cells undergoing meiosis and mitosis?\nI. G0\nII. phase G2\nIII. phase S phase",
+            "Options": {
+                "A": "I only",
+                "B": "I and II only",
+                "C": "II and III only",
+                "D": "I, II, and III"
+            },
+            "Correct Answer": "II and III only",
+            "Correct Option": "C"
+        },
+        "id": "fba606ab-5c32-4e60-8dcc-268cdc999f9f",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "If the mean rate of oxygen consumption of a male athlete during a training session is 2 l/min, then his rate of energy expenditure is approximately:",
+            "Options": {
+                "A": "400 kJ/min.",
+                "B": "200 kJ/min.",
+                "C": "80 kJ/min.",
+                "D": "40 kJ/min."
+            },
+            "Correct Answer": "40 kJ/min.",
+            "Correct Option": "D"
+        },
+        "id": "8c10f5aa-9eb8-4f8b-b5eb-62becda034b1",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "In a double stranded molecule of DNA, the ratio of purines : pyrimidines is:",
+            "Options": {
+                "A": "variable.",
+                "B": "determined by the base sequence in RNA.",
+                "C": "genetically determined.",
+                "D": "always 1:1."
+            },
+            "Correct Answer": "always 1:1.",
+            "Correct Option": "D"
+        },
+        "id": "1c1b8d14-7897-4cd9-ac19-946401f1a084",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Sauna use, sometimes referred to as \"sauna bathing,\" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia \u2013 an increase in the body's core temperature \u2013 that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors\u2026 In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease\u2026 The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits \u2013 and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week\u2026 The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)\u2026Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40\u00b0C (104\u00b0F), and then changes in core body temperature occur, rising slowly from 37\u00b0C (98.6\u00b0F, or normal) to 38\u00b0C (100.4\u00b0F) and then rapidly increasing to 39\u00b0C (102.2\u00b0F)\u2026  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance\u2026 Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors\u2026 The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]\n\nThe review article sources a lot of data from Finland population studies, where the incidence of sauna use is substantially higher than most countries. Using the data, which of the following is something that is more plausible in Finland than elsewhere?",
+            "Options": {
+                "A": "More gold medals in adolescent skiing.",
+                "B": "An 86-year old male mayor who is revered in the community.",
+                "C": "Increased rate of pets in the household.",
+                "D": "Improved marriage satisfaction rates."
+            },
+            "Correct Answer": "An 86-year old male mayor who is revered in the community.",
+            "Correct Option": "B"
+        },
+        "id": "b528313d-0073-4ac0-a55b-495ff078c863",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Karen is a college student working on developing a stronger sense of self-esteem and self-efficacy with her therapist. She has noticed a great change in her ability to handle situations after 3 months of therapy. Which of the following would NOT be a strategy that her therapist would ask her to employ to raise her sense of self-efficacy?",
+            "Options": {
+                "A": "Seek positive feedback from friends.",
+                "B": "Put in daily practice on the tasks she wishes to improve on.",
+                "C": "Find others her age and ability who excel at tasks she is interested in.",
+                "D": "Avoid potential pitfalls by withholding from tasks she is not proficient in."
+            },
+            "Correct Answer": "Avoid potential pitfalls by withholding from tasks she is not proficient in.",
+            "Correct Option": "D"
+        },
+        "id": "045d7807-8d9a-4378-8640-251d3c148dab",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Phophocreatine resynthesis during recovery from exercise is inhibited by:",
+            "Options": {
+                "A": "an excess of creatine.",
+                "B": "hyperventilation.",
+                "C": "an excess of oxygen.",
+                "D": "a lack of oxygen."
+            },
+            "Correct Answer": "a lack of oxygen.",
+            "Correct Option": "D"
+        },
+        "id": "eb82faf5-52bb-468d-b14c-9bb22aa5b17e",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A thin layer chromatography is performed on both the reactants and products of a reaction. It is found that the products have an Rf value that is significantly higher than the reactants. Which of the following could adequately describe this reaction:",
+            "Options": {
+                "A": "SN2 reaction converting an alkyl bromide to an alkyl chloride",
+                "B": "Addition reaction converting an alkene to an alcohol",
+                "C": "Nucleophilic acyl substitution reaction converting an ester to an anhydride",
+                "D": "Elimination reaction converting an alcohol to an alkene"
+            },
+            "Correct Answer": "Elimination reaction converting an alcohol to an alkene",
+            "Correct Option": "D"
+        },
+        "id": "1521faf1-1b02-41be-bfc8-6f1b00fa7b21",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The synthesis of glucose from lactate, glycerol, or amino acids is called:",
+            "Options": {
+                "A": "glycogenolysis.",
+                "B": "glycolysis.",
+                "C": "lipolysis.",
+                "D": "gluconeogenesis."
+            },
+            "Correct Answer": "gluconeogenesis.",
+            "Correct Option": "D"
+        },
+        "id": "b5e99bb4-cb37-4917-b139-3d22afdf68c2",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "After what period of time does maximal dynamic exercise become predominantly aerobic?",
+            "Options": {
+                "A": "10 seconds",
+                "B": "30 seconds",
+                "C": "1 minute",
+                "D": "4 minutes"
+            },
+            "Correct Answer": "1 minute",
+            "Correct Option": "C"
+        },
+        "id": "ed258d61-4301-4eb4-8aaf-8a1ad6dc9c8a",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following best accounts for the negative slope of the liquid-solid equilibrium line in the phase diagram for water?",
+            "Options": {
+                "A": "H2O(s) has a greater density than H2O(l), which causes the solid to form liquid under high pressure conditions.",
+                "B": "H2O(s) has a greater density than H2O(l), which results from the hydrogen bonds formed between water molecules.",
+                "C": "H2O(s) has a lower density than H2O(l) which results from the crystalline framework that forms due to hydrogen bonds.",
+                "D": "H2O(s) has a lower density than H2O(l) which causes the solid to form liquid under low pressure conditions."
+            },
+            "Correct Answer": "H2O(s) has a lower density than H2O(l) which results from the crystalline framework that forms due to hydrogen bonds.",
+            "Correct Option": "C"
+        },
+        "id": "6950c3e3-55b8-4fce-aa6a-4577f89f9141",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Mg(OH)2 is slowly dissolved in 500 mL of 25 oC water until the solution becomes fully saturated. Which of the following occurs when 10.0 mL of 0.1 M HCl is added?",
+            "Options": {
+                "A": "MgCl2 precipitates",
+                "B": "Mg(OH)2 precipitates",
+                "C": "Ksp for Mg(OH)2 increases",
+                "D": "[H2O] increases"
+            },
+            "Correct Answer": "[H2O] increases",
+            "Correct Option": "D"
+        },
+        "id": "2311508e-b41a-4dcc-900b-8c0bd06c7c94",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Myoclonic epilepsy and ragged-red fiber (MERRF) is an extremely rare disorder that affects neuromuscular systems. MERRF results from a mutation in mitochondrial DNA (mtDNA) that impairs protein synthesis, oxygen consumption, and energy production. When an affected male and a normal female reproduce, which of the following best predicts the expected phenotypic ratios of the offspring?",
+            "Options": {
+                "A": "None of the offspring will be affected",
+                "B": "All males and no females will be affected",
+                "C": "Half of males and half of females will be affected",
+                "D": "One-fourth of the offspring will be affected"
+            },
+            "Correct Answer": "None of the offspring will be affected",
+            "Correct Option": "A"
+        },
+        "id": "7d490fe2-820a-4259-9fb5-1633adfdd8a7",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Selective Androgen Receptor Modulators (SARMs) are:",
+            "Options": {
+                "A": "steroid drugs that act on androgen receptors mimicking the effects of natural steroid hormones.",
+                "B": "steroid drugs that act on androgen receptors antagonising the effects of natural steroid hormones.",
+                "C": "non-steroid drugs that act on androgen receptors mimicking the effects of natural steroid hormones.",
+                "D": "non-steroid drugs that act on androgen receptors inhibiting the effects of natural steroid hormones."
+            },
+            "Correct Answer": "non-steroid drugs that act on androgen receptors mimicking the effects of natural steroid hormones.",
+            "Correct Option": "C"
+        },
+        "id": "3787e774-44ec-4d55-b9c5-2eed9f358eb7",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "An action potential arriving at the motor endplate causes release of:",
+            "Options": {
+                "A": "acetylcholine which traverses the neuromuscular junction.",
+                "B": "sodium ions which binds to sodium receptors on the muscle membrane.",
+                "C": "calcium ions which initiate an action potential along the muscle fibre.",
+                "D": "noradrenaline which increases muscle metabolic activity."
+            },
+            "Correct Answer": "acetylcholine which traverses the neuromuscular junction.",
+            "Correct Option": "A"
+        },
+        "id": "5f58fd04-9d5a-4219-9542-25b2e93d744d",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "All of the following are example of sensory, or neural, adaptation EXCEPT:",
+            "Options": {
+                "A": "After putting on a shirt, you eventually no longer feel the sensation of the fabric on your back.",
+                "B": "After first walking into a crowded room, you no longer are distracted by the buzz of conversation around you.",
+                "C": "After first walking outside on a sunny day, you no longer are blinded by the initial brightness of the light.",
+                "D": "After first walking into an anatomy lab, you no longer notice the smell of formaldehyde."
+            },
+            "Correct Answer": "After first walking outside on a sunny day, you no longer are blinded by the initial brightness of the light.",
+            "Correct Option": "C"
+        },
+        "id": "18664962-9d38-4e13-a511-0197f71737ba",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A scientist, using electrodes, is stimulating a group of neurons in the hypothalamus and recording their membrane potential changes. She observes a sharp rise in membrane potential when she first stimulates them, the the difference of 100mV. When she tries another stimulation immediately after the first, there is no response. However, when she increase the amount of voltage she supplies to the second shock, she observes a similar response to the first. What time period of stimulation would the second shock be characterized in regards to membrane potential?",
+            "Options": {
+                "A": "Depolarization",
+                "B": "Repolarization",
+                "C": "Hyperpolarization",
+                "D": "Resting potential"
+            },
+            "Correct Answer": "Hyperpolarization",
+            "Correct Option": "C"
+        },
+        "id": "1e88ba23-d6b3-4d40-b5c2-11ef13c425b3",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The \u03b2-oxidation of a molecule of palmitic acid, CH3(CH2)14CO2H:",
+            "Options": {
+                "A": "yields 8 molecules of acetyl-CoA and some ATP and water.",
+                "B": "yields 16 molecules of acetyl-CoA only.",
+                "C": "yields carbon dioxide and water only.",
+                "D": "does not involve oxygen."
+            },
+            "Correct Answer": "yields 8 molecules of acetyl-CoA and some ATP and water.",
+            "Correct Option": "A"
+        },
+        "id": "225e22d0-1712-4a89-a48c-f441b61507ee",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "What is the most likely outcome of this modification?\n\ufeff\nAn RNA strand that normally produces a transmembrane protein that facilitates potassium entry into muscle cells is modified to produce a different strand. The original strand is as follows:\n\n GAAUAGAUGGGAAGCGCCAGAUACAGUAACAGA\u2026 \n\nThe modified sequence is as follows:\n\n GAAUAGAUGGGAAGCGCCAGAUACAGUACCAGA\u2026",
+            "Options": {
+                "A": "Absence of the protein",
+                "B": "Production of a similar-sized but dysfunctional protein",
+                "C": "No change",
+                "D": "Production of a larger, likely dysfunctional protein"
+            },
+            "Correct Answer": "Production of a larger, likely dysfunctional protein",
+            "Correct Option": "D"
+        },
+        "id": "184ac8b9-9c2f-4f91-8416-b660c671d321",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Glycolysis is the name given to the pathway involving the conversion of:",
+            "Options": {
+                "A": "glycogen to glucose-1-phosphate.",
+                "B": "glycogen or glucose to fructose.",
+                "C": "glycogen or glucose to pyruvate or lactate.",
+                "D": "glycogen or glucose to pyruvate or acetyl CoA."
+            },
+            "Correct Answer": "glycogen or glucose to pyruvate or lactate.",
+            "Correct Option": "C"
+        },
+        "id": "0b7175f0-46f7-4d71-be0a-07161640be06",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A psychologist conducts an experiment in which subjects are asked to learn a series of \u201cfacts\u201d which are actually statements that have been fabricated by the research team. The subjects consist of undergraduate students at the university where the experiment is being conducted. The subjects are randomly assigned to groups that are compensated either $10 or $20 for their participation, are given either 15 minutes or 30 minutes to learn the facts, and are asked to recall the facts either in the same room in which they learned the facts or in a very different, unfamiliar setting. Which of the following are dependent variables in this experiment?\nI. The amount the subjects were compensated.\nII. The room in which the subjects were asked to recall facts.\nIII. The number of facts the subjects can recall.\nIV. The time the subjects were given to learn the facts.",
+            "Options": {
+                "A": "II only",
+                "B": "III only",
+                "C": "I and IV only",
+                "D": "I and III and IV only"
+            },
+            "Correct Answer": "III only",
+            "Correct Option": "B"
+        },
+        "id": "398b4d7e-b8a2-428b-b72d-966e444eec9b",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following is thought to be implicated in the development of peripheral muscle fatigue during multiple sprint activities?",
+            "Options": {
+                "A": "An accumulation of inorganic phosphate.",
+                "B": "Development of hyperosmolality in the muscles.",
+                "C": "An excess of antioxidants.",
+                "D": "A lack of potassium."
+            },
+            "Correct Answer": "An accumulation of inorganic phosphate.",
+            "Correct Option": "A"
+        },
+        "id": "4e4eb27f-4f82-4822-a582-a157f6ccfc66",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A muscle fibre relaxes when:",
+            "Options": {
+                "A": "the nerve stimulus is removed.",
+                "B": "the nerve stimulus is too forceful.",
+                "C": "the actin binding sites are uncovered.",
+                "D": "the actin binding sites are saturated."
+            },
+            "Correct Answer": "the nerve stimulus is removed.",
+            "Correct Option": "A"
+        },
+        "id": "92803153-be09-4107-8121-8fcc784b4fe5",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The pyruvate dehydrogenase complex:",
+            "Options": {
+                "A": "is located in the sarcoplasm.",
+                "B": "catalyses the conversion of pyruvate to acetyl CoA.",
+                "C": "catalyses the conversion of pyruvate to lactate.",
+                "D": "catalyses the conversion of lactate to pyruvate."
+            },
+            "Correct Answer": "catalyses the conversion of pyruvate to acetyl CoA.",
+            "Correct Option": "B"
+        },
+        "id": "dbacfa48-a0e1-48da-975e-a16a69ace28a",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Hydrogen ions are formed when:",
+            "Options": {
+                "A": "glycogen becomes depleted.",
+                "B": "phosphocreatine breakdown occurs.",
+                "C": "pyruvate is converted to lactate.",
+                "D": "glycolysis is being used as a major means of resynthesising ATP."
+            },
+            "Correct Answer": "glycolysis is being used as a major means of resynthesising ATP.",
+            "Correct Option": "D"
+        },
+        "id": "c3033485-8904-47d1-9767-c55db79a5681",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Our genetic material is made up of:",
+            "Options": {
+                "A": "deoxyribonucleic acid.",
+                "B": "ribonucleic acid.",
+                "C": "dinitronucleic acid.",
+                "D": "protein."
+            },
+            "Correct Answer": "deoxyribonucleic acid.",
+            "Correct Option": "A"
+        },
+        "id": "44b53bb9-75be-45b5-9eb9-30aaddae8e0c",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A dentist that is performing procedures in his clinic is brought out to the front desk one day to handle a dispute between one of his patients and the clerk. The patient is a middle-aged businessman who is irate and creating a scene because he was told he would have to see the dental hygienist instead of the dentist. The patient loudly rants that he makes too much money to be subjected to treatment by a half-trained associate. The clerk explains to the dentist that the patient was 40 minutes late to his appointment, and the only opening now was with the hygienist. The patient snaps back that his time is worth more than any of the people in the office. What personality disorder is this patient likely exhibiting?",
+            "Options": {
+                "A": "Histrionic",
+                "B": "Narcissistic",
+                "C": "Paranoid",
+                "D": "Obsessive-compulsive"
+            },
+            "Correct Answer": "Paranoid",
+            "Correct Option": "C"
+        },
+        "id": "b30e505d-02cd-46ef-95d2-a38e95833687",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Vygotsky\u2019s sociocultural development theory attempts to describe the interaction between the mental function children are born with and how they develop those into what they possess as adults. One of the important components of this is the zone of proximal development. Which of the following statements accurately describes an individual in the zone of proximal development?",
+            "Options": {
+                "A": "A baseball player hits baseballs from a tee in order to build muscle memory.",
+                "B": "A concert flute player falls short of finishing a piece that has a very complex ending without mistakes",
+                "C": "A high school English student submits a paper for review by his professor.",
+                "D": "A high diver takes instruction from her coach to improve her form on a specific move."
+            },
+            "Correct Answer": "A high diver takes instruction from her coach to improve her form on a specific move.",
+            "Correct Option": "D"
+        },
+        "id": "3bfd30bf-705c-448f-a359-1df0f9b66cd7",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A young man working with a therapist on becoming more productive is expressing many of his desires throughout growing up and how he feels that it has affected him. Through discernment, the therapist states that he believes the young man\u2019s development is stuck in a stage that reflects itself by his inability to keep his house clean. According to Freud\u2019s theory of psychosexual development, what stage would this young man be fixated in?",
+            "Options": {
+                "A": "Anal",
+                "B": "Phallic",
+                "C": "Latent",
+                "D": "Genital"
+            },
+            "Correct Answer": "Phallic",
+            "Correct Option": "B"
+        },
+        "id": "5acd5f13-dad8-4d1b-abab-b04bb0efb973",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "What type of covalent bonds link the amino acids in a protein?",
+            "Options": {
+                "A": "Peptide bonds",
+                "B": "Hydrogen bonds",
+                "C": "Ionic bonds",
+                "D": "Glycosidic bonds"
+            },
+            "Correct Answer": "Peptide bonds",
+            "Correct Option": "A"
+        },
+        "id": "d6671d17-27f9-4bc6-b304-23d79ed04564",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Walking down a street late at night, an adult male pedestrian notices a young female on the ground, not moving. The female is on the opposite side of the street. Crossing the street, the pedestrian notices that the young woman appears both much wealthier than he is and is of a different ethnicity. Seeing no one else present, the pedestrian renders aid. According to the bystander effect, which of the following would change how the pedestrian reacts?",
+            "Options": {
+                "A": "The person requiring aid appearing to be of a lower socioeconomic class rather than a higher one",
+                "B": "The presence of another group of people one block up the street",
+                "C": "The person requiring aid appearing to be the same ethnicity rather than a different one",
+                "D": "The presence of one other person who is already approaching the girl"
+            },
+            "Correct Answer": "The presence of one other person who is already approaching the girl",
+            "Correct Option": "D"
+        },
+        "id": "ba1d007a-b1d4-4b11-9279-ffc03a12956f",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Sauna use, sometimes referred to as \"sauna bathing,\" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia \u2013 an increase in the body's core temperature \u2013 that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors\u2026 In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease\u2026 The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits \u2013 and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week\u2026 The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)\u2026Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40\u00b0C (104\u00b0F), and then changes in core body temperature occur, rising slowly from 37\u00b0C (98.6\u00b0F, or normal) to 38\u00b0C (100.4\u00b0F) and then rapidly increasing to 39\u00b0C (102.2\u00b0F)\u2026  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance\u2026 Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors\u2026 The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]\n\nWhich of the following is a likely paragraph that follows this excerpt in the article?",
+            "Options": {
+                "A": "A paragraph on a protein that facilitates intracellular function in response to heat.",
+                "B": "A paragraph on increased heart attacks in Eskimo populations.",
+                "C": "A recap of Finland\u2019s water polo team excellence.",
+                "D": "A study on rats exposed to high levels of heat."
+            },
+            "Correct Answer": "A paragraph on a protein that facilitates intracellular function in response to heat.",
+            "Correct Option": "A"
+        },
+        "id": "0d32946e-fb9a-4bda-a8d7-79cea342ee81",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Muscle lactate production increases when:",
+            "Options": {
+                "A": "oxygen is readily available.",
+                "B": "pyruvate cannot be formed from glucose breakdown.",
+                "C": "the pH of the muscle falls.",
+                "D": "glycolysis is activated at the onset of exercise."
+            },
+            "Correct Answer": "glycolysis is activated at the onset of exercise.",
+            "Correct Option": "D"
+        },
+        "id": "d1eaa212-7c18-4370-8599-c8a98df48204",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Triacylglycerides consist of I. A ribose backbone II. a glycerol backbone III. three phosphodiester linkages IV. three ester linkages",
+            "Options": {
+                "A": "I and III",
+                "B": "II only",
+                "C": "II and III",
+                "D": "II and IV"
+            },
+            "Correct Answer": "II and IV",
+            "Correct Option": "D"
+        },
+        "id": "6c030dbe-19d4-4418-b09e-b8062e94a4d0",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Noncompetitive inhibition differs from uncompetitive inhibition in that a noncompetitive inhibitor binds to an allosteric site on the enzyme and prevents it from catalyzing a reaction, whereas uncompetitive inhibitors bind to the enzymesubstrate complex and prevent catalysis. Increasing the substrate concentration would have which of the following effects?",
+            "Options": {
+                "A": "Increasing impact of uncompetitive inhibitor and decreasing concentration of noncompetitive inhibitor",
+                "B": "Decreasing impact of uncompetitive inhibitor and increasing impact of noncompetitive inhibitor.",
+                "C": "Increasing impact of uncompetitive inhibitor",
+                "D": "No effect"
+            },
+            "Correct Answer": "Increasing impact of uncompetitive inhibitor",
+            "Correct Option": "C"
+        },
+        "id": "2945f3e9-6cc3-4150-9f52-7fdb61d346cc",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Tyler is a high school student who is planning on becoming an engineer. In his calculus II class sophomore year, he receives an F on his first test. Which of the following responses to this event would indicate that Tyler has a higher likelihood of improving in subsequent exams?",
+            "Options": {
+                "A": "He decides that the first test is always harder than the others.",
+                "B": "He says the teacher graded his exam harder because she doesn\u2019t like him.",
+                "C": "He says it was due to some home circumstances that won\u2019t be present during the next exam.",
+                "D": "He critiques his study methods and tries to find out which led to poor returns."
+            },
+            "Correct Answer": "He decides that the first test is always harder than the others.",
+            "Correct Option": "A"
+        },
+        "id": "6719670c-fdc7-467d-ae4a-7a76dfdf64e5",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "In nerve cells, microtubule-associated proteins (MAPs), most notably MAP2 and MAP tau, act to stabilize microtubules. In a mouse model, a mutant is developed that vastly reduced function across all families of MAPs, leading to increased microtubule degradation. Which cellular activity would likely be most affected?",
+            "Options": {
+                "A": "Cardiac muscle contraction",
+                "B": "Transcription of mRNA from DNA",
+                "C": "Krebs cycle",
+                "D": "Meiosis"
+            },
+            "Correct Answer": "Meiosis",
+            "Correct Option": "D"
+        },
+        "id": "2469d017-0a9c-4bf4-b7eb-79ffc425db77",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The trigger to initiate the contractile process in skeletal muscle is:",
+            "Options": {
+                "A": "potassium binding to myosin.",
+                "B": "calcium binding to tropomyosin.",
+                "C": "ATP binding to the myosin cross bridges.",
+                "D": "calcium binding to troponin."
+            },
+            "Correct Answer": "calcium binding to troponin.",
+            "Correct Option": "D"
+        },
+        "id": "6edc19ab-6b91-4b82-bb6d-9a6f75b9ef3b",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The sarcoplasmic reticulum in muscle cells acts as a:",
+            "Options": {
+                "A": "store of digestive enzymes.",
+                "B": "store of sodium ions.",
+                "C": "store of lipid.",
+                "D": "store of calcium ions."
+            },
+            "Correct Answer": "store of calcium ions.",
+            "Correct Option": "D"
+        },
+        "id": "eb56e8ed-14d3-4eb1-82b8-174a82c78268",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Alterations in which neurotransmitters in the brain by pharmacological agents has been shown to influence fatigue development?",
+            "Options": {
+                "A": "Acetyl choline and noradrenaline.",
+                "B": "Dopamine and acetyl choline.",
+                "C": "Glutamate and serotonin.",
+                "D": "Dopamine and serotonin."
+            },
+            "Correct Answer": "Dopamine and serotonin.",
+            "Correct Option": "D"
+        },
+        "id": "01a2a89e-5912-46a7-a755-ce1648fd0d29",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Oxygen is used:",
+            "Options": {
+                "A": "in glycolysis.",
+                "B": "in the conversion of fatty acids to acetyl CoA.",
+                "C": "in the tricarboxylic acid cycle (Krebs' cycle).",
+                "D": "in glycogenolysis."
+            },
+            "Correct Answer": "in the conversion of fatty acids to acetyl CoA.",
+            "Correct Option": "B"
+        },
+        "id": "eff95111-a2e7-4336-b98e-186363a450a5",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Mutations are errors in DNA that:",
+            "Options": {
+                "A": "are always harmful.",
+                "B": "only occur in the presence of carcinogens.",
+                "C": "increase tumour growth.",
+                "D": "occur spontaneously at a low rate."
+            },
+            "Correct Answer": "occur spontaneously at a low rate.",
+            "Correct Option": "D"
+        },
+        "id": "5f6ed3cc-cf38-4506-b754-a8eeb84fa91c",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The enzymes of glycolysis are located in the:",
+            "Options": {
+                "A": "mitochondrion.",
+                "B": "nucleus.",
+                "C": "cytoplasm.",
+                "D": "lysosomes."
+            },
+            "Correct Answer": "cytoplasm.",
+            "Correct Option": "C"
+        },
+        "id": "5224add6-bbd4-4ce9-b743-1c6e8fe3d31d",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Rational choice theory is premised on the concept that actions are chosen based on the benefit to the individual. The three main assumptions of rational theory are completeness, transitivity, and independence of variables. This is most accurately described as what kind of system?",
+            "Options": {
+                "A": "Hierarchical",
+                "B": "Patriarchal",
+                "C": "Matriarchal",
+                "D": "Oligarchic"
+            },
+            "Correct Answer": "Hierarchical",
+            "Correct Option": "A"
+        },
+        "id": "1c0e5b0c-d09e-450e-9944-22c0ad6f4921",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which products of ADP degradation increase in concentration in the blood during multiple sprint sports?",
+            "Options": {
+                "A": "Ammonia, hypoxanthine and uric acid.",
+                "B": "Ammonia, urea and uric acid.",
+                "C": "Ammonia, urea and creatinine.",
+                "D": "Ammonia, urea and creatine."
+            },
+            "Correct Answer": "Ammonia, hypoxanthine and uric acid.",
+            "Correct Option": "A"
+        },
+        "id": "14c1019a-fcbd-4eb7-a2b4-c201dad15f38",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The rate limiting enzyme of glycolysis is:",
+            "Options": {
+                "A": "phosphorylase.",
+                "B": "hexokinase.",
+                "C": "pyruvate dehydrogenase.",
+                "D": "phosphofructokinase."
+            },
+            "Correct Answer": "phosphofructokinase.",
+            "Correct Option": "D"
+        },
+        "id": "06cbd553-ca9d-4a34-8270-ebfb85639aa2",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A fundamental cause of fatigue in high intensity exercise is:",
+            "Options": {
+                "A": "a fall in the cell concentration of ADP.",
+                "B": "inhibition of ATP production.",
+                "C": "failure of the ATP supply to match the demand.",
+                "D": "lack of skill."
+            },
+            "Correct Answer": "failure of the ATP supply to match the demand.",
+            "Correct Option": "C"
+        },
+        "id": "731b964a-59ca-485d-8700-ad6ff145b69b",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The rate of blood lactate accumulation is determined by:",
+            "Options": {
+                "A": "the rate of muscle lactate production and the rate of muscle lactate efflux.",
+                "B": "the rate of anaerobic glycolysis.",
+                "C": "the rate of muscle glucose uptake.",
+                "D": "the difference between the rate of lactate appearance and the rate of lactate clearance."
+            },
+            "Correct Answer": "the difference between the rate of lactate appearance and the rate of lactate clearance.",
+            "Correct Option": "D"
+        },
+        "id": "e1649ea4-1d46-4a1c-8754-28a6663e5ee8",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Type I muscle fibres have the following characteristics:",
+            "Options": {
+                "A": "white, glycolytic, slow contracting.",
+                "B": "white, oxidative, slow contracting.",
+                "C": "red, oxidative, fast contracting.",
+                "D": "red, oxidative, slow contracting."
+            },
+            "Correct Answer": "red, oxidative, slow contracting.",
+            "Correct Option": "D"
+        },
+        "id": "07d7f43d-c633-438d-937a-306ca67abb50",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "If a gas occupies 0.1L at 200atm, what will its volume be at 1atm?",
+            "Options": {
+                "A": "slightly less than 20L",
+                "B": "20L",
+                "C": "slightly more than 20L",
+                "D": "2000L"
+            },
+            "Correct Answer": "slightly less than 20L",
+            "Correct Option": "A"
+        },
+        "id": "295e29d6-b4e7-49da-b2ed-bea11cd90608",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Assuming the circulatory system in humans obeys Bernoulli\u2019s principle of fluid dynamics, which of the statements most accurately compares the blood pressure in a capillary of the neck to a capillary with an equal crosssectional area in the right knee?",
+            "Options": {
+                "A": "The pressure in the neck is greater than the pressure in the knee because of the increase in pressure head",
+                "B": "The pressure in the neck is equal to the pressure in the knee because of the equal dynamic pressure according to the continuity equation",
+                "C": "The pressure in the knee is greater than the pressure in the neck because of the increase in pressure head",
+                "D": "An accurate comparison cannot be given without knowledge of the fluid\u2019s density and viscosity"
+            },
+            "Correct Answer": "The pressure in the knee is greater than the pressure in the neck because of the increase in pressure head",
+            "Correct Option": "C"
+        },
+        "id": "026bc2bb-c9ed-41d5-95de-0748df3a9870",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Sodium bicarbonate ingestion improves middle distance running performance by:",
+            "Options": {
+                "A": "elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.",
+                "B": "reducing the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.",
+                "C": "elevating the pH and buffering capacity of the extracellular fluid allowing a faster influx of hydrogen ions into muscle.",
+                "D": "elevating the pre-exercise muscle pH."
+            },
+            "Correct Answer": "elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.",
+            "Correct Option": "A"
+        },
+        "id": "505abb50-75e0-4e11-ac29-6e7a51954a45",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "An individual presents to the clinic for initial evaluation and establishment of care. The patient was born 46, XY, but identifies as a female. Her preferred pronouns are She/Her. Additionally, she is sexually active with females only. What would describe the gender and orientation of this individual?",
+            "Options": {
+                "A": "Cis-gender, heterosexual",
+                "B": "Transgender, heterosexual",
+                "C": "Cis-gender, homosexual",
+                "D": "Transgender, homosexual"
+            },
+            "Correct Answer": "Transgender, homosexual",
+            "Correct Option": "D"
+        },
+        "id": "fa598943-8eca-440b-81ff-6bbd1a5fbe98",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following can act as an intracellular buffer to limit pH changes when the rate of glycolysis is high?",
+            "Options": {
+                "A": "Glutamine",
+                "B": "Glucose",
+                "C": "Carnosine",
+                "D": "Amylase"
+            },
+            "Correct Answer": "Carnosine",
+            "Correct Option": "C"
+        },
+        "id": "5c78107f-1213-4418-8c1f-8132a988d8f8",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A team of engineers constructing signal lights for airplanes that they can use to guide them to runways are attempting to determine the brightness needed for the pilot to be able to detect the tower at 1 mile away. They set the light to a test brightness and establish communication with an inbound pilot. When the pilot is 1 mile away from the tower, he says he cannot see the light. In terms of Signal Detection Theory, what would this be called?",
+            "Options": {
+                "A": "Hit",
+                "B": "Miss",
+                "C": "False alarm",
+                "D": "Correct rejection"
+            },
+            "Correct Answer": "Miss",
+            "Correct Option": "B"
+        },
+        "id": "0dd527db-a9f4-4aa5-9f42-46c49903217e",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "New York City is home to over 7 million inhabitants from a diverse range of backgrounds. Although the city itself has characteristics, there are several smaller areas, usually congregations of people from the same nationality, who adhere to customs from their prior country of inhabitance. For example, in Little Italy, a small town in the city, it is still customary to greet people with cheek kisses. This is an example of what kind of phenomenon?",
+            "Options": {
+                "A": "Subculture",
+                "B": "Counterculture",
+                "C": "Microculture",
+                "D": "Culture lag"
+            },
+            "Correct Answer": "Subculture",
+            "Correct Option": "A"
+        },
+        "id": "549a2bc8-a78d-487f-88e3-bd6a8f69b855",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Prosthetic groups are:",
+            "Options": {
+                "A": "required by all enzymes in the cell.",
+                "B": "loosely bound to enzymes via hydrogen bonds.",
+                "C": "sites on the enzyme molecule that permit allosteric modification of enzyme activity.",
+                "D": "tightly bound to enzymes and are required for their activity."
+            },
+            "Correct Answer": "tightly bound to enzymes and are required for their activity.",
+            "Correct Option": "D"
+        },
+        "id": "84e0b1cb-77f2-4593-87bb-b50e02da2ae1",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Codons are composed of:",
+            "Options": {
+                "A": "triplet sequences of nucleotide bases in mRNA or DNA .",
+                "B": "quadruplet sequences of nucleotide bases in mRNA or DNA.",
+                "C": "triplet sequences of amino acids in polypeptide chains.",
+                "D": "triplet sequences of deoxyribose sugars in DNA."
+            },
+            "Correct Answer": "triplet sequences of nucleotide bases in mRNA or DNA .",
+            "Correct Option": "A"
+        },
+        "id": "38656b23-e07d-405b-ba98-a8fa47a3196c",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "In games like soccer the blood lactate concentration:",
+            "Options": {
+                "A": "rarely increases above 3 mM.",
+                "B": "is usually lower at the end of the game than at the end of the first half.",
+                "C": "is usually higher at the end of the game than at the end of the first half.",
+                "D": "increases throughout the course of the game as the players become more fatigued."
+            },
+            "Correct Answer": "is usually lower at the end of the game than at the end of the first half.",
+            "Correct Option": "B"
+        },
+        "id": "797ee73e-a953-489a-8095-841ed8963ee6",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "All of the following are true regarding the function of neurons EXCEPT:",
+            "Options": {
+                "A": "Hyperpolarization at the end of an action potential is one mechanism by which neurons limit the rate at which action potentials may fire.",
+                "B": "The flow of sodium into the neuron depolarizes the membrane in the first phase of an action potential.",
+                "C": "The transmitting neuron secretes neurotransmitters into the synaptic cleft from its dendrites.",
+                "D": "An action potential is initiated when the axon hillock reaches the threshold potential."
+            },
+            "Correct Answer": "The transmitting neuron secretes neurotransmitters into the synaptic cleft from its dendrites.",
+            "Correct Option": "C"
+        },
+        "id": "0fb53712-0c4a-4e51-9e45-6099b8ed5179",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following is true?",
+            "Options": {
+                "A": "Increasing the protein intake above 3 grams per kg body mass per day will stimulate muscle growth and increase strength.",
+                "B": "Creatine supplements can increase muscle strength and power.",
+                "C": "Amino acid supplements can increase muscle strength and power.",
+                "D": "Muscle damage is induced by shortening contractions."
+            },
+            "Correct Answer": "Creatine supplements can increase muscle strength and power.",
+            "Correct Option": "B"
+        },
+        "id": "82851286-2952-4b17-847f-dc87d94bde3b",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following statements is false?",
+            "Options": {
+                "A": "Ammonia is produced in repeated high intensity exercise.",
+                "B": "Muscle lactate accumulation does not begin until at least 5 seconds of intermittent muscle contractions have taken place.",
+                "C": "Muscle phosphocreatine depletion begins in the first few seconds of high intensity exercise.",
+                "D": "With an increasing number of repeated sprints the rate of accumulation of lactate in muscle declines."
+            },
+            "Correct Answer": "Muscle lactate accumulation does not begin until at least 5 seconds of intermittent muscle contractions have taken place.",
+            "Correct Option": "B"
+        },
+        "id": "0bcc159b-4feb-48da-8340-bfd50463a900",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The most rapid method to resynthesize ATP during exercise is through:",
+            "Options": {
+                "A": "glycolysis.",
+                "B": "phosphocreatine breakdown.",
+                "C": "tricarboxylic acid cycle (Krebs' cycle).",
+                "D": "glycogenolysis."
+            },
+            "Correct Answer": "phosphocreatine breakdown.",
+            "Correct Option": "B"
+        },
+        "id": "024c9814-5bbd-4135-86a0-d8ab3a07bd9d",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The electron transport chain, which is embedded in the mitochondrial membrane, exists primarily to generate new molecules of ATP for use by the cell. This is accomplished by a positive gradient of H+ ions that are formed outside the membrane which then pass back through a specialized channel known as ATP synthase. The energy created from this phosphorylates an ATP to an ATP, known as oxidative phosphorylation. The mechanism by which H+ returns to the inside of the mitochondria is known as what?",
+            "Options": {
+                "A": "Passive transport",
+                "B": "Passive diffusion",
+                "C": "Active transport",
+                "D": "Endocytosis"
+            },
+            "Correct Answer": "Passive transport",
+            "Correct Option": "A"
+        },
+        "id": "be2cbe25-a876-44d7-bdad-276ad9dd630b",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following molecules will stop being produced first when oxygen is no longer supplied to the cell?",
+            "Options": {
+                "A": "Oxaloacetate",
+                "B": "Pyruvate",
+                "C": "Water",
+                "D": "Adenosine triphosphate"
+            },
+            "Correct Answer": "Water",
+            "Correct Option": "C"
+        },
+        "id": "e0c8b6c2-7b80-4b66-9ea6-32ded9bec748",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "As a result of substance abuse throughout adolescence, a young adult suffers from a number of psychological symptoms reflecting diminished executive functioning. Which of the following are likely true of this patient?\nI. Pathological changes to the prefrontal cortex.\nII. Increased susceptibility to auditory hallucinations.\nIII. Reduced behavioral impulse control.",
+            "Options": {
+                "A": "I only",
+                "B": "III only",
+                "C": "I and III only",
+                "D": "II and III only"
+            },
+            "Correct Answer": "I and III only",
+            "Correct Option": "C"
+        },
+        "id": "e6b3ca68-3aaa-4e2a-8304-4549a8acb95b",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Glycogen breakdown in muscle initially results in the formation of:",
+            "Options": {
+                "A": "glucose.",
+                "B": "glucose-1-phosphate.",
+                "C": "glucose-6-phosphate.",
+                "D": "glucose-1,6-diphosphate."
+            },
+            "Correct Answer": "glucose-1-phosphate.",
+            "Correct Option": "B"
+        },
+        "id": "029af17e-6c10-4649-a98b-a262b0666184",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A wrestler attempting to lose weight for a match in December commits himself to dropping 30lbs over 2 months. Which of the following is NOT a good method to restrict his caloric intake?",
+            "Options": {
+                "A": "Study at a health smoothie store instead of a coffee shop.",
+                "B": "Reward himself with a savory meal every Saturday for meeting his calorie goals.",
+                "C": "Snap himself with a rubber band when he eats a high calorie snack.",
+                "D": "Hide snack food out of sight within his house."
+            },
+            "Correct Answer": "Hide snack food out of sight within his house.",
+            "Correct Option": "D"
+        },
+        "id": "6ed94968-c67e-41ab-9ba8-d67258d1b555",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "In an SDS-PAGE procedure, the SDS serves as a detergent. Why are the proteins treated with a detergent before being run through the electrophoresis gel?",
+            "Options": {
+                "A": "To coat the proteins with a large positive charge, since amino acid side chains may have positive, negative, or neutral charges, and a large uniform charge is necessary to get good separation in the gel.",
+                "B": "To allow the electrophoresis to separate the proteins solely on the basis of the length of the primary sequence.",
+                "C": "To prevent the protein from denaturing so that the electrophoresis can accurately resolve the proteins on the basis of tertiary structure.",
+                "D": "To break the intramolecular bonds holding the tertiary and primary structure of the protein together, thereby generating linear fragments that may be sorted on size."
+            },
+            "Correct Answer": "To allow the electrophoresis to separate the proteins solely on the basis of the length of the primary sequence.",
+            "Correct Option": "B"
+        },
+        "id": "1124d018-7ca5-43dd-96e4-49c7ec0bae76",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "For very high force contractions lasting 1-2 seconds, the initial energy source is from:",
+            "Options": {
+                "A": "Glycolysis.",
+                "B": "creatine phosphorylation.",
+                "C": "phosphocreatine stores.",
+                "D": "ATP stores."
+            },
+            "Correct Answer": "ATP stores.",
+            "Correct Option": "D"
+        },
+        "id": "1249aa63-0021-4210-87da-68e4234fc33b",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following factors does not influence success in sport?",
+            "Options": {
+                "A": "Ability to tolerate heavy training without succumbing to illness or injury.",
+                "B": "Tactics.",
+                "C": "The diet.",
+                "D": "Ingestion of carnitine during exercise."
+            },
+            "Correct Answer": "Ingestion of carnitine during exercise.",
+            "Correct Option": "D"
+        },
+        "id": "cda54451-cdb4-4823-adaf-ff38a70084ed",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The lining of the digestive tract and the respiratory tract develops from which germ layer? I. Endoderm II. Mesoderm III. Ectoderm",
+            "Options": {
+                "A": "I only",
+                "B": "II only",
+                "C": "III only",
+                "D": "I and II"
+            },
+            "Correct Answer": "I only",
+            "Correct Option": "A"
+        },
+        "id": "6eb77ebe-d6c1-425e-8ff8-29f1e9e4a079",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A transmembrane protein being isolated in the laboratory is found to be composed of four different amino acids in varying quantity. They are, in order of frequency, glycine, tyrosine, arginine, and isoleucine. Of these amino acids, which is most likely to be inside the transmembrane domain?",
+            "Options": {
+                "A": "Glycine",
+                "B": "Tyrosine",
+                "C": "Arginine",
+                "D": "Isoleucine"
+            },
+            "Correct Answer": "Isoleucine",
+            "Correct Option": "D"
+        },
+        "id": "aafae5a2-b0c3-4dc8-9637-6abdefb502c3",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following nucleotide bases is not found in RNA?",
+            "Options": {
+                "A": "Thymine",
+                "B": "Adenine",
+                "C": "Uracil",
+                "D": "Guanine"
+            },
+            "Correct Answer": "Thymine",
+            "Correct Option": "A"
+        },
+        "id": "f0708b93-56ff-466c-af15-486ed7bcf63f",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Fast-twitch fibres contain:",
+            "Options": {
+                "A": "a relatively large number of mitochondria and low ATPase activity.",
+                "B": "a relatively small number of mitochondria and low ATPase activity.",
+                "C": "a relatively small number of mitochondria and high ATPase activity.",
+                "D": "a relatively large number of mitochondria and high ATPase activity."
+            },
+            "Correct Answer": "a relatively small number of mitochondria and high ATPase activity.",
+            "Correct Option": "C"
+        },
+        "id": "3b18aa0e-abd6-4c72-be66-a49ccecf7e61",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of:",
+            "Options": {
+                "A": "six molecules of water.",
+                "B": "two molecules of ATP.",
+                "C": "three molecules of ATP.",
+                "D": "thirty-eight molecules of ATP."
+            },
+            "Correct Answer": "two molecules of ATP.",
+            "Correct Option": "B"
+        },
+        "id": "c8368759-9d22-4925-a708-a3660d59da60",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Acute Myeloid Leukemia is a malignant cancer in which myeloid progenitor cells become rapidly dividing and retain their semi-stem cell state. Under normal circumstances, which of the following cell types would arise from this stem cell?",
+            "Options": {
+                "A": "NK cell",
+                "B": "Platelet",
+                "C": "T cell",
+                "D": "Lymphoid progenitor"
+            },
+            "Correct Answer": "Platelet",
+            "Correct Option": "B"
+        },
+        "id": "09e0a233-eddf-44fd-b5d1-cec932a239f9",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Lactate and hydrogen ions leave the muscle:",
+            "Options": {
+                "A": "via a cotransport mechanism with carnosine.",
+                "B": "via an active transport mechanism.",
+                "C": "via a protein transporter molecule.",
+                "D": "by simple diffusion."
+            },
+            "Correct Answer": "via a protein transporter molecule.",
+            "Correct Option": "C"
+        },
+        "id": "09a4ee7e-159c-4897-8e19-d968790a77cb",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "There are five stages of mitosis that must be carried out correctly for a cell to properly divide. Match the stage of mitosis with its proper component:\nProphase \u2014 Dissolution of nucleoli",
+            "Options": {
+                "A": "Metaphase \u2014 Formation of two distinct nuclear membranes",
+                "B": "Cytokinesis \u2014 Separation of sister chromatids to their respective poles",
+                "C": "Telophase \u2014 Formation of the equatorial plate",
+                "D": "Anaphase \u2014 Separation of the cytoplasm and organelles"
+            },
+            "Correct Answer": "Metaphase \u2014 Formation of two distinct nuclear membranes",
+            "Correct Option": "A"
+        },
+        "id": "ca6b0107-1327-4698-9470-db01b00726e5",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A study examined admissions to exceptionally selective colleges. When examining the correlates of admission acceptance, two obvious factors that strongly correlated with admissions were GPA and standardized test scores, with correlation values of +0.41 and +0.55 respectively. However, the study also demonstrated that those students who had social networks that overlapped with the alumni networks of the selective colleges were even more likely to be admitted, with a correlation between social network and alumni network of +0.61. This correlation demonstrates:",
+            "Options": {
+                "A": "the value of cultural capital.",
+                "B": "a meritocracy. ",
+                "C": "he value of social capital.",
+                "D": "a false association."
+            },
+            "Correct Answer": "he value of social capital.",
+            "Correct Option": "C"
+        },
+        "id": "fa9c1442-4682-4f81-8ba1-545236b3b4a8",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A patient comes into the hospital after being bit by a dog who he stated was \u201cacting crazy\u201d. The wound is open and bleeding. Animal control captured the dog and said that it was foaming at the mouth and extremely aggressive. Suspecting a rabies infection, the patient is given a serum that contains rabies antibodies that were grown inside a horse. This is an example of what kind of immunity?",
+            "Options": {
+                "A": "Passive",
+                "B": "Active",
+                "C": "Natural",
+                "D": "Artificial"
+            },
+            "Correct Answer": "Passive",
+            "Correct Option": "A"
+        },
+        "id": "c37932b7-7abd-4520-a949-c9b82926b47d",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The World Systems Theory divides the world as a unit into three subcategories: core countries, periphery countries, and semi-periphery countries. Which of the following answers correlates best with semi-periphery countries?",
+            "Options": {
+                "A": "Strong central government.",
+                "B": "An economy centralized around one natural resource.",
+                "C": "A diversified and developed economy.",
+                "D": "Small percentage of very high class individuals."
+            },
+            "Correct Answer": "A diversified and developed economy.",
+            "Correct Option": "C"
+        },
+        "id": "d0ffeae7-b184-4e88-9b42-3d0aa8e0ad62",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Kinase reactions:",
+            "Options": {
+                "A": "inhibit ATP breakdown.",
+                "B": "involve the addition or removal of a phosphate group.",
+                "C": "involve the addition or removal of a ketone group.",
+                "D": "involve the addition or removal of an amino acid to a polypeptide chain."
+            },
+            "Correct Answer": "involve the addition or removal of a phosphate group.",
+            "Correct Option": "B"
+        },
+        "id": "ed9f7753-3b6c-4a59-bef8-1fbf3d01046d",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The main fate of lactate that leaves muscle and enters the circulation is:",
+            "Options": {
+                "A": "conversion to urea in the liver.",
+                "B": "conversion to glucose in the heart.",
+                "C": "excretion via the kidneys.",
+                "D": "uptake and oxidation by other tissues."
+            },
+            "Correct Answer": "uptake and oxidation by other tissues.",
+            "Correct Option": "D"
+        },
+        "id": "400095a9-f011-4d34-8024-29043d50e32a",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The ATP store in muscle can only supply energy in high intensity exercise for about:",
+            "Options": {
+                "A": "2 milliseconds.",
+                "B": "2 seconds.",
+                "C": "10 seconds.",
+                "D": "20 seconds."
+            },
+            "Correct Answer": "2 seconds.",
+            "Correct Option": "B"
+        },
+        "id": "1615b549-d682-4b3f-8ff8-b3842d543d96",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Glycogen breakdown in exercising muscle is activated by:",
+            "Options": {
+                "A": "insulin.",
+                "B": "cortisol.",
+                "C": "increased pH.",
+                "D": "none of the above."
+            },
+            "Correct Answer": "none of the above.",
+            "Correct Option": "D"
+        },
+        "id": "2b10dcf5-e821-4238-b3a3-3280a6539659",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "According to attachment theory, which of the following children is most likely to attach to a male psychologist, previously unknown to the child, in the course of a psychological study?",
+            "Options": {
+                "A": "A two month old female infant raised in a safe, stable environment",
+                "B": "A five month old male infant raised in a safe, stable environment",
+                "C": "An eight month old male infant raised by a single caregiver who frequently neglect the child",
+                "D": "A thirteen month old female infant raised by two caregivers who occasionally neglect the child"
+            },
+            "Correct Answer": "A two month old female infant raised in a safe, stable environment",
+            "Correct Option": "A"
+        },
+        "id": "9e5b8334-d398-40d9-977e-39ffbb84f5fb",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Creatine is synthesized from:",
+            "Options": {
+                "A": "amino acids in the muscles.",
+                "B": "amino acids in the liver.",
+                "C": "amino acids in the kidneys.",
+                "D": "creatinine in the kidneys."
+            },
+            "Correct Answer": "amino acids in the liver.",
+            "Correct Option": "B"
+        },
+        "id": "d3322004-ac1a-4924-a0a6-38fc5ab1b26f",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The hypothalamus controls the stress response of the body by releasing CRF, which leads to eventual release of cortisol, the body\u2019s stress hormone, systemically. This trigger is eventually suppressed by which mechanism?",
+            "Options": {
+                "A": "Constriction of blood flow to the adrenal gland.",
+                "B": "Exhaustion of the body\u2019s store of CRF.",
+                "C": "Negative feedback loop of cortisol.",
+                "D": "Release of CRF-inhibitory factor."
+            },
+            "Correct Answer": "Negative feedback loop of cortisol.",
+            "Correct Option": "C"
+        },
+        "id": "1ee7fcb4-3a3a-412f-9815-837c37ad424f",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A local politician starts a task force to reduce prejudice and hate crimes, and the task force provides recommendations for increased access to education, paid community improvement projects open to people from different, possibly conflicted, groups, and stricter anti-hate ordinances to be passed at the local level. These recommendations are based on:\nI. Self-esteem hypothesis\nII. Contact hypothesis\nIII. Hypothesis\nIV. Legal hypothesis",
+            "Options": {
+                "A": "I, II, and III",
+                "B": "II, III, and IV",
+                "C": "I, III, and IV",
+                "D": "I, II, and IV"
+            },
+            "Correct Answer": "I, II, and IV",
+            "Correct Option": "D"
+        },
+        "id": "690e7d08-877d-48d6-ab42-24bbc945a9d3",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The energy for all forms of muscle contraction is provided by:",
+            "Options": {
+                "A": "ATP.",
+                "B": "ADP.",
+                "C": "phosphocreatine.",
+                "D": "oxidative phosphorylation."
+            },
+            "Correct Answer": "ATP.",
+            "Correct Option": "A"
+        },
+        "id": "776b6b66-a8d7-4b30-89cb-0904e0bcbb94",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "How can several different proteins be produced from the same gene?",
+            "Options": {
+                "A": "By selective transcription of different parts of the DNA in the gene.",
+                "B": "By doubling or tripling the length of the mRNA molecule produced from the primary transcript.",
+                "C": "The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",
+                "D": "By splicing of the mRNA molecule after it has been formed from the primary transcript."
+            },
+            "Correct Answer": "The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",
+            "Correct Option": "C"
+        },
+        "id": "f5d55ef5-bc7e-43bb-9053-76092386f484",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Phosphocreatine in the muscle cell is found in:",
+            "Options": {
+                "A": "the mitochondria.",
+                "B": "all subcellular compartments.",
+                "C": "the sarcolemma.",
+                "D": "the cytoplasm."
+            },
+            "Correct Answer": "the cytoplasm.",
+            "Correct Option": "D"
+        },
+        "id": "94515efc-8788-4509-b729-ace351dfa0ca",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "A scientist using mouse models to determine the response of blood hormones to large levels of glucose in the body discovers a new hormone not previously described. According to his data, this hormone is found both inside and out of cells when carrying out its function, increase the amount of nucleic acid in the cell while functioning, and are derived from a structure containing four hydroxycarbon rings. This will likely be categorized as which type of hormone?",
+            "Options": {
+                "A": "Enzymatic",
+                "B": "Steroid",
+                "C": "Peptide",
+                "D": "Amino acid"
+            },
+            "Correct Answer": "Steroid",
+            "Correct Option": "B"
+        },
+        "id": "93e7560d-c2b2-4ed7-a77b-1384c438b3de",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The coding sequences of genes are called:",
+            "Options": {
+                "A": "extrons.",
+                "B": "exons.",
+                "C": "introns.",
+                "D": "codons."
+            },
+            "Correct Answer": "exons.",
+            "Correct Option": "B"
+        },
+        "id": "1466425f-0849-4a04-b185-e0d7b04297c9",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Each of the following is an example of the transmission of knowledge through symbolic culture EXCEPT:\nI. A young macaque monkey learning to rinse off food in the ocean from an older monkey, even when the food is not covered in dirt or sand.\nII. A child learning the rules of baseball from a parent.\nIII. A new group of inductees in a military organization experiencing hazing rituals from older students, which they then later carry out on new recruits.",
+            "Options": {
+                "A": "I only",
+                "B": "III only",
+                "C": "I and III only",
+                "D": "II and III only"
+            },
+            "Correct Answer": "I only",
+            "Correct Option": "A"
+        },
+        "id": "d51a79d8-0dfb-4b61-9fb1-b5ca06abeb47",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "One of the many reasons that the eukaryotic cell can possess so much information in its DNA is the ability to condense coding regions when they are not being expressed. When acting on DNA, which of the following processes will usually lead to a decrease in gene expression?",
+            "Options": {
+                "A": "Increased histone acetyltransferase activity",
+                "B": "Decrease in histone deacetyltransferase activity",
+                "C": "Increase in methylation activity",
+                "D": "Increase in heterochromatin:euchromatin ratio"
+            },
+            "Correct Answer": "Increase in methylation activity",
+            "Correct Option": "C"
+        },
+        "id": "20dabdc2-6073-47db-9fe8-96eae71220d6",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Anaerobic metabolism refers to the generation of ATP:",
+            "Options": {
+                "A": "without the involvement of ADP.",
+                "B": "without the use of glycogen.",
+                "C": "without the use of oxygen.",
+                "D": "in the absence of available oxygen."
+            },
+            "Correct Answer": "without the use of oxygen.",
+            "Correct Option": "C"
+        },
+        "id": "8584ce9a-273c-45b9-ace6-f41319380e5e",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following molecules does not form part of DNA?",
+            "Options": {
+                "A": "Purine",
+                "B": "Pyrimidine",
+                "C": "Deoxyribose",
+                "D": "Amino acid"
+            },
+            "Correct Answer": "Amino acid",
+            "Correct Option": "D"
+        },
+        "id": "f9e8fac9-24df-4c85-a39b-3cea185956f0",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "How many electrons does gold (Au) possess that have a quantum number l = 2?",
+            "Options": {
+                "A": "9",
+                "B": "23",
+                "C": "29",
+                "D": "79"
+            },
+            "Correct Answer": "29",
+            "Correct Option": "C"
+        },
+        "id": "74b45787-1cbe-4ef1-87b1-601391309e25",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Sauna use, sometimes referred to as \"sauna bathing,\" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia \u2013 an increase in the body's core temperature \u2013 that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors\u2026 In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease\u2026 The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits \u2013 and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week\u2026 The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)\u2026Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40\u00b0C (104\u00b0F), and then changes in core body temperature occur, rising slowly from 37\u00b0C (98.6\u00b0F, or normal) to 38\u00b0C (100.4\u00b0F) and then rapidly increasing to 39\u00b0C (102.2\u00b0F)\u2026  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance\u2026 Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors\u2026 The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]\n\nAccording to the article, which of the following is NOT a benefit of sauna use?",
+            "Options": {
+                "A": "Decreased risk of heart attacks.",
+                "B": "Increase in stroke volume.",
+                "C": "Improved mental health.",
+                "D": "Decreased rate of erectile dysfunction."
+            },
+            "Correct Answer": "Decreased rate of erectile dysfunction.",
+            "Correct Option": "D"
+        },
+        "id": "e8e07278-41ec-4ac0-b8ea-2db2e8d421c2",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "With an increasing number of sprints the:",
+            "Options": {
+                "A": "anaerobic contribution progressively increases.",
+                "B": "pH of the muscle falls below 6.0.",
+                "C": "blood glucose concentration falls below 3 mmol/L.",
+                "D": "relative contribution of aerobic metabolism increases."
+            },
+            "Correct Answer": "relative contribution of aerobic metabolism increases.",
+            "Correct Option": "D"
+        },
+        "id": "edc0c927-5199-4c93-8577-9b0e4b31b73f",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Fire hoses always have a nozzle on the end of the hose, which in part works by decreasing the area of the water exiting the fire hydrant to create a more forceful stream. If the starting velocity of water from a fire hydrant is 2 m/s, pressure is kept constant, and the end of the nozzle is 1/3 the area of the start of the hose, what is the final velocity of water as it exits?",
+            "Options": {
+                "A": "2 m/s",
+                "B": "8 m/s",
+                "C": "5 m/s",
+                "D": "6 m/s"
+            },
+            "Correct Answer": "6 m/s",
+            "Correct Option": "D"
+        },
+        "id": "fb028a42-334d-4c45-8f77-49ac501c1aa5",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Pairs of electrons carried in the form, FADH2 and NADH+H, collectively contain enough free energy to rephosphorylate:",
+            "Options": {
+                "A": "6 ATP.",
+                "B": "5 ATP.",
+                "C": "4 ATP.",
+                "D": "3 ATP."
+            },
+            "Correct Answer": "5 ATP.",
+            "Correct Option": "B"
+        },
+        "id": "0a4b7765-8f0f-440d-b5af-5ae8e1ef7a01",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The energy released from the breakdown of the high-energy phosphates, ATP and phosphocreatine, can sustain maximal exertion exercise for about:",
+            "Options": {
+                "A": "1-2 seconds.",
+                "B": "5-10 seconds.",
+                "C": "30-40 seconds.",
+                "D": "50-60 seconds."
+            },
+            "Correct Answer": "5-10 seconds.",
+            "Correct Option": "B"
+        },
+        "id": "933d4bb1-1501-4cde-b600-9c69da3c2ed8",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The sex of a child is dictated by the inheritance of:",
+            "Options": {
+                "A": "the number of X chromosomes from the mother.",
+                "B": "a recessive allele on the X chromosome.",
+                "C": "a single Y chromosome from the mother.",
+                "D": "a single Y chromosome from the father."
+            },
+            "Correct Answer": "a single Y chromosome from the father.",
+            "Correct Option": "D"
+        },
+        "id": "f37566be-561a-4254-8b2c-f5716ac99fb3",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise:",
+            "Options": {
+                "A": "frequently rises by 1 - 3 mM.",
+                "B": "remains relatively unchanged.",
+                "C": "frequently falls by 1 - 3 mM.",
+                "D": "falls to hypoglycaemic levels."
+            },
+            "Correct Answer": "frequently rises by 1 - 3 mM.",
+            "Correct Option": "A"
+        },
+        "id": "e3690a3d-d0aa-41fa-991f-47348f2c4606",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "During DNA replication, mistakes are coded into the leading strand about once every 100,000/1 million copies. This DNA is subject to proofreading by several mechanisms. If a mistake is noted and the incorrect base is removed shortly following the time RNA primer is removed, this would most likely be the work of which repair mechanism?",
+            "Options": {
+                "A": "DNA polymerase I",
+                "B": "DNA polymerase III",
+                "C": "Mismatch repair mechanism",
+                "D": "Endonuclease repair"
+            },
+            "Correct Answer": "DNA polymerase I",
+            "Correct Option": "A"
+        },
+        "id": "98d6db48-fea0-4323-a8f4-e6883d208188",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Which of the following statements is false?",
+            "Options": {
+                "A": "Phosphofructokinase is the rate limiting enzyme in glycolysis.",
+                "B": "Phosphorylase activity is higher in Type II fibres than in Type I fibres.",
+                "C": "Endurance training increases the amount of TCA cycle enzymes in muscle.",
+                "D": "Oxygen is consumed in the TCA cycle."
+            },
+            "Correct Answer": "Oxygen is consumed in the TCA cycle.",
+            "Correct Option": "D"
+        },
+        "id": "80e90fe6-7d83-42a6-b888-b93d8c75b169",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "Each of the following are aspects of the McDonaldization of Society EXCEPT:",
+            "Options": {
+                "A": "Rationalization of decisions into cost/benefit analysis structures and away from traditional modes of thinking",
+                "B": "Bureaucratic organization that formalizes well-establish division of labor and impersonal structures",
+                "C": "A dissolution of hierarchical modes of authority into collaborative teambased decision protocols",
+                "D": "An intense effort on achieving sameness across diverse markets"
+            },
+            "Correct Answer": "A dissolution of hierarchical modes of authority into collaborative teambased decision protocols",
+            "Correct Option": "C"
+        },
+        "id": "debe00b4-0912-4422-86b9-f43a3910a1ee",
+        "dataset_name": "mmlu_college_medicine.csv"
+    },
+    {
+        "data": {
+            "Question": "The descending loop of Henle of the nephron of the kidney is permeable to which of the following substances?",
+            "Options": {
+                "A": "Na+",
+                "B": "H2O",
+                "C": "K+",
+                "D": "Cl-"
+            },
+            "Correct Answer": "H2O",
+            "Correct Option": "B"
+        },
+        "id": "2bfcc721-dff8-418c-af1c-947d3a47c761",
+        "dataset_name": "mmlu_college_medicine.csv"
+    }
+]
